@@ -7,6 +7,8 @@ on:
 
 jobs:
   update-sub:
+    permissions:
+      contents: write
     runs-on: ubuntu-latest
     
     steps:
@@ -16,12 +18,9 @@ jobs:
     - name: Download Data (Robust)
       run: |
         echo "Downloading Data..."
-        # Use User-Agent to avoid 403 blocks from WP security plugins
-        # Use -k to ignore SSL cert errors if any
         curl -k -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64)" -L "https://90900090.ir/wp-admin/admin-ajax.php?action=export_healthy_servers&format=subscription" -o sub_raw.txt
         curl -k -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64)" -L "https://90900090.ir/wp-admin/admin-ajax.php?action=export_healthy_servers&format=json" -o servers_raw.json
         
-        # Verify download
         if [ ! -s sub_raw.txt ]; then
           echo "Error: sub_raw.txt is empty!"
           exit 1
@@ -35,7 +34,6 @@ jobs:
         import os
         import urllib.parse
         
-        # Branding Configuration
         BRAND_NAME = "خرید سرویس پرسرعت وی تو ری @tron_vpnbot"
         BRAND_NAME_ENCODED = urllib.parse.quote(BRAND_NAME)
         
@@ -44,7 +42,6 @@ jobs:
                 return config.rsplit('#', 1)[0] + '#' + new_name
             return config + '#' + new_name
 
-        print("Processing JSON...")
         try:
             with open('servers_raw.json', 'r', encoding='utf-8') as f:
                 content = f.read()
@@ -59,29 +56,21 @@ jobs:
                     if flag_match:
                         flag = flag_match.group(0) + " "
                     
-                    # Rename Name (For Website Display)
+                    # Rename
                     server['name'] = f"{flag}{BRAND_NAME} #{i+1}"
-                    
-                    # Rename Config Remark (For Copy Button)
                     server['config_data'] = rename_config(server['config_data'], f"{BRAND_NAME_ENCODED}_{i+1}")
             
             with open('servers.json', 'w', encoding='utf-8') as f:
                 json.dump(data, f, ensure_ascii=False, indent=2)
-            print("JSON Processed.")
         except Exception as e:
             print(f"JSON Error: {e}")
-            # If JSON download failed, maybe just keep old one or copy raw? 
-            # Let's try to copy raw if valid json, otherwise skip
             pass
 
-        print("Processing Subscription...")
-        # Since user said original sub remarks are correct, we just copy sub_raw.txt to sub.txt
         try:
             with open('sub_raw.txt', 'r', encoding='utf-8') as f:
                  data = f.read()
             with open('sub.txt', 'w', encoding='utf-8') as f:
                  f.write(data)
-            print("Sub Copied.")
         except:
             print("Sub Error")
 
@@ -89,13 +78,17 @@ jobs:
       run: |
         git config --global user.name "GitHub Action"
         git config --global user.email "action@github.com"
-        
-        # Add the processed files
         git add sub.txt servers.json
-        
         if [[ -n $(git status -s) ]]; then
           git commit -m "Auto-update data: $(date)"
           git push
         else
           echo "No changes."
         fi
+        
+    - name: Purge jsDelivr Cache
+      run: |
+        echo "Purging Cache..."
+        curl -s https://purge.jsdelivr.net/gh/sartcavin-spec/turbo_vpn@main/sub.txt
+        curl -s https://purge.jsdelivr.net/gh/sartcavin-spec/turbo_vpn@main/servers.json
+        echo "Cache Purge Signal Sent."
