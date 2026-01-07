@@ -1,0 +1,34 @@
+name: Update Subscription Mirror
+
+on:
+  schedule:
+    - cron: '*/15 * * * *' # اجرا هر ۱۵ دقیقه یکبار
+  workflow_dispatch: # قابلیت اجرای دستی با دکمه
+
+jobs:
+  update-sub:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout Repository
+      uses: actions/checkout@v3
+
+    - name: Download Subscription Data
+      run: |
+        # دانلود فایل و ذخیره با نام sub.txt
+        # نکته: اگر سرورتان IP های گیت هاب را مسدود کرده باشد، ممکن است نیاز به پروکسی باشد
+        curl -L "https://90900090.ir/wp-admin/admin-ajax.php?action=export_healthy_servers&format=subscription" -o sub.txt
+
+    - name: Commit and Push Changes
+      run: |
+        git config --global user.name "GitHub Action"
+        git config --global user.email "action@github.com"
+        
+        # بررسی تغییرات
+        if [[ -n $(git status -s) ]]; then
+          git add sub.txt
+          git commit -m "Auto-update subscription: $(date)"
+          git push
+        else
+          echo "No changes in subscription data."
+        fi
