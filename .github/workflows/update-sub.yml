@@ -2,8 +2,8 @@ name: Update Subscription Mirror
 
 on:
   schedule:
-    - cron: '*/15 * * * *' # Run every 15 minutes
-  workflow_dispatch: # Allow manual run
+    - cron: '*/15 * * * *'
+  workflow_dispatch:
 
 jobs:
   update-sub:
@@ -13,21 +13,20 @@ jobs:
     - name: Checkout Repository
       uses: actions/checkout@v3
 
-    - name: Download Subscription Data
+    - name: Download Data
       run: |
-        # Download from your WordPress site
         curl -L "https://90900090.ir/wp-admin/admin-ajax.php?action=export_healthy_servers&format=subscription" -o sub.txt
+        curl -L "https://90900090.ir/wp-admin/admin-ajax.php?action=export_healthy_servers&format=json" -o servers.json
 
-    - name: Commit and Push Changes
+    - name: Commit and Push
       run: |
         git config --global user.name "GitHub Action"
         git config --global user.email "action@github.com"
         
-        # Check for changes
         if [[ -n $(git status -s) ]]; then
-          git add sub.txt
-          git commit -m "Auto-update subscription: $(date)"
+          git add sub.txt servers.json
+          git commit -m "Auto-update data: $(date)"
           git push
         else
-          echo "No changes in subscription data."
+          echo "No changes."
         fi
