@@ -103,7 +103,7 @@
                     <div class="flex-1 min-w-0">
                         <h3 class="text-white font-bold text-lg mb-1">لینک اشتراک هوشمند</h3>
                         <p class="text-slate-400 text-xs truncate dir-ltr font-mono bg-black/20 p-1.5 rounded-lg border border-white/5">
-                            https://cdn.jsdelivr.net/gh/sartcavin-spec/turbo_vpn@main/sub.txt
+                            https://raw.githubusercontent.com/sartcavin-spec/turbo_vpn/main/sub.txt
                         </p>
                     </div>
                 </div>
@@ -246,7 +246,7 @@
             methods: {
                 async fetchData() {
                     try {
-                        const res = await fetch('https://cdn.jsdelivr.net/gh/sartcavin-spec/turbo_vpn@main/servers.json');
+                        const res = await fetch('https://raw.githubusercontent.com/sartcavin-spec/turbo_vpn/main/servers.json');
                         if (!res.ok) throw new Error('Fetch failed');
                         const data = await res.json();
                         this.servers = data.servers || [];
@@ -293,7 +293,7 @@
                     return 'ping-high';
                 },
                 copySub() {
-                    navigator.clipboard.writeText('https://cdn.jsdelivr.net/gh/sartcavin-spec/turbo_vpn@main/sub.txt');
+                    navigator.clipboard.writeText('https://raw.githubusercontent.com/sartcavin-spec/turbo_vpn/main/sub.txt');
                     Swal.fire({
                         icon: 'success',
                         title: 'کپی شد!',
