@@ -3,187 +3,227 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Turbo VPN - اتصال هوشمند</title>
+    <title>Turbo VPN - لیست سرورها</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
     <script src="https://cdn.rawgit.com/davidshimjs/qrcodejs/gh-pages/qrcode.min.js"></script>
+    <script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
     <link href="https://fonts.googleapis.com/css2?family=Vazirmatn:wght@300;400;700;900&display=swap" rel="stylesheet">
     <script>
         tailwind.config = {
             theme: {
                 extend: {
-                    fontFamily: {
-                        sans: ['Vazirmatn', 'sans-serif'],
-                    },
-                    colors: {
-                        brand: {
-                            dark: '#0f172a',
-                            purple: '#7c3aed',
-                            pink: '#db2777',
-                            surface: '#1e293b'
-                        }
-                    },
-                    animation: {
-                        'blob': 'blob 7s infinite',
-                        'fade-in': 'fadeIn 0.5s ease-out forwards',
-                    },
-                    keyframes: {
-                        blob: {
-                            '0%': { transform: 'translate(0px, 0px) scale(1)' },
-                            '33%': { transform: 'translate(30px, -50px) scale(1.1)' },
-                            '66%': { transform: 'translate(-20px, 20px) scale(0.9)' },
-                            '100%': { transform: 'translate(0px, 0px) scale(1)' },
-                        },
-                        fadeIn: {
-                            '0%': { opacity: '0', transform: 'translateY(10px)' },
-                            '100%': { opacity: '1', transform: 'translateY(0)' },
-                        }
-                    }
+                    fontFamily: { sans: ['Vazirmatn', 'sans-serif'] },
+                    colors: { brand: { dark: '#0f172a', purple: '#7c3aed', pink: '#db2777' } }
                 }
             }
         }
     </script>
     <style>
-        body {
-            background-color: #0f172a;
-            color: white;
-            overflow-x: hidden;
-        }
-        .glass {
-            background: rgba(30, 41, 59, 0.7);
-            backdrop-filter: blur(10px);
-            -webkit-backdrop-filter: blur(10px);
-            border: 1px solid rgba(255, 255, 255, 0.1);
-        }
-        .gradient-text {
-            background: linear-gradient(to right, #c084fc, #ec4899);
-            -webkit-background-clip: text;
-            -webkit-text-fill-color: transparent;
-        }
-        .blob {
-            position: absolute;
-            filter: blur(40px);
-            z-index: -1;
-            opacity: 0.4;
-        }
+        body { background-color: #0f172a; color: white; }
+        .glass { background: rgba(30, 41, 59, 0.7); backdrop-filter: blur(10px); -webkit-backdrop-filter: blur(10px); border: 1px solid rgba(255, 255, 255, 0.1); }
+        .modal-glass { background: rgba(15, 23, 42, 0.95); backdrop-filter: blur(20px); }
+        /* Scrollbar */
+        ::-webkit-scrollbar { width: 8px; }
+        ::-webkit-scrollbar-track { background: #0f172a; }
+        ::-webkit-scrollbar-thumb { background: #334155; border-radius: 4px; }
+        ::-webkit-scrollbar-thumb:hover { background: #475569; }
     </style>
 </head>
-<body class="min-h-screen flex flex-col items-center justify-center p-4 relative overflow-hidden">
-
-    <!-- Background Blobs -->
-    <div class="blob bg-purple-500 w-64 h-64 rounded-full top-0 left-0 mix-blend-multiply animate-blob"></div>
-    <div class="blob bg-pink-500 w-64 h-64 rounded-full top-0 right-0 mix-blend-multiply animate-blob animation-delay-2000"></div>
-    <div class="blob bg-blue-500 w-64 h-64 rounded-full bottom-0 left-10 mix-blend-multiply animate-blob animation-delay-4000"></div>
-
-    <main class="w-full max-w-md space-y-6 z-10">
+<body class="min-h-screen pb-10">
+    <div id="app" class="max-w-4xl mx-auto p-4 space-y-8">
         
         <!-- Header -->
-        <div class="text-center space-y-2 animate-fade-in">
+        <header class="text-center space-y-4 pt-10">
             <div class="inline-block p-4 rounded-full glass mb-2 shadow-lg shadow-purple-500/20">
                 <i class="fas fa-rocket text-4xl text-transparent bg-clip-text bg-gradient-to-r from-purple-400 to-pink-500"></i>
             </div>
-            <h1 class="text-4xl font-black tracking-tight gradient-text drop-shadow-lg">Turbo VPN</h1>
-            <p class="text-slate-400 text-sm font-medium">اتصال امن، سریع و پایداری که انتظارش را داشتید</p>
-        </div>
-
-        <!-- Subscription Card -->
-        <div class="glass rounded-2xl p-6 space-y-6 shadow-2xl shadow-black/20 animate-fade-in border-t border-white/10" style="animation-delay: 0.1s;">
-            <div class="space-y-2">
-                <label class="text-xs font-bold text-slate-300 flex items-center gap-2 uppercase tracking-wide">
-                    <i class="fas fa-link text-pink-500"></i>
-                    لینک اشتراک هوشمند
-                </label>
-                <div class="relative group">
-                    <div class="absolute inset-y-0 left-0 flex items-center pl-3 pointer-events-none">
-                       <span class="flex h-2.5 w-2.5 relative">
-                          <span class="animate-ping absolute inline-flex h-full w-full rounded-full bg-green-400 opacity-75"></span>
-                          <span class="relative inline-flex rounded-full h-2.5 w-2.5 bg-green-500"></span>
-                        </span>
-                    </div>
-                    <input type="text" id="subLink" value="https://cdn.jsdelivr.net/gh/sartcavin-spec/turbo_vpn@main/sub.txt" readonly 
-                           class="w-full bg-slate-900/60 border border-slate-700 text-slate-200 text-xs rounded-xl focus:ring-2 focus:ring-pink-500/50 focus:border-pink-500 focus:outline-none block w-full pl-8 pr-4 py-4 font-mono transition-all text-left dir-ltr truncate">
-                    <button onclick="copyLink()" class="absolute inset-y-1 right-1 flex items-center">
-                        <div class="bg-slate-700 hover:bg-pink-600 text-white p-2 rounded-lg transition-all cursor-pointer shadow-md">
-                            <i class="fas fa-copy"></i>
-                        </div>
-                    </button>
-                </div>
-                <p id="copyMsg" class="text-xs text-green-400 h-4 text-center opacity-0 transition-opacity font-bold">کپی شد! ✅</p>
-            </div>
-
-            <!-- QR Code -->
-            <div class="flex justify-center -mt-2">
-                <div class="p-3 bg-white rounded-xl shadow-inner border-4 border-white/5">
-                    <div id="qrcode"></div>
-                </div>
-            </div>
+            <h1 class="text-4xl font-black tracking-tight text-white drop-shadow-lg">Turbo VPN</h1>
             
-            <div class="text-center">
-                <button onclick="copyLink()" class="w-full bg-gradient-to-r from-purple-600 to-pink-600 hover:from-purple-500 hover:to-pink-500 text-white font-bold py-3.5 px-4 rounded-xl shadow-lg shadow-purple-900/40 transform transition hover:-translate-y-1 active:translate-y-0">
-                    <i class="fas fa-magic mr-2 animate-pulse"></i>
-                    کپی لینک اشتراک
+            <!-- Overall Sub Link -->
+            <div class="glass rounded-xl p-4 max-w-xl mx-auto flex items-center gap-2">
+                <input type="text" value="https://cdn.jsdelivr.net/gh/sartcavin-spec/turbo_vpn@main/sub.txt" readonly class="bg-transparent border-none text-slate-300 text-xs w-full focus:outline-none dir-ltr font-mono" onclick="this.select()">
+                <button @click="copyText('https://cdn.jsdelivr.net/gh/sartcavin-spec/turbo_vpn@main/sub.txt')" class="text-pink-500 hover:text-pink-400"><i class="fas fa-copy text-xl"></i></button>
+            </div>
+        </header>
+
+        <!-- Controls -->
+        <div class="glass rounded-2xl p-4 flex flex-col md:flex-row gap-4 items-center justify-between sticky top-4 z-20 shadow-xl bg-slate-900/80 backdrop-blur-md">
+            <!-- Search/Filter -->
+            <div class="flex items-center gap-3 w-full md:w-auto overflow-x-auto pb-2 md:pb-0 hide-scroll">
+                <button @click="filter = 'all'" :class="filter === 'all' ? 'bg-pink-600 text-white' : 'bg-slate-700 text-slate-400'" class="px-4 py-2 rounded-lg text-sm font-bold transition whitespace-nowrap">
+                    همه ({{ servers.length }})
+                </button>
+                <button v-for="loc in locations" :key="loc" @click="filter = loc" :class="filter === loc ? 'bg-purple-600 text-white' : 'bg-slate-700 text-slate-400'" class="px-4 py-2 rounded-lg text-sm font-bold transition whitespace-nowrap flex items-center gap-2">
+                   {{ loc }}
                 </button>
             </div>
+            
+            <!-- Sort -->
+            <div class="flex items-center gap-2 w-full md:w-auto">
+                <span class="text-xs text-slate-400 whitespace-nowrap">مرتب‌سازی:</span>
+                <select v-model="sortBy" class="bg-slate-800 border border-slate-700 text-slate-200 text-sm rounded-lg p-2 focus:outline-none w-full">
+                    <option value="ping">⚡ کمترین پینگ</option>
+                    <option value="newest">📅 جدیدترین</option>
+                </select>
+            </div>
         </div>
 
-        <!-- Apps Section -->
-        <div class="glass rounded-2xl p-5 space-y-4 animate-fade-in border-t border-white/5" style="animation-delay: 0.2s;">
-            <h3 class="font-bold text-slate-200 text-sm flex items-center gap-2">
-                <i class="fas fa-download text-teal-400"></i>
-                اپلیکیشن‌های پیشنهادی
-            </h3>
-            <div class="grid grid-cols-2 gap-3">
-                <a href="https://github.com/2dust/v2rayNG/releases/latest" target="_blank" class="flex items-center gap-3 p-3 rounded-xl bg-slate-800/40 hover:bg-slate-700/60 transition border border-slate-700/50 group">
-                    <div class="w-10 h-10 rounded-full bg-slate-700 flex items-center justify-center text-lg font-bold text-white group-hover:bg-green-600 transition-colors">
-                        <i class="fab fa-android"></i>
+        <!-- Loading -->
+        <div v-if="loading" class="text-center py-20">
+            <i class="fas fa-circle-notch fa-spin text-4xl text-purple-500"></i>
+            <p class="mt-4 text-slate-400 text-sm">در حال دریافت لیست سرورها...</p>
+        </div>
+
+        <!-- Empty State -->
+        <div v-else-if="filteredServers.length === 0" class="text-center py-20 glass rounded-2xl">
+            <i class="fas fa-ghost text-4xl text-slate-600"></i>
+            <p class="mt-4 text-slate-400">هیچ سروری یافت نشد.</p>
+        </div>
+
+        <!-- Server Grid -->
+        <div v-else class="grid grid-cols-1 md:grid-cols-2 gap-4">
+            <div v-for="server in filteredServers" :key="server.id" class="glass rounded-2xl p-4 hover:bg-slate-800/50 transition group relative overflow-hidden border-t border-white/5">
+                
+                <!-- Protocol Badge -->
+                <div class="absolute top-0 left-0 bg-slate-800/80 px-3 py-1 rounded-br-xl text-[10px] font-mono text-slate-400 border-r border-b border-slate-700">
+                    {{ getProtocol(server.config_data) }}
+                </div>
+
+                <div class="flex items-start justify-between mt-4">
+                    <div class="flex items-center gap-3">
+                        <div class="w-12 h-12 rounded-xl bg-slate-700 flex items-center justify-center text-2xl shadow-inner">
+                            {{ getFlag(server.name) }}
+                        </div>
+                        <div>
+                            <h3 class="font-bold text-slate-200 text-sm">{{ cleanName(server.name) }}</h3>
+                            <div class="flex items-center gap-2 mt-1">
+                                <span :class="getPingColor(server.ping_time)" class="text-[10px] px-2 py-0.5 rounded-full bg-slate-900 border border-current opacity-80">
+                                    <i class="fas fa-bolt mr-1"></i> {{ server.ping_time }}ms
+                                </span>
+                            </div>
+                        </div>
                     </div>
-                    <div class="text-left">
-                        <div class="font-bold text-sm text-slate-200">v2rayNG</div>
-                        <div class="text-[10px] text-slate-400">Android App</div>
-                    </div>
-                </a>
-                <a href="https://apps.apple.com/us/app/streisand/id6450534064" target="_blank" class="flex items-center gap-3 p-3 rounded-xl bg-slate-800/40 hover:bg-slate-700/60 transition border border-slate-700/50 group">
-                    <div class="w-10 h-10 rounded-full bg-slate-700 flex items-center justify-center text-lg font-bold text-white group-hover:bg-blue-600 transition-colors">
-                        <i class="fab fa-apple"></i>
-                    </div>
-                    <div class="text-left">
-                        <div class="font-bold text-sm text-slate-200">Streisand</div>
-                        <div class="text-[10px] text-slate-400">iOS App</div>
-                    </div>
-                </a>
+                </div>
+
+                <!-- Actions -->
+                <div class="grid grid-cols-2 gap-2 mt-4">
+                    <button @click="copyText(server.config_data)" class="bg-indigo-600/20 hover:bg-indigo-600 text-indigo-400 hover:text-white py-2 rounded-lg text-xs font-bold transition flex items-center justify-center gap-2 border border-indigo-500/30">
+                        <i class="fas fa-copy"></i> کپی
+                    </button>
+                    <button @click="showQR(server)" class="bg-slate-700/50 hover:bg-slate-700 text-slate-300 py-2 rounded-lg text-xs font-bold transition flex items-center justify-center gap-2 border border-slate-600/30">
+                        <i class="fas fa-qrcode"></i> نمایش QR
+                    </button>
+                </div>
             </div>
         </div>
 
         <!-- Footer -->
-        <footer class="text-center text-slate-500 text-xs animate-fade-in pb-4" style="animation-delay: 0.3s;">
-            <p>Made with ❤️ by Turbo VPN</p>
+        <footer class="text-center text-slate-600 text-xs mt-10">
+            Design by Turbo VPN
         </footer>
 
-    </main>
+        <!-- QR Modal -->
+        <div v-if="qrModal" class="fixed inset-0 z-50 flex items-center justify-center p-4">
+            <div class="absolute inset-0 modal-glass" @click="qrModal = null"></div>
+            <div class="bg-white rounded-2xl p-6 relative z-10 shadow-2xl max-w-sm w-full text-center space-y-4">
+                <h3 class="text-slate-900 font-bold text-lg">{{ qrModal.name }}</h3>
+                <div id="modal-qr" class="flex justify-center border-4 border-slate-100 rounded-xl p-2"></div>
+                <button @click="qrModal = null" class="w-full bg-slate-100 hover:bg-slate-200 text-slate-700 font-bold py-3 rounded-xl transition">بستن</button>
+            </div>
+        </div>
+
+    </div>
 
     <script>
-        // Generate QR Code
-        var subUrl = document.getElementById("subLink").value;
-        new QRCode(document.getElementById("qrcode"), {
-            text: subUrl,
-            width: 140,
-            height: 140,
-            colorDark : "#0f172a",
-            colorLight : "#ffffff",
-            correctLevel : QRCode.CorrectLevel.M
-        });
+        const { createApp } = Vue
 
-        // Copy Function
-        function copyLink() {
-            var copyText = document.getElementById("subLink");
-            copyText.select();
-            copyText.setSelectionRange(0, 99999); 
-            navigator.clipboard.writeText(copyText.value);
-            
-            var msg = document.getElementById("copyMsg");
-            msg.style.opacity = "1";
-            setTimeout(function(){ msg.style.opacity = "0"; }, 2000);
-        }
+        createApp({
+            data() {
+                return {
+                    servers: [],
+                    loading: true,
+                    filter: 'all',
+                    sortBy: 'ping',
+                    qrModal: null,
+                }
+            },
+            computed: {
+                locations() {
+                    const locs = new Set();
+                    this.servers.forEach(s => {
+                        const flag = this.getFlag(s.name);
+                        if(flag !== '🌍') locs.add(flag);
+                    });
+                    return Array.from(locs);
+                },
+                filteredServers() {
+                    let res = this.servers;
+                    if (this.filter !== 'all') {
+                        res = res.filter(s => this.getFlag(s.name) === this.filter);
+                    }
+                    return res.sort((a, b) => {
+                        if (this.sortBy === 'ping') return parseInt(a.ping_time) - parseInt(b.ping_time);
+                        if (this.sortBy === 'newest') return b.id - a.id;
+                        return 0;
+                    });
+                }
+            },
+            mounted() {
+                this.fetchData();
+            },
+            methods: {
+                async fetchData() {
+                    try {
+                        const res = await fetch('https://cdn.jsdelivr.net/gh/sartcavin-spec/turbo_vpn@main/servers.json');
+                        if (!res.ok) throw new Error('Failed');
+                        const data = await res.json();
+                        this.servers = data.servers || [];
+                    } catch (e) {
+                        console.error(e);
+                    } finally {
+                        this.loading = false;
+                    }
+                },
+                getFlag(name) {
+                    const regex = /[\uD83C][\uDDE6-\uDDFF][\uD83C][\uDDE6-\uDDFF]/;
+                    const match = name && name.match(regex);
+                    return match ? match[0] : '🌍';
+                },
+                cleanName(name) {
+                    return name ? name.replace(/[\uD83C][\uDDE6-\uDDFF][\uD83C][\uDDE6-\uDDFF]/g, '').trim() : 'Server';
+                },
+                getProtocol(config) {
+                    if (!config) return 'VPN';
+                    if (config.startsWith('vmess')) return 'VMESS';
+                    if (config.startsWith('vless')) return 'VLESS';
+                    if (config.startsWith('trojan')) return 'TROJAN';
+                    if (config.startsWith('ss')) return 'SHADOWSOCKS';
+                    return 'VPN';
+                },
+                getPingColor(ping) {
+                    const p = parseInt(ping);
+                    if (p < 200) return 'text-green-400 border-green-400/30';
+                    if (p < 500) return 'text-yellow-400 border-yellow-400/30';
+                    return 'text-red-400 border-red-400/30';
+                },
+                copyText(text) {
+                    navigator.clipboard.writeText(text);
+                    alert('کپی شد! ✅');
+                },
+                showQR(server) {
+                    this.qrModal = server;
+                    this.$nextTick(() => {
+                        document.getElementById('modal-qr').innerHTML = '';
+                        new QRCode(document.getElementById("modal-qr"), {
+                            text: server.config_data,
+                            width: 200,
+                            height: 200
+                        });
+                    });
+                }
+            }
+        }).mount('#app')
     </script>
 </body>
 </html>
