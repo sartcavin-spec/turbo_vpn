@@ -1,0 +1,51 @@
+name: Debug Connection
+
+on:
+  workflow_dispatch:
+
+jobs:
+  test-connectivity:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Run Network Diagnostics
+        run: |
+          echo "--- DIAGNOSTIC REPORT ---" > debug_report.txt
+          echo "Timestamp: $(date)" >> debug_report.txt
+          
+          TARGET="https://90900090.ir/wp-admin/admin-ajax.php?action=export_healthy_servers&format=subscription"
+          echo "Target URL: $TARGET" >> debug_report.txt
+          echo "" >> debug_report.txt
+          
+          echo "1. DNS Lookup..." >> debug_report.txt
+          nslookup 90900090.ir >> debug_report.txt 2>&1 || echo "nslookup failed" >> debug_report.txt
+          echo "" >> debug_report.txt
+
+          echo "2. Traceroute (first 15 hops)..." >> debug_report.txt
+          sudo traceroute -T -m 15 -p 443 90900090.ir >> debug_report.txt 2>&1 || echo "traceroute failed" >> debug_report.txt
+          echo "" >> debug_report.txt
+
+          echo "3. CURL Request (Verbose)..." >> debug_report.txt
+          curl -v -k -L --max-time 20             -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64)"             "$TARGET"             >> debug_report.txt 2>&1
+            
+          EXIT_CODE=$?
+          echo "" >> debug_report.txt
+          echo "Curl Exit Code: $EXIT_CODE" >> debug_report.txt
+          
+          if [ $EXIT_CODE -eq 0 ]; then
+             echo "RESULT: SUCCESS" >> debug_report.txt
+          else
+             echo "RESULT: FAILED" >> debug_report.txt
+          fi
+
+      - name: Push Report
+        run: |
+          git config --global user.name "Debug Bot"
+          git config --global user.email "bot@debug.com"
+          git add debug_report.txt
+          git commit -m "Add debug report: $(date)"
+          git push
