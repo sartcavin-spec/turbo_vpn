@@ -1,302 +1,302 @@
 {
-  "servers": [
-    {
-      "id": "416417",
-      "name": "🇸🇦 خرید سرویس پرسرعت وی تو ری @tron_vpnbot #1",
-      "config_data": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyOTE2MTUwZWZlZGQyZDE3@154.205.134.155:24853#%D8%AE%D8%B1%DB%8C%D8%AF%20%D8%B3%D8%B1%D9%88%DB%8C%D8%B3%20%D9%BE%D8%B1%D8%B3%D8%B1%D8%B9%D8%AA%20%D9%88%DB%8C%20%D8%AA%D9%88%20%D8%B1%DB%8C%20%40tron_vpnbot_1",
-      "protocol": "shadowsocks",
-      "ping_time": "562",
-      "success_rate": "100.00"
-    },
-    {
-      "id": "401573",
-      "name": "خرید سرویس پرسرعت وی تو ری @tron_vpnbot #2",
-      "config_data": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwTnFuWWYza0hlc09wQ2NoUnZVWnhmd1RhZlJzT2o3Zw==@213.159.76.21:443#%D8%AE%D8%B1%DB%8C%D8%AF%20%D8%B3%D8%B1%D9%88%DB%8C%D8%B3%20%D9%BE%D8%B1%D8%B3%D8%B1%D8%B9%D8%AA%20%D9%88%DB%8C%20%D8%AA%D9%88%20%D8%B1%DB%8C%20%40tron_vpnbot_2",
-      "protocol": "shadowsocks",
-      "ping_time": "572",
-      "success_rate": "100.00"
-    },
-    {
-      "id": "416353",
-      "name": "🇬🇷 خرید سرویس پرسرعت وی تو ری @tron_vpnbot #3",
-      "config_data": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjYjk1NWM4NTMwMzIwMTIw@38.54.29.57:11201#%D8%AE%D8%B1%DB%8C%D8%AF%20%D8%B3%D8%B1%D9%88%DB%8C%D8%B3%20%D9%BE%D8%B1%D8%B3%D8%B1%D8%B9%D8%AA%20%D9%88%DB%8C%20%D8%AA%D9%88%20%D8%B1%DB%8C%20%40tron_vpnbot_3",
-      "protocol": "shadowsocks",
-      "ping_time": "573",
-      "success_rate": "100.00"
-    },
-    {
-      "id": "416323",
-      "name": "🇷🇴 خرید سرویس پرسرعت وی تو ری @tron_vpnbot #4",
-      "config_data": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxMWU1MjBjY2JlNzM2NWVi@45.82.102.204:11201#%D8%AE%D8%B1%DB%8C%D8%AF%20%D8%B3%D8%B1%D9%88%DB%8C%D8%B3%20%D9%BE%D8%B1%D8%B3%D8%B1%D8%B9%D8%AA%20%D9%88%DB%8C%20%D8%AA%D9%88%20%D8%B1%DB%8C%20%40tron_vpnbot_4",
-      "protocol": "shadowsocks",
-      "ping_time": "587",
-      "success_rate": "100.00"
-    },
-    {
-      "id": "416190",
-      "name": "🇷🇸 خرید سرویس پرسرعت وی تو ری @tron_vpnbot #5",
-      "config_data": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppeFB5bUZtYTZQN1U0MXdrOU1OUDd6blBudmF4M21qZA==@45.89.55.173:443#%D8%AE%D8%B1%DB%8C%D8%AF%20%D8%B3%D8%B1%D9%88%DB%8C%D8%B3%20%D9%BE%D8%B1%D8%B3%D8%B1%D8%B9%D8%AA%20%D9%88%DB%8C%20%D8%AA%D9%88%20%D8%B1%DB%8C%20%40tron_vpnbot_5",
-      "protocol": "shadowsocks",
-      "ping_time": "587",
-      "success_rate": "100.00"
-    },
-    {
-      "id": "416354",
-      "name": "🇬🇷 خرید سرویس پرسرعت وی تو ری @tron_vpnbot #6",
-      "config_data": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5MzJhNTE5YzgxNDdhOTk4@38.54.29.18:11201#%D8%AE%D8%B1%DB%8C%D8%AF%20%D8%B3%D8%B1%D9%88%DB%8C%D8%B3%20%D9%BE%D8%B1%D8%B3%D8%B1%D8%B9%D8%AA%20%D9%88%DB%8C%20%D8%AA%D9%88%20%D8%B1%DB%8C%20%40tron_vpnbot_6",
-      "protocol": "shadowsocks",
-      "ping_time": "592",
-      "success_rate": "100.00"
-    },
-    {
-      "id": "418270",
-      "name": "خرید سرویس پرسرعت وی تو ری @tron_vpnbot #7",
-      "config_data": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphMTBiZDI1YjIxOTk1ZTU2@135.125.219.2:40266#%D8%AE%D8%B1%DB%8C%D8%AF%20%D8%B3%D8%B1%D9%88%DB%8C%D8%B3%20%D9%BE%D8%B1%D8%B3%D8%B1%D8%B9%D8%AA%20%D9%88%DB%8C%20%D8%AA%D9%88%20%D8%B1%DB%8C%20%40tron_vpnbot_7",
-      "protocol": "shadowsocks",
-      "ping_time": "597",
-      "success_rate": "100.00"
-    },
-    {
-      "id": "418132",
-      "name": "🇦🇲 خرید سرویس پرسرعت وی تو ری @tron_vpnbot #8",
-      "config_data": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwTnFuWWYza0hlc09wQ2NoUnZVWnhmd1RhZlJzT2o3Zw==@213.159.76.21:443#%D8%AE%D8%B1%DB%8C%D8%AF%20%D8%B3%D8%B1%D9%88%DB%8C%D8%B3%20%D9%BE%D8%B1%D8%B3%D8%B1%D8%B9%D8%AA%20%D9%88%DB%8C%20%D8%AA%D9%88%20%D8%B1%DB%8C%20%40tron_vpnbot_8",
-      "protocol": "shadowsocks",
-      "ping_time": "605",
-      "success_rate": "100.00"
-    },
-    {
-      "id": "417978",
-      "name": "🇺🇸 خرید سرویس پرسرعت وی تو ری @tron_vpnbot #9",
-      "config_data": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplOGEwMWEzZmMwN2NkZTE0@209.126.8.72:10011#%D8%AE%D8%B1%DB%8C%D8%AF%20%D8%B3%D8%B1%D9%88%DB%8C%D8%B3%20%D9%BE%D8%B1%D8%B3%D8%B1%D8%B9%D8%AA%20%D9%88%DB%8C%20%D8%AA%D9%88%20%D8%B1%DB%8C%20%40tron_vpnbot_9",
-      "protocol": "shadowsocks",
-      "ping_time": "637",
-      "success_rate": "100.00"
-    },
-    {
-      "id": "421249",
-      "name": "خرید سرویس پرسرعت وی تو ری @tron_vpnbot #10",
-      "config_data": "vless://2fb8808b-b94c-42ea-9dd2-cd77d2efcc8d@www.speedtest.net:2096?path=%2FeyJqdW5rIjoidDZLaDRBMWhpIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&insecure=1&host=digikalaa.dpdns.org&fp=chrome&type=ws&allowInsecure=1&sni=DiGIkALaA.dpdns.ORG#%D8%AE%D8%B1%DB%8C%D8%AF%20%D8%B3%D8%B1%D9%88%DB%8C%D8%B3%20%D9%BE%D8%B1%D8%B3%D8%B1%D8%B9%D8%AA%20%D9%88%DB%8C%20%D8%AA%D9%88%20%D8%B1%DB%8C%20%40tron_vpnbot_10",
-      "protocol": "vless",
-      "ping_time": "668",
-      "success_rate": "100.00"
-    },
-    {
-      "id": "414333",
-      "name": "🇯🇴 خرید سرویس پرسرعت وی تو ری @tron_vpnbot #11",
-      "config_data": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxMWJmMDU0ZGNjMDM0MmNk@91.106.109.74:11201#%D8%AE%D8%B1%DB%8C%D8%AF%20%D8%B3%D8%B1%D9%88%DB%8C%D8%B3%20%D9%BE%D8%B1%D8%B3%D8%B1%D8%B9%D8%AA%20%D9%88%DB%8C%20%D8%AA%D9%88%20%D8%B1%DB%8C%20%40tron_vpnbot_11",
-      "protocol": "shadowsocks",
-      "ping_time": "697",
-      "success_rate": "100.00"
-    },
-    {
-      "id": "421196",
-      "name": "🇩🇪 خرید سرویس پرسرعت وی تو ری @tron_vpnbot #12",
-      "config_data": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@57.129.53.182:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#%D8%AE%D8%B1%DB%8C%D8%AF%20%D8%B3%D8%B1%D9%88%DB%8C%D8%B3%20%D9%BE%D8%B1%D8%B3%D8%B1%D8%B9%D8%AA%20%D9%88%DB%8C%20%D8%AA%D9%88%20%D8%B1%DB%8C%20%40tron_vpnbot_12",
-      "protocol": "vless",
-      "ping_time": "741",
-      "success_rate": "100.00"
-    },
-    {
-      "id": "412282",
-      "name": "🇨🇦 خرید سرویس پرسرعت وی تو ری @tron_vpnbot #13",
-      "config_data": "vless://32ee6cfa-a6c2-48ec-b833-b072975c7177@172.66.40.99:8080?mode=auto&path=/&security=&encryption=none&host=www.speedtest.net.tax.gov.ir.aparat.com.a.3.jEy.dPdNs.org.&type=xhttp#%D8%AE%D8%B1%DB%8C%D8%AF%20%D8%B3%D8%B1%D9%88%DB%8C%D8%B3%20%D9%BE%D8%B1%D8%B3%D8%B1%D8%B9%D8%AA%20%D9%88%DB%8C%20%D8%AA%D9%88%20%D8%B1%DB%8C%20%40tron_vpnbot_13",
-      "protocol": "vless",
-      "ping_time": "768",
-      "success_rate": "100.00"
-    },
-    {
-      "id": "413781",
-      "name": "🇮🇷 خرید سرویس پرسرعت وی تو ری @tron_vpnbot #14",
-      "config_data": "vless://e4824193-4f54-453b-d037-88368e85ef0e@all.tellmethetrue.shop:443?mode=gun&security=tls&alpn=h2&encryption=none&insecure=0&type=grpc&allowInsecure=0&sni=pqh30v5.carwashipdir.shop#%D8%AE%D8%B1%DB%8C%D8%AF%20%D8%B3%D8%B1%D9%88%DB%8C%D8%B3%20%D9%BE%D8%B1%D8%B3%D8%B1%D8%B9%D8%AA%20%D9%88%DB%8C%20%D8%AA%D9%88%20%D8%B1%DB%8C%20%40tron_vpnbot_14",
-      "protocol": "vless",
-      "ping_time": "774",
-      "success_rate": "100.00"
-    },
-    {
-      "id": "416338",
-      "name": "🇷🇺 خرید سرویس پرسرعت وی تو ری @tron_vpnbot #15",
-      "config_data": "vless://77550287-7875-4b45-b03e-6968074a1f68@95.163.251.109:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.vk.com&fp=chrome&security=reality&pbk=n04-NAdCmcRoQL_4gpqea3iliUAAXtQU3RBlnhSk1wE&sid=97#%D8%AE%D8%B1%DB%8C%D8%AF%20%D8%B3%D8%B1%D9%88%DB%8C%D8%B3%20%D9%BE%D8%B1%D8%B3%D8%B1%D8%B9%D8%AA%20%D9%88%DB%8C%20%D8%AA%D9%88%20%D8%B1%DB%8C%20%40tron_vpnbot_15",
-      "protocol": "vless",
-      "ping_time": "778",
-      "success_rate": "100.00"
-    },
-    {
-      "id": "415583",
-      "name": "🇺🇸 خرید سرویس پرسرعت وی تو ری @tron_vpnbot #16",
-      "config_data": "vless://3ceb7c2b-8aed-41b3-ad42-ba1e1a69bae5@104.26.5.221:443?path=%2F79.141.170.138%3A443&security=tls&encryption=none&type=ws&sni=pavosilene.qzz.io#%D8%AE%D8%B1%DB%8C%D8%AF%20%D8%B3%D8%B1%D9%88%DB%8C%D8%B3%20%D9%BE%D8%B1%D8%B3%D8%B1%D8%B9%D8%AA%20%D9%88%DB%8C%20%D8%AA%D9%88%20%D8%B1%DB%8C%20%40tron_vpnbot_16",
-      "protocol": "vless",
-      "ping_time": "800",
-      "success_rate": "100.00"
-    },
-    {
-      "id": "402028",
-      "name": "خرید سرویس پرسرعت وی تو ری @tron_vpnbot #17",
-      "config_data": "vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@151.101.3.8:80?path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN&security=none&encryption=none&host=mitivpn.global.ssl.fastly.net&type=ws#%D8%AE%D8%B1%DB%8C%D8%AF%20%D8%B3%D8%B1%D9%88%DB%8C%D8%B3%20%D9%BE%D8%B1%D8%B3%D8%B1%D8%B9%D8%AA%20%D9%88%DB%8C%20%D8%AA%D9%88%20%D8%B1%DB%8C%20%40tron_vpnbot_17",
-      "protocol": "vless",
-      "ping_time": "840",
-      "success_rate": "100.00"
-    },
-    {
-      "id": "415471",
-      "name": "خرید سرویس پرسرعت وی تو ری @tron_vpnbot #18",
-      "config_data": "vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@151.101.3.8:80?encryption=none&security=none&type=ws&host=mitivpn.global.ssl.fastly.net&path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN#%D8%AE%D8%B1%DB%8C%D8%AF%20%D8%B3%D8%B1%D9%88%DB%8C%D8%B3%20%D9%BE%D8%B1%D8%B3%D8%B1%D8%B9%D8%AA%20%D9%88%DB%8C%20%D8%AA%D9%88%20%D8%B1%DB%8C%20%40tron_vpnbot_18",
-      "protocol": "vless",
-      "ping_time": "843",
-      "success_rate": "100.00"
-    },
-    {
-      "id": "416283",
-      "name": "🇺🇦 خرید سرویس پرسرعت وی تو ری @tron_vpnbot #19",
-      "config_data": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozMWQ5NmZhYjc2ZWE0MDA4@163.171.137.66:11201#%D8%AE%D8%B1%DB%8C%D8%AF%20%D8%B3%D8%B1%D9%88%DB%8C%D8%B3%20%D9%BE%D8%B1%D8%B3%D8%B1%D8%B9%D8%AA%20%D9%88%DB%8C%20%D8%AA%D9%88%20%D8%B1%DB%8C%20%40tron_vpnbot_19",
-      "protocol": "shadowsocks",
-      "ping_time": "849",
-      "success_rate": "100.00"
-    },
-    {
-      "id": "412781",
-      "name": "خرید سرویس پرسرعت وی تو ری @tron_vpnbot #20",
-      "config_data": "vless://3e2e3c21-3fc8-468f-9ab5-e782bdf5bf97@162.159.44.142:443/?type=ws&encryption=none&flow=&host=l.ayovo.netlib.re&path=%2F%3Fed%3D2560&security=tls&sni=l.ayovo.netlib.re&fp=chrome#%D8%AE%D8%B1%DB%8C%D8%AF%20%D8%B3%D8%B1%D9%88%DB%8C%D8%B3%20%D9%BE%D8%B1%D8%B3%D8%B1%D8%B9%D8%AA%20%D9%88%DB%8C%20%D8%AA%D9%88%20%D8%B1%DB%8C%20%40tron_vpnbot_20",
-      "protocol": "vless",
-      "ping_time": "850",
-      "success_rate": "100.00"
-    },
-    {
-      "id": "433153",
-      "name": "خرید سرویس پرسرعت وی تو ری @tron_vpnbot #21",
-      "config_data": "vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@141.193.213.21:2053?path=/&security=tls&encryption=none&host=sni.111000.dynv6.net&allowinsecure=1&type=ws&sni=sni.111000.dynv6.net#%D8%AE%D8%B1%DB%8C%D8%AF%20%D8%B3%D8%B1%D9%88%DB%8C%D8%B3%20%D9%BE%D8%B1%D8%B3%D8%B1%D8%B9%D8%AA%20%D9%88%DB%8C%20%D8%AA%D9%88%20%D8%B1%DB%8C%20%40tron_vpnbot_21",
-      "protocol": "vless",
-      "ping_time": "850",
-      "success_rate": "100.00"
-    },
-    {
-      "id": "415674",
-      "name": "🇺🇸 خرید سرویس پرسرعت وی تو ری @tron_vpnbot #22",
-      "config_data": "vless://2fb8808b-b94c-42ea-9dd2-cd77d2efcc8d@104.17.148.22:2096?path=%2FeyJqdW5rIjoidDZLaDRBMWhpIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&host=digikalaa.dpdns.org&fp=chrome&type=ws&sni=DiGIkALaA.dpdns.ORG#%D8%AE%D8%B1%DB%8C%D8%AF%20%D8%B3%D8%B1%D9%88%DB%8C%D8%B3%20%D9%BE%D8%B1%D8%B3%D8%B1%D8%B9%D8%AA%20%D9%88%DB%8C%20%D8%AA%D9%88%20%D8%B1%DB%8C%20%40tron_vpnbot_22",
-      "protocol": "vless",
-      "ping_time": "863",
-      "success_rate": "100.00"
-    },
-    {
-      "id": "416204",
-      "name": "🇵🇱 خرید سرویس پرسرعت وی تو ری @tron_vpnbot #23",
-      "config_data": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWbXNmMDZZVE1xdEFZZGh3TXFkU3VHcWdkVmttMHlkZGk0a1lhQUVWUVdZajlpSEE=@89.223.93.176:41348#%D8%AE%D8%B1%DB%8C%D8%AF%20%D8%B3%D8%B1%D9%88%DB%8C%D8%B3%20%D9%BE%D8%B1%D8%B3%D8%B1%D8%B9%D8%AA%20%D9%88%DB%8C%20%D8%AA%D9%88%20%D8%B1%DB%8C%20%40tron_vpnbot_23",
-      "protocol": "shadowsocks",
-      "ping_time": "866",
-      "success_rate": "100.00"
-    },
-    {
-      "id": "403009",
-      "name": "خرید سرویس پرسرعت وی تو ری @tron_vpnbot #24",
-      "config_data": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0MmQyYjQ3MTgxYTMyZGU3@154.26.132.38:16922#%D8%AE%D8%B1%DB%8C%D8%AF%20%D8%B3%D8%B1%D9%88%DB%8C%D8%B3%20%D9%BE%D8%B1%D8%B3%D8%B1%D8%B9%D8%AA%20%D9%88%DB%8C%20%D8%AA%D9%88%20%D8%B1%DB%8C%20%40tron_vpnbot_24",
-      "protocol": "shadowsocks",
-      "ping_time": "867",
-      "success_rate": "100.00"
-    },
-    {
-      "id": "416203",
-      "name": "🇵🇱 خرید سرویس پرسرعت وی تو ری @tron_vpnbot #25",
-      "config_data": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWbXNmMDZZVE1xdEFZZGh3TXFkU3VHcWdkVmttMHlkZGk0a1lhQUVWUVdZajlpSEE=@89.223.93.176:41348#%D8%AE%D8%B1%DB%8C%D8%AF%20%D8%B3%D8%B1%D9%88%DB%8C%D8%B3%20%D9%BE%D8%B1%D8%B3%D8%B1%D8%B9%D8%AA%20%D9%88%DB%8C%20%D8%AA%D9%88%20%D8%B1%DB%8C%20%40tron_vpnbot_25",
-      "protocol": "shadowsocks",
-      "ping_time": "869",
-      "success_rate": "100.00"
-    },
-    {
-      "id": "421231",
-      "name": "خرید سرویس پرسرعت وی تو ری @tron_vpnbot #26",
-      "config_data": "vless://e2be0db4-4110-42eb-bca1-ba8df0897319@198.50.119.86:8080?path=%2F39427%2FNextlife&security=none&encryption=none&host=telewebion.com&type=ws#%D8%AE%D8%B1%DB%8C%D8%AF%20%D8%B3%D8%B1%D9%88%DB%8C%D8%B3%20%D9%BE%D8%B1%D8%B3%D8%B1%D8%B9%D8%AA%20%D9%88%DB%8C%20%D8%AA%D9%88%20%D8%B1%DB%8C%20%40tron_vpnbot_26",
-      "protocol": "vless",
-      "ping_time": "871",
-      "success_rate": "100.00"
-    },
-    {
-      "id": "414310",
-      "name": "🇲🇰 خرید سرویس پرسرعت وی تو ری @tron_vpnbot #27",
-      "config_data": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@46.183.185.37:990#%D8%AE%D8%B1%DB%8C%D8%AF%20%D8%B3%D8%B1%D9%88%DB%8C%D8%B3%20%D9%BE%D8%B1%D8%B3%D8%B1%D8%B9%D8%AA%20%D9%88%DB%8C%20%D8%AA%D9%88%20%D8%B1%DB%8C%20%40tron_vpnbot_27",
-      "protocol": "shadowsocks",
-      "ping_time": "884",
-      "success_rate": "100.00"
-    },
-    {
-      "id": "421238",
-      "name": "خرید سرویس پرسرعت وی تو ری @tron_vpnbot #28",
-      "config_data": "vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@151.101.3.8:80?path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN&security=&encryption=none&host=mitivpn.global.ssl.fastly.net&type=ws#%D8%AE%D8%B1%DB%8C%D8%AF%20%D8%B3%D8%B1%D9%88%DB%8C%D8%B3%20%D9%BE%D8%B1%D8%B3%D8%B1%D8%B9%D8%AA%20%D9%88%DB%8C%20%D8%AA%D9%88%20%D8%B1%DB%8C%20%40tron_vpnbot_28",
-      "protocol": "vless",
-      "ping_time": "892",
-      "success_rate": "100.00"
-    },
-    {
-      "id": "425188",
-      "name": "خرید سرویس پرسرعت وی تو ری @tron_vpnbot #29",
-      "config_data": "vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@45.82.251.135:8880?mode=gun&security=&encryption=none&authority=/?BIA_TELEGRAM@AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1&fp=chrome&type=grpc&sni=/?---@Azarbayjab1_Net---@Azarbayjab1_Net---@azarbayjab1_Net---@azarbayjab1_Net---@Azarbayjab1_Net#%D8%AE%D8%B1%DB%8C%D8%AF%20%D8%B3%D8%B1%D9%88%DB%8C%D8%B3%20%D9%BE%D8%B1%D8%B3%D8%B1%D8%B9%D8%AA%20%D9%88%DB%8C%20%D8%AA%D9%88%20%D8%B1%DB%8C%20%40tron_vpnbot_29",
-      "protocol": "vless",
-      "ping_time": "893",
-      "success_rate": "100.00"
-    },
-    {
-      "id": "414849",
-      "name": "خرید سرویس پرسرعت وی تو ری @tron_vpnbot #30",
-      "config_data": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3NDkxOGJjODAxZDUzYTRi@57.130.28.148:11201#%D8%AE%D8%B1%DB%8C%D8%AF%20%D8%B3%D8%B1%D9%88%DB%8C%D8%B3%20%D9%BE%D8%B1%D8%B3%D8%B1%D8%B9%D8%AA%20%D9%88%DB%8C%20%D8%AA%D9%88%20%D8%B1%DB%8C%20%40tron_vpnbot_30",
-      "protocol": "shadowsocks",
-      "ping_time": "926",
-      "success_rate": "100.00"
-    },
-    {
-      "id": "431907",
-      "name": "خرید سرویس پرسرعت وی تو ری @tron_vpnbot #31",
-      "config_data": "vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMTUiLCJhZGQiOiI1Ny4xMjguMTg5LjI0MCIsInBvcnQiOiI0NDMiLCJpZCI6IjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiLS0tIiwiaG9zdCI6IiIsInBhdGgiOiIvbGlua3Z3cyIsInRscyI6InRscyIsInNuaSI6IiIsInRlc3RfbmFtZSI6IjE1In0=#%D8%AE%D8%B1%DB%8C%D8%AF%20%D8%B3%D8%B1%D9%88%DB%8C%D8%B3%20%D9%BE%D8%B1%D8%B3%D8%B1%D8%B9%D8%AA%20%D9%88%DB%8C%20%D8%AA%D9%88%20%D8%B1%DB%8C%20%40tron_vpnbot_31",
-      "protocol": "vmess",
-      "ping_time": "964",
-      "success_rate": "100.00"
-    },
-    {
-      "id": "400905",
-      "name": "خرید سرویس پرسرعت وی تو ری @tron_vpnbot #32",
-      "config_data": "vmess://eyJhZGQiOiAienVsYS5pciIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICJuYXNuZXQtNTExOTUyNDI0Lm1jaXRlbC5jbyIsICJpZCI6ICJuYXNuZXQiLCAiaW5zZWN1cmUiOiAiMCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvbmFzbmV0L2Nkbj9lZD0yNTYwIiwgInBvcnQiOiAiODA4MCIsICJwcyI6ICJcdWQ4M2RcdWRkMjVKb2luK1RlbGVncmFtOkBGYXJhaF9WUE5cdWQ4M2RcdWRmZTMiLCAic2N5IjogImNoYWNoYTIwLXBvbHkxMzA1IiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIi0tLSIsICJ2IjogIjIifQ==#%D8%AE%D8%B1%DB%8C%D8%AF%20%D8%B3%D8%B1%D9%88%DB%8C%D8%B3%20%D9%BE%D8%B1%D8%B3%D8%B1%D8%B9%D8%AA%20%D9%88%DB%8C%20%D8%AA%D9%88%20%D8%B1%DB%8C%20%40tron_vpnbot_32",
-      "protocol": "vmess",
-      "ping_time": "968",
-      "success_rate": "100.00"
-    },
-    {
-      "id": "409724",
-      "name": "🇮🇷 خرید سرویس پرسرعت وی تو ری @tron_vpnbot #33",
-      "config_data": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3NDkxOGJjODAxZDUzYTRi@57.130.28.148:11201#%D8%AE%D8%B1%DB%8C%D8%AF%20%D8%B3%D8%B1%D9%88%DB%8C%D8%B3%20%D9%BE%D8%B1%D8%B3%D8%B1%D8%B9%D8%AA%20%D9%88%DB%8C%20%D8%AA%D9%88%20%D8%B1%DB%8C%20%40tron_vpnbot_33",
-      "protocol": "shadowsocks",
-      "ping_time": "976",
-      "success_rate": "100.00"
-    },
-    {
-      "id": "408641",
-      "name": "خرید سرویس پرسرعت وی تو ری @tron_vpnbot #34",
-      "config_data": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmMTllMzU5YTJmMGM0ZjVm@51.68.83.117:11201#%D8%AE%D8%B1%DB%8C%D8%AF%20%D8%B3%D8%B1%D9%88%DB%8C%D8%B3%20%D9%BE%D8%B1%D8%B3%D8%B1%D8%B9%D8%AA%20%D9%88%DB%8C%20%D8%AA%D9%88%20%D8%B1%DB%8C%20%40tron_vpnbot_34",
-      "protocol": "shadowsocks",
-      "ping_time": "982",
-      "success_rate": "100.00"
-    },
-    {
-      "id": "405017",
-      "name": "🇺🇸 خرید سرویس پرسرعت وی تو ری @tron_vpnbot #35",
-      "config_data": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.165:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#%D8%AE%D8%B1%DB%8C%D8%AF%20%D8%B3%D8%B1%D9%88%DB%8C%D8%B3%20%D9%BE%D8%B1%D8%B3%D8%B1%D8%B9%D8%AA%20%D9%88%DB%8C%20%D8%AA%D9%88%20%D8%B1%DB%8C%20%40tron_vpnbot_35",
-      "protocol": "vless",
-      "ping_time": "982",
-      "success_rate": "100.00"
-    },
-    {
-      "id": "415586",
-      "name": "🇩🇪 خرید سرویس پرسرعت وی تو ری @tron_vpnbot #36",
-      "config_data": "vless://602b380a-9fdf-4425-bc07-aae9a95cfc4b@27.50.48.8:443?path=%2Fsnippets%2Fip&security=tls&alpn=h3&encryption=none&fp=chrome&type=ws&sni=vless.hubp.de#%D8%AE%D8%B1%DB%8C%D8%AF%20%D8%B3%D8%B1%D9%88%DB%8C%D8%B3%20%D9%BE%D8%B1%D8%B3%D8%B1%D8%B9%D8%AA%20%D9%88%DB%8C%20%D8%AA%D9%88%20%D8%B1%DB%8C%20%40tron_vpnbot_36",
-      "protocol": "vless",
-      "ping_time": "990",
-      "success_rate": "100.00"
-    },
-    {
-      "id": "415742",
-      "name": "🇺🇸 خرید سرویس پرسرعت وی تو ری @tron_vpnbot #37",
-      "config_data": "vless://2fb8808b-b94c-42ea-9dd2-cd77d2efcc8d@104.18.26.48:2096?path=/eyJqdW5rIjoidDZLaDRBMWhpIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ&security=tls&encryption=none&alpn=http/1.1&host=digikalaa.dpdns.org&fp=chrome&type=ws&sni=DiGIkALaA.dpdns.ORG#%D8%AE%D8%B1%DB%8C%D8%AF%20%D8%B3%D8%B1%D9%88%DB%8C%D8%B3%20%D9%BE%D8%B1%D8%B3%D8%B1%D8%B9%D8%AA%20%D9%88%DB%8C%20%D8%AA%D9%88%20%D8%B1%DB%8C%20%40tron_vpnbot_37",
-      "protocol": "vless",
-      "ping_time": "996",
-      "success_rate": "100.00"
-    }
-  ],
-  "total": 37,
-  "exported_at": "2026-01-08 11:54:33"
+    "servers": [
+        {
+            "id": "416417",
+            "name": "\ud83c\uddf8\ud83c\udde6 ShatakVPN 614777",
+            "config_data": "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyOTE2MTUwZWZlZGQyZDE3@154.205.134.155:24853#%F0%9F%87%B8%F0%9F%87%A6%20ShatakVPN%20614777",
+            "protocol": "shadowsocks",
+            "ping_time": "562",
+            "success_rate": "100.00"
+        },
+        {
+            "id": "401573",
+            "name": "\ud83d\udd25Join Telegram:@Farah_VPN\ud83d\udfe3",
+            "config_data": "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwTnFuWWYza0hlc09wQ2NoUnZVWnhmd1RhZlJzT2o3Zw==@213.159.76.21:443#\ud83d\udd25Join+Telegram:@Farah_VPN\ud83d\udfe3",
+            "protocol": "shadowsocks",
+            "ping_time": "572",
+            "success_rate": "100.00"
+        },
+        {
+            "id": "416353",
+            "name": "\ud83c\uddec\ud83c\uddf7 ShatakVPN 863907",
+            "config_data": "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjYjk1NWM4NTMwMzIwMTIw@38.54.29.57:11201#%F0%9F%87%AC%F0%9F%87%B7%20ShatakVPN%20863907",
+            "protocol": "shadowsocks",
+            "ping_time": "573",
+            "success_rate": "100.00"
+        },
+        {
+            "id": "416323",
+            "name": "\ud83c\uddf7\ud83c\uddf4 ShatakVPN 859201",
+            "config_data": "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxMWU1MjBjY2JlNzM2NWVi@45.82.102.204:11201#%F0%9F%87%B7%F0%9F%87%B4%20ShatakVPN%20859201",
+            "protocol": "shadowsocks",
+            "ping_time": "587",
+            "success_rate": "100.00"
+        },
+        {
+            "id": "416190",
+            "name": "\ud83c\uddf7\ud83c\uddf8 ShatakVPN 106025",
+            "config_data": "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppeFB5bUZtYTZQN1U0MXdrOU1OUDd6blBudmF4M21qZA==@45.89.55.173:443#%F0%9F%87%B7%F0%9F%87%B8%20ShatakVPN%20106025",
+            "protocol": "shadowsocks",
+            "ping_time": "587",
+            "success_rate": "100.00"
+        },
+        {
+            "id": "416354",
+            "name": "\ud83c\uddec\ud83c\uddf7 ShatakVPN 911660",
+            "config_data": "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5MzJhNTE5YzgxNDdhOTk4@38.54.29.18:11201#%F0%9F%87%AC%F0%9F%87%B7%20ShatakVPN%20911660",
+            "protocol": "shadowsocks",
+            "ping_time": "592",
+            "success_rate": "100.00"
+        },
+        {
+            "id": "418270",
+            "name": "\ud83d\udd25Join Telegram:@Farah_VPN\ud83d\udfe3",
+            "config_data": "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphMTBiZDI1YjIxOTk1ZTU2@135.125.219.2:40266#\ud83d\udd25Join+Telegram:@Farah_VPN\ud83d\udfe3",
+            "protocol": "shadowsocks",
+            "ping_time": "597",
+            "success_rate": "100.00"
+        },
+        {
+            "id": "418132",
+            "name": "\ud83c\udde6\ud83c\uddf2 ShatakVPN 549342",
+            "config_data": "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwTnFuWWYza0hlc09wQ2NoUnZVWnhmd1RhZlJzT2o3Zw==@213.159.76.21:443#%F0%9F%87%A6%F0%9F%87%B2%20ShatakVPN%20549342",
+            "protocol": "shadowsocks",
+            "ping_time": "605",
+            "success_rate": "100.00"
+        },
+        {
+            "id": "417978",
+            "name": "\ud83c\uddfa\ud83c\uddf8 ShatakVPN 829077",
+            "config_data": "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplOGEwMWEzZmMwN2NkZTE0@209.126.8.72:10011#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20829077",
+            "protocol": "shadowsocks",
+            "ping_time": "637",
+            "success_rate": "100.00"
+        },
+        {
+            "id": "421249",
+            "name": "@i10VPN \ud83d\ude80| \u0628\u0627 \u0645\u0627 \u0645\u062a\u0635\u0644 \u0628\u0645\u0648\u0646\u26a1`",
+            "config_data": "vless:\/\/2fb8808b-b94c-42ea-9dd2-cd77d2efcc8d@www.speedtest.net:2096?path=%2FeyJqdW5rIjoidDZLaDRBMWhpIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&insecure=1&host=digikalaa.dpdns.org&fp=chrome&type=ws&allowInsecure=1&sni=DiGIkALaA.dpdns.ORG#%40i10VPN%20%F0%9F%9A%80%7C%20%D8%A8%D8%A7%20%D9%85%D8%A7%20%D9%85%D8%AA%D8%B5%D9%84%20%D8%A8%D9%85%D9%88%D9%86%E2%9A%A1`",
+            "protocol": "vless",
+            "ping_time": "668",
+            "success_rate": "100.00"
+        },
+        {
+            "id": "414333",
+            "name": "\ud83c\uddef\ud83c\uddf4 ShatakVPN 219401",
+            "config_data": "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxMWJmMDU0ZGNjMDM0MmNk@91.106.109.74:11201#%F0%9F%87%AF%F0%9F%87%B4%20ShatakVPN%20219401",
+            "protocol": "shadowsocks",
+            "ping_time": "697",
+            "success_rate": "100.00"
+        },
+        {
+            "id": "421196",
+            "name": "\ud83c\udde9\ud83c\uddea Germany\ud83c\udde9\ud83c\uddea@KIA_NET",
+            "config_data": "vless:\/\/48ff2b70-e180-582f-8866-d9a2edeed5f5@57.129.53.182:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#Germany%F0%9F%87%A9%F0%9F%87%AA%40KIA_NET",
+            "protocol": "vless",
+            "ping_time": "741",
+            "success_rate": "100.00"
+        },
+        {
+            "id": "412282",
+            "name": "\ud83c\udde8\ud83c\udde6 [\ud83c\udde8\ud83c\udde6]t.me\/ConfigsHub",
+            "config_data": "vless:\/\/32ee6cfa-a6c2-48ec-b833-b072975c7177@172.66.40.99:8080?mode=auto&path=\/&security=&encryption=none&host=www.speedtest.net.tax.gov.ir.aparat.com.a.3.jEy.dPdNs.org.&type=xhttp#[\ud83c\udde8\ud83c\udde6]t.me\/ConfigsHub",
+            "protocol": "vless",
+            "ping_time": "768",
+            "success_rate": "100.00"
+        },
+        {
+            "id": "413781",
+            "name": "\ud83c\uddee\ud83c\uddf7 \u26a1 b2n.ir\/v2ray-configs | 750",
+            "config_data": "vless:\/\/e4824193-4f54-453b-d037-88368e85ef0e@all.tellmethetrue.shop:443?mode=gun&security=tls&alpn=h2&encryption=none&insecure=0&type=grpc&allowInsecure=0&sni=pqh30v5.carwashipdir.shop#\u26a1b2n.ir\/v2ray-configs|750",
+            "protocol": "vless",
+            "ping_time": "774",
+            "success_rate": "100.00"
+        },
+        {
+            "id": "416338",
+            "name": "\ud83c\uddf7\ud83c\uddfa ShatakVPN 268977",
+            "config_data": "vless:\/\/77550287-7875-4b45-b03e-6968074a1f68@95.163.251.109:8443\/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.vk.com&fp=chrome&security=reality&pbk=n04-NAdCmcRoQL_4gpqea3iliUAAXtQU3RBlnhSk1wE&sid=97#%F0%9F%87%B7%F0%9F%87%BA%20ShatakVPN%20268977",
+            "protocol": "vless",
+            "ping_time": "778",
+            "success_rate": "100.00"
+        },
+        {
+            "id": "415583",
+            "name": "\ud83c\uddfa\ud83c\uddf8 ShatakVPN 286021",
+            "config_data": "vless:\/\/3ceb7c2b-8aed-41b3-ad42-ba1e1a69bae5@104.26.5.221:443?path=%2F79.141.170.138%3A443&security=tls&encryption=none&type=ws&sni=pavosilene.qzz.io#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20286021",
+            "protocol": "vless",
+            "ping_time": "800",
+            "success_rate": "100.00"
+        },
+        {
+            "id": "402028",
+            "name": "\ud83d\udd25Join Telegram:@Farah_VPN\ud83d\udfe3",
+            "config_data": "vless:\/\/dd0cfef0-fda9-47ec-8a65-49d7bc004f82@151.101.3.8:80?path=\/---@MiTiVPN\/---@MiTiVPN\/---@MiTiVPN\/---@MiTiVPN\/---@MiTiVPN&security=none&encryption=none&host=mitivpn.global.ssl.fastly.net&type=ws#\ud83d\udd25Join+Telegram:@Farah_VPN\ud83d\udfe3",
+            "protocol": "vless",
+            "ping_time": "840",
+            "success_rate": "100.00"
+        },
+        {
+            "id": "415471",
+            "name": ">>@DailyV2RY::US",
+            "config_data": "vless:\/\/dd0cfef0-fda9-47ec-8a65-49d7bc004f82@151.101.3.8:80?encryption=none&security=none&type=ws&host=mitivpn.global.ssl.fastly.net&path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN#%3E%3E%40DailyV2RY%3A%3AUS",
+            "protocol": "vless",
+            "ping_time": "843",
+            "success_rate": "100.00"
+        },
+        {
+            "id": "416283",
+            "name": "\ud83c\uddfa\ud83c\udde6 ShatakVPN 209517",
+            "config_data": "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozMWQ5NmZhYjc2ZWE0MDA4@163.171.137.66:11201#%F0%9F%87%BA%F0%9F%87%A6%20ShatakVPN%20209517",
+            "protocol": "shadowsocks",
+            "ping_time": "849",
+            "success_rate": "100.00"
+        },
+        {
+            "id": "412781",
+            "name": "\ud83d\udd25Join Telegram:@Farah_VPN\ud83d\udfe3",
+            "config_data": "vless:\/\/3e2e3c21-3fc8-468f-9ab5-e782bdf5bf97@162.159.44.142:443\/?type=ws&encryption=none&flow=&host=l.ayovo.netlib.re&path=%2F%3Fed%3D2560&security=tls&sni=l.ayovo.netlib.re&fp=chrome#\ud83d\udd25Join+Telegram:@Farah_VPN\ud83d\udfe3",
+            "protocol": "vless",
+            "ping_time": "850",
+            "success_rate": "100.00"
+        },
+        {
+            "id": "433153",
+            "name": "t.me\/entryNET\/config=1853701260975955",
+            "config_data": "vless:\/\/1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@141.193.213.21:2053?path=\/&security=tls&encryption=none&host=sni.111000.dynv6.net&allowinsecure=1&type=ws&sni=sni.111000.dynv6.net#t.me\/entryNET\/config=1853701260975955",
+            "protocol": "vless",
+            "ping_time": "850",
+            "success_rate": "100.00"
+        },
+        {
+            "id": "415674",
+            "name": "\ud83c\uddfa\ud83c\uddf8 ShatakVPN 553143",
+            "config_data": "vless:\/\/2fb8808b-b94c-42ea-9dd2-cd77d2efcc8d@104.17.148.22:2096?path=%2FeyJqdW5rIjoidDZLaDRBMWhpIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&host=digikalaa.dpdns.org&fp=chrome&type=ws&sni=DiGIkALaA.dpdns.ORG#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20553143",
+            "protocol": "vless",
+            "ping_time": "863",
+            "success_rate": "100.00"
+        },
+        {
+            "id": "416204",
+            "name": "\ud83c\uddf5\ud83c\uddf1 ShatakVPN 745000",
+            "config_data": "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWbXNmMDZZVE1xdEFZZGh3TXFkU3VHcWdkVmttMHlkZGk0a1lhQUVWUVdZajlpSEE=@89.223.93.176:41348#%F0%9F%87%B5%F0%9F%87%B1%20ShatakVPN%20745000",
+            "protocol": "shadowsocks",
+            "ping_time": "866",
+            "success_rate": "100.00"
+        },
+        {
+            "id": "403009",
+            "name": "\ud83d\udd25Join Telegram:@Farah_VPN\ud83d\udfe3",
+            "config_data": "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0MmQyYjQ3MTgxYTMyZGU3@154.26.132.38:16922#\ud83d\udd25Join+Telegram:@Farah_VPN\ud83d\udfe3",
+            "protocol": "shadowsocks",
+            "ping_time": "867",
+            "success_rate": "100.00"
+        },
+        {
+            "id": "416203",
+            "name": "\ud83c\uddf5\ud83c\uddf1 ShatakVPN 514130",
+            "config_data": "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWbXNmMDZZVE1xdEFZZGh3TXFkU3VHcWdkVmttMHlkZGk0a1lhQUVWUVdZajlpSEE=@89.223.93.176:41348#%F0%9F%87%B5%F0%9F%87%B1%20ShatakVPN%20514130",
+            "protocol": "shadowsocks",
+            "ping_time": "869",
+            "success_rate": "100.00"
+        },
+        {
+            "id": "421231",
+            "name": "All--@V2rayAlpha-22`",
+            "config_data": "vless:\/\/e2be0db4-4110-42eb-bca1-ba8df0897319@198.50.119.86:8080?path=%2F39427%2FNextlife&security=none&encryption=none&host=telewebion.com&type=ws#All--%40V2rayAlpha-22`",
+            "protocol": "vless",
+            "ping_time": "871",
+            "success_rate": "100.00"
+        },
+        {
+            "id": "414310",
+            "name": "\ud83c\uddf2\ud83c\uddf0 ShatakVPN 131095",
+            "config_data": "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@46.183.185.37:990#%F0%9F%87%B2%F0%9F%87%B0%20ShatakVPN%20131095",
+            "protocol": "shadowsocks",
+            "ping_time": "884",
+            "success_rate": "100.00"
+        },
+        {
+            "id": "421238",
+            "name": "Telegram: @v2node",
+            "config_data": "vless:\/\/dd0cfef0-fda9-47ec-8a65-49d7bc004f82@151.101.3.8:80?path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN&security=&encryption=none&host=mitivpn.global.ssl.fastly.net&type=ws#Telegram%3A%20%40v2node",
+            "protocol": "vless",
+            "ping_time": "892",
+            "success_rate": "100.00"
+        },
+        {
+            "id": "425188",
+            "name": "\ud83d\udd25Join Telegram:@Farah_VPN\ud83d\udfe3",
+            "config_data": "vless:\/\/8dc7722c-2767-4eea-a28b-2f8daacc07e3@45.82.251.135:8880?mode=gun&security=&encryption=none&authority=\/?BIA_TELEGRAM@AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1&fp=chrome&type=grpc&sni=\/?---@Azarbayjab1_Net---@Azarbayjab1_Net---@azarbayjab1_Net---@azarbayjab1_Net---@Azarbayjab1_Net#\ud83d\udd25Join+Telegram:@Farah_VPN\ud83d\udfe3",
+            "protocol": "vless",
+            "ping_time": "893",
+            "success_rate": "100.00"
+        },
+        {
+            "id": "414849",
+            "name": "@YamYamProxy \ud83e\ude75",
+            "config_data": "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3NDkxOGJjODAxZDUzYTRi@57.130.28.148:11201#@YamYamProxy\ud83e\ude75",
+            "protocol": "shadowsocks",
+            "ping_time": "926",
+            "success_rate": "100.00"
+        },
+        {
+            "id": "431907",
+            "name": "\ud83c\udf10 Cloud",
+            "config_data": "vmess:\/\/eyJ2IjoiMiIsInBzIjoi5pyq55+lMTUiLCJhZGQiOiI1Ny4xMjguMTg5LjI0MCIsInBvcnQiOiI0NDMiLCJpZCI6IjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiLS0tIiwiaG9zdCI6IiIsInBhdGgiOiIvbGlua3Z3cyIsInRscyI6InRscyIsInNuaSI6IiIsInRlc3RfbmFtZSI6IjE1In0=",
+            "protocol": "vmess",
+            "ping_time": "964",
+            "success_rate": "100.00"
+        },
+        {
+            "id": "400905",
+            "name": "\ud83c\udf10 Cloud",
+            "config_data": "vmess:\/\/eyJhZGQiOiAienVsYS5pciIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICJuYXNuZXQtNTExOTUyNDI0Lm1jaXRlbC5jbyIsICJpZCI6ICJuYXNuZXQiLCAiaW5zZWN1cmUiOiAiMCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvbmFzbmV0L2Nkbj9lZD0yNTYwIiwgInBvcnQiOiAiODA4MCIsICJwcyI6ICJcdWQ4M2RcdWRkMjVKb2luK1RlbGVncmFtOkBGYXJhaF9WUE5cdWQ4M2RcdWRmZTMiLCAic2N5IjogImNoYWNoYTIwLXBvbHkxMzA1IiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIi0tLSIsICJ2IjogIjIifQ==",
+            "protocol": "vmess",
+            "ping_time": "968",
+            "success_rate": "100.00"
+        },
+        {
+            "id": "409724",
+            "name": "\ud83c\uddee\ud83c\uddf7 IR--@V2rayAlpha-3",
+            "config_data": "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3NDkxOGJjODAxZDUzYTRi@57.130.28.148:11201#IR--%40V2rayAlpha-3",
+            "protocol": "shadowsocks",
+            "ping_time": "976",
+            "success_rate": "100.00"
+        },
+        {
+            "id": "408641",
+            "name": "@Geek_Spot",
+            "config_data": "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmMTllMzU5YTJmMGM0ZjVm@51.68.83.117:11201#%40Geek_Spot",
+            "protocol": "shadowsocks",
+            "ping_time": "982",
+            "success_rate": "100.00"
+        },
+        {
+            "id": "405017",
+            "name": "\ud83c\uddfa\ud83c\uddf8 ShatakVPN 180287",
+            "config_data": "vless:\/\/48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.165:23576\/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20180287",
+            "protocol": "vless",
+            "ping_time": "982",
+            "success_rate": "100.00"
+        },
+        {
+            "id": "415586",
+            "name": "\ud83c\udde9\ud83c\uddea \ud83c\udded\ud83c\uddf0 ShatakVPN 615937",
+            "config_data": "vless:\/\/602b380a-9fdf-4425-bc07-aae9a95cfc4b@27.50.48.8:443?path=%2Fsnippets%2Fip&security=tls&alpn=h3&encryption=none&fp=chrome&type=ws&sni=vless.hubp.de#%F0%9F%87%AD%F0%9F%87%B0%20ShatakVPN%20615937",
+            "protocol": "vless",
+            "ping_time": "990",
+            "success_rate": "100.00"
+        },
+        {
+            "id": "415742",
+            "name": "\ud83c\uddfa\ud83c\uddf8 ShatakVPN 721666",
+            "config_data": "vless:\/\/2fb8808b-b94c-42ea-9dd2-cd77d2efcc8d@104.18.26.48:2096?path=\/eyJqdW5rIjoidDZLaDRBMWhpIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ&security=tls&encryption=none&alpn=http\/1.1&host=digikalaa.dpdns.org&fp=chrome&type=ws&sni=DiGIkALaA.dpdns.ORG#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20721666",
+            "protocol": "vless",
+            "ping_time": "996",
+            "success_rate": "100.00"
+        }
+    ],
+    "total": 37,
+    "exported_at": "2026-01-08 11:56:45"
 }
