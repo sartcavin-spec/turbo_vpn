@@ -1,0 +1,52 @@
+name: Auto Sync Servers (Secure)
+
+on:
+  schedule:
+    - cron: '*/30 * * * *'  # Runs every 30 minutes
+  workflow_dispatch:        # Allows manual run button
+
+jobs:
+  secure-sync:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v3
+
+      - name: Fetch Data Securely
+        env:
+          # These values come from Repo Settings > Secrets
+          SECRET_SUB_URL: ${{ secrets.WP_SUB_URL }}
+          SECRET_JSON_URL: ${{ secrets.WP_JSON_URL }}
+        run: |
+          echo " Starting Secure Sync..."
+          
+          if [ -z "$SECRET_SUB_URL" ]; then
+            echo "❌ Error: Secrets not found! Please add WP_SUB_URL in GitHub Settings."
+            exit 1
+          fi
+
+          # Timestamp for cache busting
+          TS=$(date +%s)
+
+          # Download using the hidden variables
+          # -k for insecure SSL (just in case), -L for redirects
+          curl -k -L "${SECRET_SUB_URL}&t=${TS}" -o sub.txt
+          curl -k -L "${SECRET_JSON_URL}&t=${TS}" -o servers.json
+          
+          echo "✅ Download complete."
+
+      - name: Commit and Push
+        run: |
+          git config --global user.name "Turbo Bot"
+          git config --global user.email "bot@turbo.vpn"
+          
+          if [[ -n $(git status -s) ]]; then
+            git add sub.txt servers.json
+            git commit -m "Auto-sync servers: $(date)"
+            git push
+            echo "🚀 Changes pushed to GitHub."
+          else
+            echo "💤 No changes detected."
+          fi
