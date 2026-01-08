@@ -4,61 +4,34 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Turbo VPN | Free V2Ray Configs</title>
-    <meta name="description" content="Turbo VPN - High speed V2Ray, Vless, Vmess, Trojan configs">
-    
-    <!-- Tailwind -->
     <script src="https://cdn.tailwindcss.com"></script>
-    
-    <!-- Icons -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
-    
-    <!-- Vue.js -->
     <script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
-    
-    <!-- QRCode -->
     <script src="https://cdn.rawgit.com/davidshimjs/qrcodejs/gh-pages/qrcode.min.js"></script>
-    
-    <!-- Font -->
     <link href="https://fonts.googleapis.com/css2?family=Vazirmatn:wght@100;300;400;500;700;900&display=swap" rel="stylesheet">
-    
-    <!-- SweetAlert2 -->
     <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
-
     <script>
         tailwind.config = {
             theme: {
                 extend: {
-                    fontFamily: {
-                        sans: ['Vazirmatn', 'sans-serif'],
-                    },
+                    fontFamily: { sans: ['Vazirmatn', 'sans-serif'] },
                     colors: {
-                        dark: {
-                            DEFAULT: '#0f172a', // Slate 900
-                            100: '#1e293b', // Slate 800
-                            200: '#334155', // Slate 700
-                        },
-                        primary: '#3b82f6', // Blue 500
-                        accent: '#8b5cf6', // Violet 500
+                        dark: { DEFAULT: '#0f172a', 100: '#1e293b', 200: '#334155' },
+                        primary: '#3b82f6', accent: '#8b5cf6',
                     }
                 }
             }
         }
     </script>
-    
     <style>
-        body {
-            background-color: #0b1120;
-            color: #e2e8f0;
-        }
+        body { background-color: #0b1120; color: #e2e8f0; }
         .glass-panel {
             background: rgba(30, 41, 59, 0.4);
             backdrop-filter: blur(12px);
             -webkit-backdrop-filter: blur(12px);
             border: 1px solid rgba(255, 255, 255, 0.05);
         }
-        .server-card {
-            transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
-        }
+        .server-card { transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1); }
         .server-card:hover {
             transform: translateY(-2px);
             background: rgba(30, 41, 59, 0.7);
@@ -66,45 +39,34 @@
             box-shadow: 0 10px 30px -10px rgba(0, 0, 0, 0.5);
         }
         [v-cloak] { display: none; }
-        
         .protocol-badge.vmess { background: rgba(59, 130, 246, 0.15); color: #60a5fa; border: 1px solid rgba(59, 130, 246, 0.3); }
         .protocol-badge.vless { background: rgba(16, 185, 129, 0.15); color: #34d399; border: 1px solid rgba(16, 185, 129, 0.3); }
         .protocol-badge.trojan { background: rgba(245, 158, 11, 0.15); color: #fbbf24; border: 1px solid rgba(245, 158, 11, 0.3); }
         .protocol-badge.ss { background: rgba(236, 72, 153, 0.15); color: #f472b6; border: 1px solid rgba(236, 72, 153, 0.3); }
-        
         .ping-low { color: #4ade80; }
         .ping-med { color: #facc15; }
         .ping-high { color: #f87171; }
     </style>
 </head>
 <body class="antialiased min-h-screen pb-10">
-
     <div id="app" v-cloak class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 pt-8">
-        
         <!-- Hero Section -->
         <div class="text-center mb-10 space-y-4">
-            <h1 class="text-5xl md:text-6xl font-black text-transparent bg-clip-text bg-gradient-to-r from-blue-400 via-purple-500 to-pink-500 pb-2">
-                TURBO VPN
-            </h1>
-            <p class="text-slate-400 text-lg font-light max-w-2xl mx-auto">
-                <i class="fas fa-shield-alt mr-2"></i> دسترسی آزاد، امن و پرسرعت به اینترنت جهانی
-            </p>
+            <h1 class="text-5xl md:text-6xl font-black text-transparent bg-clip-text bg-gradient-to-r from-blue-400 via-purple-500 to-pink-500 pb-2">TURBO VPN</h1>
+            <p class="text-slate-400 text-lg font-light max-w-2xl mx-auto"><i class="fas fa-shield-alt mr-2"></i> دسترسی آزاد، امن و پرسرعت به اینترنت جهانی</p>
         </div>
 
-        <!-- Subscription Box -->
+        <!-- Subscription Box (Use Cloudflare Link) -->
         <div class="glass-panel rounded-2xl p-6 mb-10 max-w-3xl mx-auto relative overflow-hidden group">
             <div class="absolute inset-0 bg-gradient-to-r from-blue-500/10 to-purple-500/10 opacity-0 group-hover:opacity-100 transition-opacity duration-500"></div>
-            
             <div class="flex flex-col md:flex-row items-center justify-between gap-4 relative z-10">
                 <div class="flex items-center gap-4 w-full">
                     <div class="w-12 h-12 rounded-xl bg-gradient-to-br from-blue-600 to-purple-600 flex items-center justify-center text-white shadow-lg shadow-purple-500/30">
                         <i class="fas fa-link text-xl"></i>
                     </div>
                     <div class="flex-1 min-w-0">
-                        <h3 class="text-white font-bold text-lg mb-1">لینک اشتراک هوشمند</h3>
-                        <p class="text-slate-400 text-xs truncate dir-ltr font-mono bg-black/20 p-1.5 rounded-lg border border-white/5">
-                            https://raw.githubusercontent.com/sartcavin-spec/turbo_vpn/main/sub.txt
-                        </p>
+                        <h3 class="text-white font-bold text-lg mb-1">لینک اشتراک هوشمند (ناشناس)</h3>
+                        <p class="text-slate-400 text-xs truncate dir-ltr font-mono bg-black/20 p-1.5 rounded-lg border border-white/5">https://bf876a94.cloudflareworker-2nf.pages.dev</p>
                     </div>
                 </div>
                 <button @click="copySub()" class="w-full md:w-auto bg-white text-slate-900 hover:bg-blue-50 font-bold py-3 px-6 rounded-xl transition shadow-lg flex items-center justify-center gap-2 group/btn">
@@ -117,81 +79,46 @@
         <!-- Filters -->
         <div class="sticky top-4 z-30 mb-8">
             <div class="glass-panel rounded-xl p-2 flex overflow-x-auto hide-scroll gap-2 shadow-2xl shadow-black/50">
-                <button 
-                    v-for="cat in categories" 
-                    :key="cat.id"
-                    @click="activeCategory = cat.id"
-                    :class="activeCategory === cat.id ? 'bg-slate-700 text-white shadow-lg' : 'text-slate-400 hover:text-white hover:bg-slate-800'"
-                    class="px-4 py-2.5 rounded-lg text-sm font-bold transition whitespace-nowrap flex items-center gap-2">
-                    <i :class="cat.icon"></i>
-                    {{ cat.name }}
-                    <span v-if="activeCategory === cat.id" class="ml-2 bg-slate-900/50 px-2 py-0.5 rounded-full text-[10px]">{{ filteredServers.length }}</span>
+                <button v-for="cat in categories" :key="cat.id" @click="activeCategory = cat.id" :class="activeCategory === cat.id ? 'bg-slate-700 text-white shadow-lg' : 'text-slate-400 hover:text-white hover:bg-slate-800'" class="px-4 py-2.5 rounded-lg text-sm font-bold transition whitespace-nowrap flex items-center gap-2">
+                    <i :class="cat.icon"></i> {{ cat.name }} <span v-if="activeCategory === cat.id" class="ml-2 bg-slate-900/50 px-2 py-0.5 rounded-full text-[10px]">{{ filteredServers.length }}</span>
                 </button>
             </div>
         </div>
 
-        <!-- Loading State -->
+        <!-- Servers Grid -->
         <div v-if="loading" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 animate-pulse">
             <div v-for="n in 6" :key="n" class="glass-panel h-48 rounded-2xl"></div>
         </div>
-
-        <!-- Servers Grid -->
         <div v-else class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-5">
             <div v-for="(server, index) in filteredServers" :key="index" class="glass-panel server-card rounded-2xl p-5 relative group">
-                
-                <!-- Header -->
                 <div class="flex justify-between items-start mb-4">
                     <div class="flex items-center gap-3">
-                        <!-- Flag -->
-                        <div class="text-3xl filter drop-shadow-md grayscale group-hover:grayscale-0 transition duration-300">
-                            {{ getFlag(server.name) }}
-                        </div>
+                        <div class="text-3xl filter drop-shadow-md grayscale group-hover:grayscale-0 transition duration-300">{{ getFlag(server.name) }}</div>
                         <div>
                             <div class="font-bold text-slate-200 text-sm mb-1 truncate max-w-[140px]">{{ cleanName(server.name) }}</div>
                             <div class="flex items-center gap-2">
-                                <span class="protocol-badge text-[10px] px-2 py-0.5 rounded uppercase font-bold tracking-wider" :class="getProtocolClass(server.config_data)">
-                                    {{ getProtocol(server.config_data) }}
-                                </span>
+                                <span class="protocol-badge text-[10px] px-2 py-0.5 rounded uppercase font-bold tracking-wider" :class="getProtocolClass(server.config_data)">{{ getProtocol(server.config_data) }}</span>
                                 <span class="text-[10px] font-mono opacity-60">#{{ index + 1 }}</span>
                             </div>
                         </div>
                     </div>
-                    
-                    <!-- Ping -->
                     <div class="flex flex-col items-end">
-                        <span class="text-xs font-bold font-mono" :class="getPingColor(server.ping_time)">
-                            {{ server.ping_time }}ms
-                        </span>
+                        <span class="text-xs font-bold font-mono" :class="getPingColor(server.ping_time)">{{ server.ping_time }}ms</span>
                         <i class="fas fa-signal text-[10px] mt-1 opacity-50"></i>
                     </div>
                 </div>
-
-                <!-- Config Hash Preview (Optional, makes it look techy) -->
                 <div class="bg-black/20 rounded-lg p-2 mb-4 font-mono text-[10px] text-slate-500 break-all h-12 overflow-hidden relative">
                     {{ server.config_data.substring(0, 100) }}...
                     <div class="absolute inset-0 bg-gradient-to-t from-[#1e293b] to-transparent"></div>
                 </div>
-
-                <!-- Actions -->
                 <div class="grid grid-cols-5 gap-2">
-                    <button @click="copyConfig(server.config_data)" class="col-span-4 bg-blue-600 hover:bg-blue-500 text-white py-2.5 rounded-xl font-bold text-sm transition shadow-lg shadow-blue-900/20 flex items-center justify-center gap-2">
-                        <i class="fas fa-copy"></i> کپی کانفیگ
-                    </button>
-                    <button @click="showQR(server)" class="col-span-1 bg-slate-700 hover:bg-slate-600 text-white rounded-xl flex items-center justify-center transition">
-                        <i class="fas fa-qrcode"></i>
-                    </button>
+                    <button @click="copyConfig(server.config_data)" class="col-span-4 bg-blue-600 hover:bg-blue-500 text-white py-2.5 rounded-xl font-bold text-sm transition shadow-lg shadow-blue-900/20 flex items-center justify-center gap-2"><i class="fas fa-copy"></i> کپی کانفیگ</button>
+                    <button @click="showQR(server)" class="col-span-1 bg-slate-700 hover:bg-slate-600 text-white rounded-xl flex items-center justify-center transition"><i class="fas fa-qrcode"></i></button>
                 </div>
-
             </div>
         </div>
 
-        <!-- Footer -->
         <footer class="mt-20 border-t border-slate-800 pt-8 pb-4 text-center">
-            <div class="flex justify-center gap-6 mb-4 text-2xl text-slate-500">
-                <a href="#" class="hover:text-blue-400 transition transform hover:-translate-y-1"><i class="fab fa-telegram"></i></a>
-                <a href="#" class="hover:text-white transition transform hover:-translate-y-1"><i class="fab fa-github"></i></a>
-                <a href="#" class="hover:text-pink-500 transition transform hover:-translate-y-1"><i class="fab fa-instagram"></i></a>
-            </div>
             <p class="text-slate-600 text-sm">Designed & Powered by <span class="text-slate-400 font-bold">Turbo VPN</span></p>
         </footer>
 
@@ -199,138 +126,29 @@
         <div v-show="qrModal" class="fixed inset-0 z-50 flex items-center justify-center p-4" style="display: none;">
             <div class="absolute inset-0 bg-black/80 backdrop-blur-sm transition-opacity" @click="qrModal = null"></div>
             <div class="bg-slate-800 border border-slate-700 rounded-2xl p-6 relative z-10 shadow-2xl max-w-sm w-full text-center transform transition-all scale-100">
-                <h3 class="text-white font-bold text-lg mb-4 flex items-center justify-center gap-2">
-                    <i class="fas fa-qrcode text-blue-500"></i> اسکن کنید
-                </h3>
-                <div class="bg-white p-3 rounded-xl inline-block mb-4">
-                    <div id="modal-qr"></div>
-                </div>
-                <p class="text-slate-400 text-xs mb-4">برای اتصال سریع، با اپلیکیشن اسکن کنید</p>
+                <h3 class="text-white font-bold text-lg mb-4 flex items-center justify-center gap-2"><i class="fas fa-qrcode text-blue-500"></i> اسکن کنید</h3>
+                <div class="bg-white p-3 rounded-xl inline-block mb-4"><div id="modal-qr"></div></div>
                 <button @click="qrModal = null" class="w-full bg-slate-700 hover:bg-slate-600 text-white font-bold py-3 rounded-xl transition">بستن</button>
             </div>
         </div>
-
     </div>
 
     <script>
         const { createApp } = Vue
-
         createApp({
-            data() {
-                return {
-                    servers: [],
-                    loading: true,
-                    activeCategory: 'all',
-                    qrModal: null,
-                    categories: [
-                        { id: 'all', name: 'همه', icon: 'fas fa-globe' },
-                        { id: 'vmess', name: 'Vmess', icon: 'fas fa-network-wired' },
-                        { id: 'vless', name: 'Vless', icon: 'fas fa-shield-alt' },
-                        { id: 'trojan', name: 'Trojan', icon: 'fas fa-horse-head' },
-                        { id: 'ss', name: 'Shadowsocks', icon: 'fas fa-paper-plane' }
-                    ]
-                }
-            },
-            computed: {
-                filteredServers() {
-                    if (this.activeCategory === 'all') return this.servers;
-                    return this.servers.filter(s => {
-                        const proto = this.getProtocol(s.config_data).toLowerCase();
-                        return proto.includes(this.activeCategory) || (this.activeCategory === 'ss' && proto.includes('shadowsocks'));
-                    });
-                }
-            },
-            mounted() {
-                this.fetchData();
-            },
+            data() { return { servers: [], loading: true, activeCategory: 'all', qrModal: null, categories: [{ id: 'all', name: 'همه', icon: 'fas fa-globe' }, { id: 'vmess', name: 'Vmess', icon: 'fas fa-network-wired' }, { id: 'vless', name: 'Vless', icon: 'fas fa-shield-alt' }, { id: 'trojan', name: 'Trojan', icon: 'fas fa-horse-head' }, { id: 'ss', name: 'Shadowsocks', icon: 'fas fa-paper-plane' }] } },
+            computed: { filters() { return this.servers }, filteredServers() { if (this.activeCategory === 'all') return this.servers; return this.servers.filter(s => { const proto = this.getProtocol(s.config_data).toLowerCase(); return proto.includes(this.activeCategory) || (this.activeCategory === 'ss' && proto.includes('shadowsocks')); }); } },
+            mounted() { this.fetchData(); },
             methods: {
-                async fetchData() {
-                    try {
-                        const res = await fetch('https://raw.githubusercontent.com/sartcavin-spec/turbo_vpn/main/servers.json');
-                        if (!res.ok) throw new Error('Fetch failed');
-                        const data = await res.json();
-                        this.servers = data.servers || [];
-                    } catch (e) {
-                        console.error("Error fetching data:", e);
-                        // Optional: Retry or show error
-                    } finally {
-                        this.loading = false;
-                    }
-                },
-                getFlag(name) {
-                    if (!name) return '🌍';
-                    const regex = /[\uD83C][\uDDE6-\uDDFF][\uD83C][\uDDE6-\uDDFF]/;
-                    const match = name.match(regex);
-                    return match ? match[0] : '🌍';
-                },
-                cleanName(name) {
-                    if (!name) return 'Server';
-                    return name.replace(/[\uD83C][\uDDE6-\uDDFF][\uD83C][\uDDE6-\uDDFF]/g, '')
-                               .replace(/Turbo|VPN/g, '')
-                               .replace(/-|\s+/g, ' ')
-                               .trim() || 'Server';
-                },
-                getProtocol(config) {
-                    if (!config) return 'VPN';
-                    if (config.startsWith('vmess')) return 'Vmess';
-                    if (config.startsWith('vless')) return 'Vless';
-                    if (config.startsWith('trojan')) return 'Trojan';
-                    if (config.startsWith('ss')) return 'Shadowsocks';
-                    return 'VPN';
-                },
-                getProtocolClass(config) {
-                    const proto = this.getProtocol(config).toLowerCase();
-                    if (proto.includes('vmess')) return 'vmess';
-                    if (proto.includes('vless')) return 'vless';
-                    if (proto.includes('trojan')) return 'trojan';
-                    if (proto.includes('shadowsocks')) return 'ss';
-                    return '';
-                },
-                getPingColor(ping) {
-                    const p = parseInt(ping);
-                    if (p < 300) return 'ping-low';
-                    if (p < 800) return 'ping-med';
-                    return 'ping-high';
-                },
-                copySub() {
-                    navigator.clipboard.writeText('https://raw.githubusercontent.com/sartcavin-spec/turbo_vpn/main/sub.txt');
-                    Swal.fire({
-                        icon: 'success',
-                        title: 'کپی شد!',
-                        text: 'لینک اشتراک با موفقیت کپی شد',
-                        timer: 1500,
-                        showConfirmButton: false,
-                        background: '#1e293b',
-                        color: '#fff'
-                    });
-                },
-                copyConfig(config) {
-                    navigator.clipboard.writeText(config);
-                    Swal.fire({
-                        toast: true,
-                        position: 'bottom-end',
-                        icon: 'success',
-                        title: 'کانفیگ کپی شد',
-                        showConfirmButton: false,
-                        timer: 2000,
-                        background: '#1e293b',
-                        color: '#fff'
-                    });
-                },
-                showQR(server) {
-                    this.qrModal = true;
-                    this.$nextTick(() => {
-                        const el = document.getElementById('modal-qr');
-                        el.innerHTML = '';
-                        new QRCode(el, {
-                            text: server.config_data,
-                            width: 200,
-                            height: 200,
-                            colorDark : "#000000",
-                            colorLight : "#ffffff",
-                        });
-                    });
-                }
+                async fetchData() { try { const res = await fetch('https://cdn.jsdelivr.net/gh/sartcavin-spec/turbo_vpn@main/servers.json'); if (!res.ok) throw new Error('Fetch failed'); const data = await res.json(); this.servers = data.servers || []; } catch (e) { console.error(e); } finally { this.loading = false; } },
+                getFlag(name) { if (!name) return '🌍'; const regex = /[\uD83C][\uDDE6-\uDDFF][\uD83C][\uDDE6-\uDDFF]/; const match = name.match(regex); return match ? match[0] : '🌍'; },
+                cleanName(name) { if (!name) return 'Server'; return name.replace(/[\uD83C][\uDDE6-\uDDFF][\uD83C][\uDDE6-\uDDFF]/g, '').replace(/Turbo|VPN/g, '').replace(/-|\s+/g, ' ').trim() || 'Server'; },
+                getProtocol(config) { if (!config) return 'VPN'; if (config.startsWith('vmess')) return 'Vmess'; if (config.startsWith('vless')) return 'Vless'; if (config.startsWith('trojan')) return 'Trojan'; if (config.startsWith('ss')) return 'Shadowsocks'; return 'VPN'; },
+                getProtocolClass(config) { const proto = this.getProtocol(config).toLowerCase(); if (proto.includes('vmess')) return 'vmess'; if (proto.includes('vless')) return 'vless'; if (proto.includes('trojan')) return 'trojan'; if (proto.includes('shadowsocks')) return 'ss'; return ''; },
+                getPingColor(ping) { const p = parseInt(ping); if (p < 300) return 'ping-low'; if (p < 800) return 'ping-med'; return 'ping-high'; },
+                copySub() { navigator.clipboard.writeText('https://bf876a94.cloudflareworker-2nf.pages.dev'); Swal.fire({ icon: 'success', title: 'کپی شد!', text: 'لینک اشتراک امن', timer: 1500, showConfirmButton: false, background: '#1e293b', color: '#fff' }); },
+                copyConfig(config) { navigator.clipboard.writeText(config); Swal.fire({ toast: true, position: 'bottom-end', icon: 'success', title: 'کپی شد', showConfirmButton: false, timer: 2000, background: '#1e293b', color: '#fff' }); },
+                showQR(server) { this.qrModal = true; this.$nextTick(() => { const el = document.getElementById('modal-qr'); el.innerHTML = ''; new QRCode(el, { text: server.config_data, width: 200, height: 200, colorDark : "#000000", colorLight : "#ffffff", }); }); }
             }
         }).mount('#app')
     </script>
