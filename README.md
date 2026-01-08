@@ -9,7 +9,7 @@
 **پیشنهاد شده برای امنیت و سرعت بیشتر** (بدون فیلتر):
 Use this link in V2Ray clients:
 
-`https://curly-queen-5f40.iranazadturboproxyonline.workers.dev`
+`https://turbo-vpn-proxy.iranazadturboproxyonline.workers.dev`
 
 ### 📄 لیست سرورها (Server List)
 فرمت JSON برای توسعه‌دهندگان (API):
