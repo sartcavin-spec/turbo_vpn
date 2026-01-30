@@ -1,0 +1,92 @@
+name: Auto Sync Servers
+
+on:
+  schedule:
+    # Run every 5 minutes
+    - cron: '*/5 * * * *'
+  workflow_dispatch: # Allow manual trigger
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+      
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+      
+      - name: Install dependencies
+        run: |
+          pip install requests
+      
+      - name: Sync servers from WordPress
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          python << 'EOF'
+          import requests
+          import base64
+          import json
+          import os
+          from datetime import datetime
+          
+          print("🔄 Starting auto-sync...")
+          
+          # WordPress URLs
+          wp_sub_url = "https://90900090.ir/wp-admin/admin-ajax.php?action=export_healthy_servers&format=subscription"
+          wp_json_url = "https://90900090.ir/wp-admin/admin-ajax.php?action=export_healthy_servers&format=json"
+          
+          # Download from WordPress
+          print("📥 Downloading from WordPress...")
+          try:
+              sub_resp = requests.get(wp_sub_url, verify=False, timeout=15)
+              json_resp = requests.get(wp_json_url, verify=False, timeout=15)
+              
+              sub_content = sub_resp.text
+              json_content = json_resp.text
+              
+              # Count servers
+              try:
+                  decoded = base64.b64decode(sub_content).decode('utf-8', errors='ignore')
+                  sub_count = len([x for x in decoded.split('\n') if x.strip()])
+                  json_data = json.loads(json_content)
+                  json_count = len(json_data.get('servers', []))
+                  print(f"   ✅ Found {sub_count} servers (subscription)")
+                  print(f"   ✅ Found {json_count} servers (JSON)")
+              except:
+                  print("   ⚠️  Could not count servers")
+              
+              # Write files
+              with open('sub.txt', 'w', encoding='utf-8') as f:
+                  f.write(sub_content)
+              
+              with open('servers.json', 'w', encoding='utf-8') as f:
+                  f.write(json_content)
+              
+              print("✅ Files updated successfully!")
+              
+          except Exception as e:
+              print(f"❌ Error: {e}")
+              exit(1)
+          EOF
+      
+      - name: Commit and push if changed
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          
+          # Check if there are changes
+          if git diff --quiet sub.txt servers.json; then
+            echo "✅ No changes detected. Skipping commit."
+          else
+            git add sub.txt servers.json
+            git commit -m "Auto-sync servers: $(date -u '+%a %b %d %H:%M:%S UTC %Y')"
+            git push
+            echo "✅ Changes pushed to GitHub!"
+          fi
