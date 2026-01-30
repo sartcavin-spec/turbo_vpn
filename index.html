@@ -157,7 +157,7 @@
                     } 
                 },
                 getFlag(name) { if (!name) return '🌍'; const regex = /[\uD83C][\uDDE6-\uDDFF][\uD83C][\uDDE6-\uDDFF]/; const match = name.match(regex); return match ? match[0] : '🌍'; },
-                cleanName(name) { if (!name) return 'Server'; return name.replace(/[\uD83C][\uDDE6-\uDDFF][\uD83C][\uDDE6-\uDDFF]/g, '').replace(/Turbo|VPN/g, '').replace(/-|\s+/g, ' ').trim() || 'Server'; },
+                cleanName(name) { return 'TURBO VPN'; },
                 getProtocol(config) { if (!config) return 'VPN'; if (config.startsWith('vmess')) return 'Vmess'; if (config.startsWith('vless')) return 'Vless'; if (config.startsWith('trojan')) return 'Trojan'; if (config.startsWith('ss')) return 'Shadowsocks'; return 'VPN'; },
                 getProtocolClass(config) { const proto = this.getProtocol(config).toLowerCase(); if (proto.includes('vmess')) return 'vmess'; if (proto.includes('vless')) return 'vless'; if (proto.includes('trojan')) return 'trojan'; if (proto.includes('shadowsocks')) return 'ss'; return ''; },
                 getPingColor(ping) { const p = parseInt(ping); if (p < 300) return 'ping-low'; if (p < 800) return 'ping-med'; return 'ping-high'; },
