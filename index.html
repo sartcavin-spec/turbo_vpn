@@ -140,7 +140,22 @@
             computed: { filters() { return this.servers }, filteredServers() { if (this.activeCategory === 'all') return this.servers; return this.servers.filter(s => { const proto = this.getProtocol(s.config_data).toLowerCase(); return proto.includes(this.activeCategory) || (this.activeCategory === 'ss' && proto.includes('shadowsocks')); }); } },
             mounted() { this.fetchData(); },
             methods: {
-                async fetchData() { try { const res = await fetch('https://cdn.jsdelivr.net/gh/sartcavin-spec/turbo_vpn@main/servers.json'); if (!res.ok) throw new Error('Fetch failed'); const data = await res.json(); this.servers = data.servers || []; } catch (e) { console.error(e); } finally { this.loading = false; } },
+                async fetchData() { 
+                    try { 
+                        // Add timestamp to bypass cache
+                        const cacheBuster = new Date().getTime();
+                        const res = await fetch(`https://cdn.jsdelivr.net/gh/sartcavin-spec/turbo_vpn@main/servers.json?t=${cacheBuster}`); 
+                        if (!res.ok) throw new Error('Fetch failed'); 
+                        const data = await res.json(); 
+                        this.servers = data.servers || []; 
+                        console.log(`✅ Loaded ${this.servers.length} servers`);
+                    } catch (e) { 
+                        console.error('❌ Error loading servers:', e); 
+                        Swal.fire({ icon: 'error', title: 'خطا در بارگذاری', text: 'لطفاً صفحه را رفرش کنید', background: '#1e293b', color: '#fff' });
+                    } finally { 
+                        this.loading = false; 
+                    } 
+                },
                 getFlag(name) { if (!name) return '🌍'; const regex = /[\uD83C][\uDDE6-\uDDFF][\uD83C][\uDDE6-\uDDFF]/; const match = name.match(regex); return match ? match[0] : '🌍'; },
                 cleanName(name) { if (!name) return 'Server'; return name.replace(/[\uD83C][\uDDE6-\uDDFF][\uD83C][\uDDE6-\uDDFF]/g, '').replace(/Turbo|VPN/g, '').replace(/-|\s+/g, ' ').trim() || 'Server'; },
                 getProtocol(config) { if (!config) return 'VPN'; if (config.startsWith('vmess')) return 'Vmess'; if (config.startsWith('vless')) return 'Vless'; if (config.startsWith('trojan')) return 'Trojan'; if (config.startsWith('ss')) return 'Shadowsocks'; return 'VPN'; },
