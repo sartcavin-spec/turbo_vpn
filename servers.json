@@ -1617,6 +1617,14 @@
             "success_rate": "100.00"
         },
         {
+            "id": "864225",
+            "name": "\u26a1Telegram = @SOSkeyNET",
+            "config_data": "vless:\/\/0665cf1e-0df8-4981-a8de-a366e37c0866@104.18.15.19:8443?path=\/?ed=2560&security=tls&alpn=http\/1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=xdol7mayq6wu5kil7wjyrni7o8tnydsafcmhfhn7g6rimbw5o2g6mlm.zjde5.de5.net#\u26a1Telegram=@SOSkeyNET",
+            "protocol": "vless",
+            "ping_time": "1412",
+            "success_rate": "100.00"
+        },
+        {
             "id": "813640",
             "name": "\ud83c\uddfa\ud83c\uddf8 ShatakVPN 832272",
             "config_data": "vless:\/\/6251f84e-9c02-4140-921c-6b47d394fb96@40.160.4.127:8880?encryption=none&type=grpc#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20832272",
@@ -3129,6 +3137,6 @@
             "success_rate": "100.00"
         }
     ],
-    "total": 391,
-    "exported_at": "2026-01-31 11:38:56"
+    "total": 392,
+    "exported_at": "2026-01-31 11:53:39"
 }
