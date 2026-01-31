@@ -385,6 +385,14 @@
             "success_rate": "100.00"
         },
         {
+            "id": "890653",
+            "name": "\ud83c\udf10 Cloud",
+            "config_data": "vmess:\/\/eyJ2IjoiMiIsInBzIjoi8J+HrPCfh6cgR0Loi7Hlm70obWliZWk3Ny5jb20g57Gz6LSd6IqC54K55YiG5LqrKSIsImFkZCI6IjgyLjE5OC4yNDYuOTciLCJwb3J0IjoiMTgwIiwidHlwZSI6Im5vbmUiLCJpZCI6ImQxM2ZjMmY1LTNlMDUtNDc5NS04MWViLTQ0MTQzYTA5ZTU1MiIsImFpZCI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsImhvc3QiOiIlRUYlQkYlQkQlRUYlQkYlQkQlRUYlQkYlQkQlRUYlQkYlQkQlRUYlQkYlQkQlRUYlQkYlQkQlMEElNUJCeSUyMER1a2VNZWhkaSU1RCUyMHRyb2phbi1ISyUyMCIsInRscyI6IiJ9",
+            "protocol": "vmess",
+            "ping_time": "1316",
+            "success_rate": "100.00"
+        },
+        {
             "id": "835862",
             "name": "@meliproxyy",
             "config_data": "vless:\/\/07a21b46-f4a6-47b6-89d1-98375c44262f@104.17.164.123:8443?path=\/?ed&security=tls&encryption=none&insecure=0&host=1o1qulwpyj16e5ywam0gb7za0957ey3ujj8odofs87th5erf5bqkf9.zjde5.de5.net&type=ws&allowInsecure=0&sni=1o1qulwpyj16e5ywam0gb7za0957ey3ujj8odofs87th5erf5bqkf9.zjde5.de5.net#@meliproxyy",
@@ -1025,6 +1033,6 @@
             "success_rate": "100.00"
         }
     ],
-    "total": 128,
-    "exported_at": "2026-01-31 21:41:02"
+    "total": 129,
+    "exported_at": "2026-01-31 21:44:15"
 }
