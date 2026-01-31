@@ -2401,6 +2401,14 @@
             "success_rate": "100.00"
         },
         {
+            "id": "856098",
+            "name": "\ud83c\uddec\ud83c\udde7 \ud83d\udd25Join Telegram:@Farah_VPN\ud83d\udfe3",
+            "config_data": "vless:\/\/6abc2840-25fd-4dd7-b1aa-0892fe98f2d9@nodejs.org:80?path=\/?ed&security=&encryption=none&host=MySterIOUS-chECk94Bl5oXQ6C.eCoTOUriSs.cO.uK.&type=ws#\ud83d\udd25Join+Telegram:@Farah_VPN\ud83d\udfe3",
+            "protocol": "vless",
+            "ping_time": "1657",
+            "success_rate": "100.00"
+        },
+        {
             "id": "846517",
             "name": "\ud83d\udd25Join Telegram:@Farah_VPN\ud83d\udfe3",
             "config_data": "vless:\/\/fdb239e1-d6b1-4b04-84c8-52a124ca0bf7@kazakhstan13.yourbot.biz:443?security=reality&encryption=none&pbk=3jjLvTnB7NtUoXI9hSuhM2Aru5kuGN2yal1I5uDoenY&headerType=none&fp=chrome&spx=\/&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=kazakhstan13.yourbot.biz&sid=5231#\ud83d\udd25Join+Telegram:@Farah_VPN\ud83d\udfe3",
@@ -3145,6 +3153,6 @@
             "success_rate": "100.00"
         }
     ],
-    "total": 393,
-    "exported_at": "2026-01-31 13:52:58"
+    "total": 394,
+    "exported_at": "2026-01-31 13:53:50"
 }
