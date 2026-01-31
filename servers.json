@@ -817,6 +817,14 @@
             "success_rate": "100.00"
         },
         {
+            "id": "915244",
+            "name": ">>@oneclickvpnkeys::US",
+            "config_data": "vless:\/\/48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.226:23576\/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#%3E%3E%40oneclickvpnkeys%3A%3AUS",
+            "protocol": "vless",
+            "ping_time": "1454",
+            "success_rate": "100.00"
+        },
+        {
             "id": "812883",
             "name": "\ud83d\udd25Join Telegram:@Farah_VPN\ud83d\udfe3",
             "config_data": "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyM3NVcndSY1RCRUF2eExTNlZNNkFheTU3S1Fid3MxdXBEQXhyN0J0ZjRoWHU0Z2FVUVc0QlBiQ29takpqU3RNMkpxSkxEd1ZrdGVYTDhWMzNrOGVXa1pSNFVCOGludHo@107.181.151.147:43669#\ud83d\udd25Join+Telegram:@Farah_VPN\ud83d\udfe3",
@@ -1225,6 +1233,14 @@
             "success_rate": "100.00"
         },
         {
+            "id": "921405",
+            "name": "\ud83c\uddfa\ud83c\uddf8 ShatakVPN 894744",
+            "config_data": "vmess:\/\/eyJ2IjogIjIiLCAicHMiOiAi8J+HuvCfh7ggU2hhdGFrVlBOIDg5NDc0NCIsICJhZGQiOiAiMTcyLjY0LjE1NS4yMDkiLCAicG9ydCI6IDIwODMsICJpZCI6ICJlNjM5NWMyMC00NTcxLTRiMzQtZDZiMS01NWE1ZDM2ZTQ5ZWEiLCAiYWlkIjogIjAiLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAiLS0tIiwgImhvc3QiOiAiaGd0cm9qYW4uemFiYy5uZXQiLCAicGF0aCI6ICIvZTYzOTVjMjAiLCAidGxzIjogInRscyIsICJzbmkiOiAiaGd0cm9qYW4uemFiYy5uZXQiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgIm5hbWUiOiAiVk0tMTEwNi0wMSJ9#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20894744",
+            "protocol": "vmess",
+            "ping_time": "1877",
+            "success_rate": "100.00"
+        },
+        {
             "id": "842356",
             "name": "\ud83c\uddfa\ud83c\uddf8 ShatakVPN 531748",
             "config_data": "vless:\/\/48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.167:23576?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20531748",
@@ -1345,6 +1361,6 @@
             "success_rate": "100.00"
         }
     ],
-    "total": 168,
-    "exported_at": "2026-01-31 23:58:02"
+    "total": 170,
+    "exported_at": "2026-01-31 23:59:11"
 }
