@@ -601,6 +601,14 @@
             "success_rate": "100.00"
         },
         {
+            "id": "921454",
+            "name": "\ud83c\uddfa\ud83c\uddf8 ShatakVPN 170837",
+            "config_data": "vless:\/\/396c904b-4b62-4334-b793-ee25fc0c61cc@172.64.152.23:443?path=%2FeyJqdW5rIjoiTHczMWlhREZIb0ljUDhoaCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=8vmU06cxdz59m931xnREgj8qpnoq1-06.pages.dev&type=ws&allowInsecure=0&sni=pages.dev#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20170837",
+            "protocol": "vless",
+            "ping_time": "1353",
+            "success_rate": "100.00"
+        },
+        {
             "id": "846444",
             "name": "\ud83c\uddf7\ud83c\uddfa \ud83d\udd25Join Telegram:@Farah_VPN\ud83d\udfe3",
             "config_data": "vless:\/\/feaf1d64-b44c-4cc8-b114-4001478c1fd0@65.108.108.151:443?security=reality&encryption=none&pbk=u26A516I3BCfUMPOo6rw0-XYt0C2sCWaPNP2pNdtxzw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fit.jojack.ru&sid=f8865ecbb9bc11a3#\ud83d\udd25Join+Telegram:@Farah_VPN\ud83d\udfe3",
@@ -1289,6 +1297,6 @@
             "success_rate": "100.00"
         }
     ],
-    "total": 161,
-    "exported_at": "2026-01-31 23:42:22"
+    "total": 162,
+    "exported_at": "2026-01-31 23:43:37"
 }
