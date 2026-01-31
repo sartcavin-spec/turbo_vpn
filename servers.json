@@ -937,6 +937,14 @@
             "success_rate": "100.00"
         },
         {
+            "id": "846648",
+            "name": "\ud83c\uddfa\ud83c\uddf8 ShatakVPN 281848",
+            "config_data": "vless:\/\/546e91b5-c33e-4b04-b20c-c0fc8f6d9d7f@172.66.128.70:80?path=\/?ed&security=none&encryption=none&host=bIZARRe-CEntEryZCvddNcfJ.spORtLand.COmPANY.&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20281848",
+            "protocol": "vless",
+            "ping_time": "1293",
+            "success_rate": "100.00"
+        },
+        {
             "id": "799934",
             "name": "\ud83c\uddfa\ud83c\uddf8 ShatakVPN 911643",
             "config_data": "vless:\/\/48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.176:23576?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20911643",
@@ -1134,6 +1142,14 @@
             "config_data": "vless:\/\/6251f84e-9c02-4140-921c-6b47d394fb96@40.160.14.104:8880?encryption=none&type=grpc#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20221805",
             "protocol": "vless",
             "ping_time": "1372",
+            "success_rate": "100.00"
+        },
+        {
+            "id": "846383",
+            "name": "\u26a1Telegram = @SOSkeyNET",
+            "config_data": "vless:\/\/ff4edd17-5a4b-41d4-e178-2dd60149b7f1@172.238.111.21:11332?encryption=none&type=tcp&headerType=http&host=telewebion.com&path=\/#\u26a1Telegram=@SOSkeyNET",
+            "protocol": "vless",
+            "ping_time": "1373",
             "success_rate": "100.00"
         },
         {
@@ -2009,6 +2025,14 @@
             "success_rate": "100.00"
         },
         {
+            "id": "837079",
+            "name": "\ud83c\uddec\ud83c\udde7 @v2rays_ha 5331",
+            "config_data": "vless:\/\/e9052516-1e37-4665-a0b4-a5c65dd0ab70@104.18.32.47:80?security=none&type=ws&path=\/?ed&host=TastY-LeaRNInG94aZG31SfF.ECOTouRiss.CO.UK.&encryption=none#@v2rays_ha5331",
+            "protocol": "vless",
+            "ping_time": "1792",
+            "success_rate": "100.00"
+        },
+        {
             "id": "825576",
             "name": "\ud83c\udff3\ufe0f ShatakVPN 379184",
             "config_data": "vless:\/\/53342b53-157e-4475-9f3a-40439434e689@172.64.156.188:80\/?type=ws&encryption=none&flow=&host=c.iamdt.dpdns.org&path=%2F#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20379184",
@@ -2337,6 +2361,6 @@
             "success_rate": "100.00"
         }
     ],
-    "total": 292,
-    "exported_at": "2026-01-31 07:41:56"
+    "total": 295,
+    "exported_at": "2026-01-31 07:58:07"
 }
