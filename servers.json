@@ -377,6 +377,14 @@
             "success_rate": "100.00"
         },
         {
+            "id": "1333566",
+            "name": "\ud83c\uddec\ud83c\udde7 \u26a1 b2n.ir\/v2ray-configs | 378",
+            "config_data": "vless:\/\/e9052516-1e37-4665-a0b4-a5c65dd0ab70@104.18.32.47:80?path=%2F%3Fed&security=none&encryption=none&host=TastY-LeaRNInG94aZG31SfF.ECOTouRiss.CO.UK.&type=ws#\u26a1b2n.ir\/v2ray-configs|378",
+            "protocol": "vless",
+            "ping_time": "1379",
+            "success_rate": "100.00"
+        },
+        {
             "id": "1316042",
             "name": "\ud83c\udde6\ud83c\uddea \ud83c\uddee\ud83c\uddf3IN-103.97.203.227-0432",
             "config_data": "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@103.97.203.227:990#%F0%9F%87%AE%F0%9F%87%B3IN-103.97.203.227-0432",
@@ -390,6 +398,14 @@
             "config_data": "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.124:8080#BESTIIVPNBOT",
             "protocol": "shadowsocks",
             "ping_time": "1392",
+            "success_rate": "100.00"
+        },
+        {
+            "id": "1326563",
+            "name": "\ud83c\uddec\ud83c\udde7 \u26a1 b2n.ir\/v2ray-configs | 81",
+            "config_data": "vless:\/\/e9052516-1e37-4665-a0b4-a5c65dd0ab70@104.18.32.47:80?path=%2F%3Fed&security=none&encryption=none&host=TastY-LeaRNInG94aZG31SfF.ECOTouRiss.CO.UK.&type=ws#\u26a1b2n.ir\/v2ray-configs|81",
+            "protocol": "vless",
+            "ping_time": "1398",
             "success_rate": "100.00"
         },
         {
@@ -961,6 +977,14 @@
             "success_rate": "100.00"
         },
         {
+            "id": "1336478",
+            "name": "\ud83c\uddec\ud83c\udde7 \ud83d\udd25Join Telegram:@Farah_VPN\ud83d\udfe3",
+            "config_data": "vless:\/\/c5fbb5dd-83bb-43ce-a799-e3e5c29e25da@104.18.32.47:80\/?path=\/?ed&security=&encryption=none&host=gLeEfuL-GrassMcKS7Sr4kw.wiNdleR.co.Uk.&type=ws#\ud83d\udd25Join+Telegram:@Farah_VPN\ud83d\udfe3",
+            "protocol": "vless",
+            "ping_time": "1986",
+            "success_rate": "100.00"
+        },
+        {
             "id": "1305964",
             "name": "t.me\/OutlineVpnOfficial | Free | 3337 | Ecuador",
             "config_data": "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@38.165.231.25:990#t.me\/OutlineVpnOfficial|Free|3337|Ecuador",
@@ -969,6 +993,6 @@
             "success_rate": "100.00"
         }
     ],
-    "total": 121,
-    "exported_at": "2026-02-06 20:20:27"
+    "total": 124,
+    "exported_at": "2026-02-06 20:47:38"
 }
