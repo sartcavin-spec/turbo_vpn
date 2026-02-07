@@ -25,6 +25,14 @@
             "success_rate": "100.00"
         },
         {
+            "id": "1378748",
+            "name": "@icv2ray",
+            "config_data": "vless:\/\/8dc7722c-2767-4eea-a28b-2f8daacc07e3@45.82.251.208:8880?mode=gun&serviseName=@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray&security=none&encryption=none&fp=chrome&type=grpc#@icv2ray",
+            "protocol": "vless",
+            "ping_time": "1008",
+            "success_rate": "100.00"
+        },
+        {
             "id": "1370967",
             "name": "\ud83c\udde8\ud83c\udde6 ShatakVPN 891945",
             "config_data": "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4ZDkwMDA5ZmE1MDIzY2Zh@148.113.143.102:11201#%F0%9F%87%A8%F0%9F%87%A6%20ShatakVPN%20891945",
@@ -198,6 +206,14 @@
             "config_data": "vless:\/\/48ff2b70-e180-582f-8866-d9a2edeed5f5@57.129.53.181:23576?encryption=none&flow=xtls-rprx-vision&security=reality&sni=fuck.rkn&fp=chrome&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01&type=tcp&headerType=none#\ud83d\udd25Join+Telegram:@Farah_VPN\ud83d\udfe3",
             "protocol": "vless",
             "ping_time": "1079",
+            "success_rate": "100.00"
+        },
+        {
+            "id": "1398416",
+            "name": "@v2rays_ha 7150",
+            "config_data": "vless:\/\/ba2bb9d8-9baa-45d6-9e0a-38c9cb6a6a9a@104.20.1.252:80\/?path=\/?ed&security=none&encryption=none&host=WeaK-preSSUrE3Ga6bzof92.sPorTlaNd.coMPANY.&type=ws#@v2rays_ha7150",
+            "protocol": "vless",
+            "ping_time": "1088",
             "success_rate": "100.00"
         },
         {
@@ -534,6 +550,14 @@
             "config_data": "vless:\/\/fef4a93d-eb4f-4657-b56b-32a0dc060045@104.18.32.47:443?encryption=none&security=tls&sni=dev.twistsparrow.xyz&fp=chrome&type=ws&host=dev.twistsparrow.xyz&path=%2F#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20476878",
             "protocol": "vless",
             "ping_time": "1216",
+            "success_rate": "100.00"
+        },
+        {
+            "id": "1383072",
+            "name": "Telegram:@config_proxy \ud83d\udca6",
+            "config_data": "vless:\/\/8dc7722c-2767-4eea-a28b-2f8daacc07e3@yesok42v2.ip4exordir.shop:8880?encryption=none&security=none&type=grpc&path=\/XIXVPN?ed=2560#Telegram:@config_proxy\ud83d\udca6",
+            "protocol": "vless",
+            "ping_time": "1219",
             "success_rate": "100.00"
         },
         {
@@ -2457,6 +2481,6 @@
             "success_rate": "100.00"
         }
     ],
-    "total": 307,
-    "exported_at": "2026-02-07 05:48:58"
+    "total": 310,
+    "exported_at": "2026-02-07 05:57:21"
 }
