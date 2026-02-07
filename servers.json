@@ -105,6 +105,14 @@
             "success_rate": "100.00"
         },
         {
+            "id": "1451288",
+            "name": "\ud83c\uddf3\ud83c\uddf1 ShatakVPN 435904",
+            "config_data": "vless:\/\/1e1b9a1f-47cd-4cb2-a0dc-103a09e253ba@85.17.162.13:3000?security=&encryption=none&host=chess.com&headerType=http&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20ShatakVPN%20435904",
+            "protocol": "vless",
+            "ping_time": "1025",
+            "success_rate": "100.00"
+        },
+        {
             "id": "1456301",
             "name": "[\ud83c\udfc1]t.me\/ConfigsHub`",
             "config_data": "vless:\/\/fef4a93d-eb4f-4657-b56b-32a0dc060045@104.21.40.34:443?path=%2F&security=tls&encryption=none&insecure=0&host=dev.twistsparrow.xyz&type=ws&allowInsecure=0&sni=dev.twistsparrow.xyz#[\ud83c\udfc1]t.me\/ConfigsHub`",
@@ -1934,6 +1942,14 @@
             "config_data": "vless:\/\/57ba2ab1-a283-42eb-82ee-dc3561a805b8@172.67.153.156:8443?allowInsecure=1&encryption=none&host=ovhwuxian.pai50288.uk&path=%2F57ba2ab1&security=tls&sni=ovhwuxian.pai50288.uk&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ANL",
             "protocol": "vless",
             "ping_time": "1433",
+            "success_rate": "100.00"
+        },
+        {
+            "id": "1456307",
+            "name": "\ud83c\uddeb\ud83c\uddee \ud83c\uddeb\ud83c\uddee[openproxylist.com]",
+            "config_data": "vless:\/\/5a1d2c0c-abfa-4050-918f-bfab3eaee62a@151.101.9.80:80?type=ws&security=none&host=adspeedx23.global.ssl.fastly.net&path=\/?ed%3D1049#\ud83c\uddeb\ud83c\uddee[openproxylist.com]",
+            "protocol": "vless",
+            "ping_time": "1441",
             "success_rate": "100.00"
         },
         {
@@ -4337,6 +4353,14 @@
             "success_rate": "100.00"
         },
         {
+            "id": "1431125",
+            "name": "\ud83c\uddf7\ud83c\uddfa \u26a1Telegram = @SOSkeyNET",
+            "config_data": "vless:\/\/00c01f55-e31a-41cd-872b-938cda90afc3@89.169.128.105:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&headerType=none&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&security=reality&sid=f4b4a6365558ea2e&sni=yandex.ru&type=tcp#\u26a1Telegram=@SOSkeyNET",
+            "protocol": "vless",
+            "ping_time": "1988",
+            "success_rate": "100.00"
+        },
+        {
             "id": "1375649",
             "name": "\ud83c\uddee\ud83c\uddf3 @meliproxyy",
             "config_data": "vless:\/\/6202b230-417c-4d8e-b624-0f71afa9c75d@195.200.18.248:443?path=\/?ed=2560&Telegram\ud83c\udde8\ud83c\uddf3@WangCai2&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#@meliproxyy",
@@ -4377,6 +4401,6 @@
             "success_rate": "100.00"
         }
     ],
-    "total": 547,
-    "exported_at": "2026-02-07 19:39:20"
+    "total": 550,
+    "exported_at": "2026-02-07 19:49:23"
 }
