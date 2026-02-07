@@ -641,6 +641,14 @@
             "success_rate": "100.00"
         },
         {
+            "id": "1451823",
+            "name": "\ud83c\uddee\ud83c\uddf7 \u26a1 b2n.ir\/v2ray-configs | 87",
+            "config_data": "vless:\/\/1e35b4bf-b270-4c0b-918d-62746eedd2ad@104.18.32.47:80?path=%2F%3Fed&security=&encryption=none&host=EveRLaSTinG-fiNANcE439p1sxXHY.SPORtLAND.CompanY.&type=ws#\u26a1b2n.ir\/v2ray-configs|87",
+            "protocol": "vless",
+            "ping_time": "1154",
+            "success_rate": "100.00"
+        },
+        {
             "id": "1313364",
             "name": "\ud83c\udff3\ufe0f ShatakVPN 394913",
             "config_data": "vless:\/\/3ff03067-b0dd-4361-a21f-27bb9474b9b8@147.45.51.28:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA&security=reality&sni=srv10.outlinekeys.com&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20394913",
@@ -4209,6 +4217,6 @@
             "success_rate": "100.00"
         }
     ],
-    "total": 526,
-    "exported_at": "2026-02-07 17:56:08"
+    "total": 527,
+    "exported_at": "2026-02-07 17:59:03"
 }
