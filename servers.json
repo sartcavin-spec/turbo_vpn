@@ -2297,6 +2297,14 @@
             "success_rate": "100.00"
         },
         {
+            "id": "1434158",
+            "name": "\ud83c\udde8\ud83c\udde6 \ud83c\udf96@v2ray_configs_pools\u2b1c \u0627\u06cc\u0631\u0627\u0646\u0633\u0644 \u0631\u0627\u06cc\u062a\u06441",
+            "config_data": "vless:\/\/686c62d9-17a7-43c9-a40a-f6747df60a9f@v1.dabache.top:2096?path=\/&security=tls&encryption=none&host=ca.adobe-connect.top&fp=chrome&type=ws&sni=ca.adobe-connect.top#\ud83c\udf96@v2ray_configs_pools\u2b1c\u0627\u06cc\u0631\u0627\u0646\u0633\u0644\u0631\u0627\u06cc\u062a\u06441",
+            "protocol": "vless",
+            "ping_time": "1573",
+            "success_rate": "100.00"
+        },
+        {
             "id": "1400325",
             "name": "\ud83c\uddee\ud83c\uddf3 \ud83d\udd25Join Telegram:@Farah_VPN\ud83d\udfe3",
             "config_data": "vless:\/\/6202b230-417c-4d8e-b624-0f71afa9c75d@91.84.111.44:8443?path=\/?ed=2560&Telegram\ud83c\udde8\ud83c\uddf3+@WangCai2&security=tls&encryption=none&host=sni.111000.indevs.in&type=ws&sni=sni.111000.indevs.in#\ud83d\udd25Join+Telegram:@Farah_VPN\ud83d\udfe3",
@@ -3993,6 +4001,6 @@
             "success_rate": "100.00"
         }
     ],
-    "total": 499,
-    "exported_at": "2026-02-07 14:37:47"
+    "total": 500,
+    "exported_at": "2026-02-07 14:46:19"
 }
