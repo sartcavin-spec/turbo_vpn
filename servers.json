@@ -1441,6 +1441,14 @@
             "success_rate": "100.00"
         },
         {
+            "id": "1468141",
+            "name": "\ud83c\uddee\ud83c\uddf7 \ud83c\uddfa\ud83c\uddf8 ShatakVPN 894766",
+            "config_data": "vless:\/\/96d9bcb0-9ad2-48be-85a2-a9ab3a005261@172.64.155.209:2083?type=ws&encryption=none&host=ds1-mx-fn154-protection.iranlease.com&path=\/&security=tls&sni=ds1-mx-fn154-protection.iranlease.com&alpn=http\/1.1&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20894766",
+            "protocol": "vless",
+            "ping_time": "1323",
+            "success_rate": "100.00"
+        },
+        {
             "id": "1370170",
             "name": "\ud83c\uddec\ud83c\udde7 \ud83c\uddec\ud83c\udde704@shadowsockskeys",
             "config_data": "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5M1Nvd3FVa3J0MWNibTQ4N2c3NEFj@78.129.140.11:443#\ud83c\uddec\ud83c\udde704@shadowsockskeys",
@@ -3169,14 +3177,6 @@
             "success_rate": "100.00"
         },
         {
-            "id": "1443154",
-            "name": "\ud83c\uddee\ud83c\uddf7 \ud83c\uddfa\ud83c\uddf8 ShatakVPN 894766",
-            "config_data": "vless:\/\/96d9bcb0-9ad2-48be-85a2-a9ab3a005261@172.64.155.209:2083?type=ws&encryption=none&host=ds1-mx-fn154-protection.iranlease.com&path=\/&security=tls&sni=ds1-mx-fn154-protection.iranlease.com&alpn=http\/1.1&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20894766",
-            "protocol": "vless",
-            "ping_time": "1715",
-            "success_rate": "100.00"
-        },
-        {
             "id": "1426272",
             "name": "\ud83c\uddee\ud83c\uddf3 \ud83d\udd25Join Telegram:@Farah_VPN\ud83d\udfe3",
             "config_data": "vless:\/\/6202b230-417c-4d8e-b624-0f71afa9c75d@45.144.31.45:443?path=\/?ed=2560&Telegram\ud83c\udf96@AliXTso&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#\ud83d\udd25Join+Telegram:@Farah_VPN\ud83d\udfe3",
@@ -4530,5 +4530,5 @@
         }
     ],
     "total": 566,
-    "exported_at": "2026-02-07 21:59:40"
+    "exported_at": "2026-02-07 22:21:03"
 }
