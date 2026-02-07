@@ -1137,6 +1137,14 @@
             "success_rate": "100.00"
         },
         {
+            "id": "1449781",
+            "name": "Telegram:@meowvip1 *167*",
+            "config_data": "vless:\/\/3321a819-889d-40b3-b8fa-f34208827ef1@57.129.137.56:443?path=\/proxyip&security=tls&encryption=none&insecure=0&host=o00o.snip.qzz.io&fp=chrome&type=ws&allowInsecure=0&sni=o00o.snip.qzz.io#Telegram:@meowvip1*167*",
+            "protocol": "vless",
+            "ping_time": "1269",
+            "success_rate": "100.00"
+        },
+        {
             "id": "1351276",
             "name": "\ud83d\udd25Join Telegram:@Farah_VPN\ud83d\udfe3",
             "config_data": "vless:\/\/fef4a93d-eb4f-4657-b56b-32a0dc060045@104.17.162.123:443?path=\/&security=tls&serviseName=@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=dev.twistsparrow.xyz#\ud83d\udd25Join+Telegram:@Farah_VPN\ud83d\udfe3",
@@ -1838,6 +1846,14 @@
             "config_data": "vless:\/\/da406588-095f-4683-acc2-a3aa3aab68d6@ipbaz.ping-box.com:2096?mode=auto&path=\/&security=tls&alpn=h2&encryption=none&insecure=0&host=fr1.itscdn.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=fr1.itscdn.ir#@Blank_Vpn\u0644\u0637\u0641\u0627\u0628\u0631\u0627\u06cc\u062d\u0645\u0627\u06cc\u062a\u062c\u0648\u06cc\u0646\u0634\u06cc\u062f",
             "protocol": "vless",
             "ping_time": "1406",
+            "success_rate": "100.00"
+        },
+        {
+            "id": "1453566",
+            "name": "\ud83c\uddee\ud83c\uddf3 \u26a1 b2n.ir\/v2ray-configs | 188",
+            "config_data": "vless:\/\/6202b230-417c-4d8e-b624-0f71afa9c75d@91.84.103.232:443?path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=tls&encryption=none&host=sni.111000.indevs.in&type=ws&sni=sni.111000.indevs.in#\u26a1b2n.ir\/v2ray-configs|188",
+            "protocol": "vless",
+            "ping_time": "1407",
             "success_rate": "100.00"
         },
         {
@@ -3121,6 +3137,14 @@
             "success_rate": "100.00"
         },
         {
+            "id": "1435666",
+            "name": "\ud83c\uddee\ud83c\uddf3 \ud83d\udd25Join Telegram:@Farah_VPN\ud83d\udfe3",
+            "config_data": "vless:\/\/6202b230-417c-4d8e-b624-0f71afa9c75d@146.59.231.117:2053?path=\/Telegram@V2rayAlpha\/?ed=2560&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#\ud83d\udd25Join+Telegram:@Farah_VPN\ud83d\udfe3",
+            "protocol": "vless",
+            "ping_time": "1725",
+            "success_rate": "100.00"
+        },
+        {
             "id": "1408592",
             "name": "\ud83c\uddf7\ud83c\uddfa @meliproxyy",
             "config_data": "vless:\/\/4603e54d-b023-4947-83e7-70025416f306@158.160.105.121:51102\/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=yandex.ru&fp=chrome&security=reality&pbk=Qddpg8luihgzgx4g4uMJklXzlrMCd8L1igJSWrRUvSc&sid=1929ef620e9b34f5#@meliproxyy",
@@ -3785,6 +3809,14 @@
             "success_rate": "100.00"
         },
         {
+            "id": "1456150",
+            "name": "\ud83c\uddee\ud83c\uddf3 \ud83d\udd25Join Telegram:@Farah_VPN\ud83d\udfe3",
+            "config_data": "vless:\/\/6202b230-417c-4d8e-b624-0f71afa9c75d@37.59.96.25:443?path=\/?ed=2560&Telegram@AliXTso&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#\ud83d\udd25Join+Telegram:@Farah_VPN\ud83d\udfe3",
+            "protocol": "vless",
+            "ping_time": "1877",
+            "success_rate": "100.00"
+        },
+        {
             "id": "1374115",
             "name": "\ud83c\uddec\ud83c\udde7 \u26a1Telegram = @SOSkeyNET",
             "config_data": "vless:\/\/e9052516-1e37-4665-a0b4-a5c65dd0ab70@104.18.32.47:80?path=\/?ed&security=&encryption=none&host=TastY-LeaRNInG94aZG31SfF.ECOTouRiss.CO.UK.&type=ws#\u26a1Telegram=@SOSkeyNET",
@@ -4337,6 +4369,6 @@
             "success_rate": "100.00"
         }
     ],
-    "total": 542,
-    "exported_at": "2026-02-07 19:12:56"
+    "total": 546,
+    "exported_at": "2026-02-07 19:33:59"
 }
