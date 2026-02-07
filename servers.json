@@ -3257,6 +3257,14 @@
             "success_rate": "100.00"
         },
         {
+            "id": "1454393",
+            "name": "channel : @freedomofinfor",
+            "config_data": "vless:\/\/d89d6641-3b1a-4f51-a194-9c9109fd21b6@v1.dabache.top:443?path=\/Tel-@V2rayAlpha&security=tls&encryption=none&insecure=0&host=DiprOX.pages.DEV&fp=chrome&type=ws&allowInsecure=0&sni=DiprOX.pages.DEV#channel:@freedomofinfor",
+            "protocol": "vless",
+            "ping_time": "1732",
+            "success_rate": "100.00"
+        },
+        {
             "id": "1370212",
             "name": "@YamYamProxy",
             "config_data": "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.101:8080#@YamYamProxy",
@@ -4521,6 +4529,6 @@
             "success_rate": "100.00"
         }
     ],
-    "total": 565,
-    "exported_at": "2026-02-07 21:45:46"
+    "total": 566,
+    "exported_at": "2026-02-07 21:52:43"
 }
