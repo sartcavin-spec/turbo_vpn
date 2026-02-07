@@ -3145,6 +3145,14 @@
             "success_rate": "100.00"
         },
         {
+            "id": "1443154",
+            "name": "\ud83c\uddee\ud83c\uddf7 \ud83c\uddfa\ud83c\uddf8 ShatakVPN 894766",
+            "config_data": "vless:\/\/96d9bcb0-9ad2-48be-85a2-a9ab3a005261@172.64.155.209:2083?type=ws&encryption=none&host=ds1-mx-fn154-protection.iranlease.com&path=\/&security=tls&sni=ds1-mx-fn154-protection.iranlease.com&alpn=http\/1.1&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20894766",
+            "protocol": "vless",
+            "ping_time": "1715",
+            "success_rate": "100.00"
+        },
+        {
             "id": "1426272",
             "name": "\ud83c\uddee\ud83c\uddf3 \ud83d\udd25Join Telegram:@Farah_VPN\ud83d\udfe3",
             "config_data": "vless:\/\/6202b230-417c-4d8e-b624-0f71afa9c75d@45.144.31.45:443?path=\/?ed=2560&Telegram\ud83c\udf96@AliXTso&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#\ud83d\udd25Join+Telegram:@Farah_VPN\ud83d\udfe3",
@@ -3406,6 +3414,14 @@
             "config_data": "vless:\/\/0b3ad86e-1818-49bb-949d-4e85d137a16d@104.21.13.210:443?path=\/&security=tls&encryption=none&insecure=0&host=mianfeijiedianscp.buzz&type=ws&allowInsecure=0&sni=mianfeijiedianscp.buzz#@meliproxyy",
             "protocol": "vless",
             "ping_time": "1768",
+            "success_rate": "100.00"
+        },
+        {
+            "id": "1450206",
+            "name": "\ud83c\uddee\ud83c\uddf3 \ud83c\udf96@AliXTso",
+            "config_data": "vless:\/\/6202b230-417c-4d8e-b624-0f71afa9c75d@188.166.151.33:443?path=\/?ed=2560&Telegram\ud83c\udf96@AliXTso&security=tls&encryption=none&host=sni.111000.indevs.in&type=ws&sni=sni.111000.indevs.in#\ud83c\udf96@AliXTso",
+            "protocol": "vless",
+            "ping_time": "1769",
             "success_rate": "100.00"
         },
         {
@@ -4473,6 +4489,6 @@
             "success_rate": "100.00"
         }
     ],
-    "total": 559,
-    "exported_at": "2026-02-07 20:54:43"
+    "total": 561,
+    "exported_at": "2026-02-07 21:20:18"
 }
