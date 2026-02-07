@@ -409,6 +409,14 @@
             "success_rate": "100.00"
         },
         {
+            "id": "1438949",
+            "name": "Telegram:@meowvip1 *155*",
+            "config_data": "vless:\/\/nasnet@162.19.10.99:443?security=tls&alpn=h2,http\/1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=nasnet-162191099-direct.sharghdaily.co#Telegram:@meowvip1*155*",
+            "protocol": "vless",
+            "ping_time": "1098",
+            "success_rate": "100.00"
+        },
+        {
             "id": "1370859",
             "name": "\ud83c\uddfa\ud83c\uddf8 ShatakVPN 820877",
             "config_data": "vless:\/\/016f56be-21ba-4c39-aa3d-2cc2c3ea9929@104.18.185.26:8880?type=ws&encryption=none&host=r-one.lat&path=\/eyJqdW5rIjoicXNuOHJDRXhEdyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0?ed=2560?TELEGRAM--KANAL--JKVPN--JKVPN--JKVPN--JKVPN--JKVPN--JKVPN#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20820877",
@@ -4369,6 +4377,6 @@
             "success_rate": "100.00"
         }
     ],
-    "total": 546,
-    "exported_at": "2026-02-07 19:33:59"
+    "total": 547,
+    "exported_at": "2026-02-07 19:39:20"
 }
