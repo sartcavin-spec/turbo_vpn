@@ -2833,6 +2833,14 @@
             "success_rate": "100.00"
         },
         {
+            "id": "1417040",
+            "name": "\ud83d\udd25Join Telegram:@Farah_VPN\ud83d\udfe3",
+            "config_data": "vless:\/\/nasnet@162.19.10.99:443?security=tls&alpn=h2,http\/1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=nasnet-162191099-direct.sharghdaily.co#\ud83d\udd25Join+Telegram:@Farah_VPN\ud83d\udfe3",
+            "protocol": "vless",
+            "ping_time": "1692",
+            "success_rate": "100.00"
+        },
+        {
             "id": "1346450",
             "name": "lyriffy",
             "config_data": "trojan:\/\/humanity@172.64.152.23:443?path=\/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#lyriffy",
@@ -4025,6 +4033,6 @@
             "success_rate": "100.00"
         }
     ],
-    "total": 503,
-    "exported_at": "2026-02-07 15:54:42"
+    "total": 504,
+    "exported_at": "2026-02-07 16:17:41"
 }
