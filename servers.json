@@ -3273,6 +3273,14 @@
             "success_rate": "100.00"
         },
         {
+            "id": "1425270",
+            "name": "\ud83c\udf10 Cloud",
+            "config_data": "vmess:\/\/eyJhZGQiOiAiMTcyLjY0LjE0OS4xODIiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAibmFzbmV0LTU3MTI5NjQxMDIuc2hhcmdoZGFpbHkuY28iLCAiaWQiOiAibmFzbmV0IiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9uYXNuZXQvY2RuIiwgInBvcnQiOiAiODA4MCIsICJwcyI6ICJcdWQ4M2RcdWRkMjVKb2luK1RlbGVncmFtOkBGYXJhaF9WUE5cdWQ4M2RcdWRmZTMiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiLS0tIiwgInYiOiAiMiJ9",
+            "protocol": "vmess",
+            "ping_time": "1814",
+            "success_rate": "100.00"
+        },
+        {
             "id": "1423459",
             "name": "\ud83c\uddec\ud83c\udde7 Telegram:@config_proxy \ud83d\udd25",
             "config_data": "vless:\/\/e9052516-1e37-4665-a0b4-a5c65dd0ab70@104.18.32.47:80\/?security=none&type=ws&path=\/?ed&host=TastY-LeaRNInG94aZG31SfF.ECOTouRiss.CO.UK.&encryption=none#Telegram:@config_proxy\ud83d\udd25",
@@ -3953,6 +3961,6 @@
             "success_rate": "100.00"
         }
     ],
-    "total": 494,
-    "exported_at": "2026-02-07 13:51:26"
+    "total": 495,
+    "exported_at": "2026-02-07 14:00:50"
 }
