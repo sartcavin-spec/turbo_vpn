@@ -97,6 +97,14 @@
             "success_rate": "100.00"
         },
         {
+            "id": "1461150",
+            "name": "\ud83c\uddee\ud83c\uddf7 \u26a1 b2n.ir\/v2ray-configs | 516",
+            "config_data": "vless:\/\/fef4a93d-eb4f-4657-b56b-32a0dc060045@188.114.98.0:443?path=%2F%3Fed%3D512&security=tls&encryption=none&host=dev.twistsparrow.xyz&type=ws&sni=dev.twistsparrow.xyz#\u26a1b2n.ir\/v2ray-configs|516",
+            "protocol": "vless",
+            "ping_time": "1024",
+            "success_rate": "100.00"
+        },
+        {
             "id": "1456301",
             "name": "[\ud83c\udfc1]t.me\/ConfigsHub`",
             "config_data": "vless:\/\/fef4a93d-eb4f-4657-b56b-32a0dc060045@104.21.40.34:443?path=%2F&security=tls&encryption=none&insecure=0&host=dev.twistsparrow.xyz&type=ws&allowInsecure=0&sni=dev.twistsparrow.xyz#[\ud83c\udfc1]t.me\/ConfigsHub`",
@@ -190,14 +198,6 @@
             "config_data": "vless:\/\/59edf6dc-b1f7-4017-8107-aae4f61a173c@62.60.234.157:443?flow=xtls-rprx-vision&security=reality&sni=srv6.outlinekeys.com&fp=chrome&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA&type=tcp&path=\/#%F0%9F%87%B1%F0%9F%87%BB%20ShatakVPN%20166678",
             "protocol": "vless",
             "ping_time": "1051",
-            "success_rate": "100.00"
-        },
-        {
-            "id": "1394616",
-            "name": "\ud83c\uddee\ud83c\uddf7 >>@oneclickvpnkeys::DE",
-            "config_data": "vless:\/\/96d9bcb0-9ad2-48be-85a2-a9ab3a005261@8.6.112.0:2083\/?type=ws&encryption=none&flow=&host=ds1-mx-fn154-protection.iranlease.com&path=%2F%3Fed%3D2560&security=tls&sni=ds1-mx-fn154-protection.iranlease.com&allowInsecure=1#%3E%3E%40oneclickvpnkeys%3A%3ADE",
-            "protocol": "vless",
-            "ping_time": "1053",
             "success_rate": "100.00"
         },
         {
@@ -1076,6 +1076,14 @@
             "id": "1373962",
             "name": "\ud83c\udde9\ud83c\uddea \ud83c\udde9\ud83c\uddea - DE - @freeOnlineVPN",
             "config_data": "vless:\/\/546e91b5-c33e-4b04-b20c-c0fc8f6d9d7f@104.20.1.252:80?path=\/?ed&security=&encryption=none&host=bIZARRe-CEntEryZCvddNcfJ.spORtLand.COmPANY.&type=ws&note=@freeOnlineVPN#\ud83c\udde9\ud83c\uddea-DE-@freeOnlineVPN",
+            "protocol": "vless",
+            "ping_time": "1257",
+            "success_rate": "100.00"
+        },
+        {
+            "id": "1438367",
+            "name": "\u2622\ufe0f45@oneclickvpnkeys",
+            "config_data": "vless:\/\/e5f8a9f6-f164-479b-b3b5-b90f213c7145@104.21.224.5:2053\/?type=ws&encryption=none&flow=&host=ir1.airpanel.top&path=\/&security=tls&sni=ir1.airpanel.top&allowInsecure=1#\u2622\ufe0f45@oneclickvpnkeys",
             "protocol": "vless",
             "ping_time": "1257",
             "success_rate": "100.00"
@@ -2337,6 +2345,14 @@
             "success_rate": "100.00"
         },
         {
+            "id": "1437165",
+            "name": "\ud83c\uddee\ud83c\uddf7 >>@oneclickvpnkeys::DE",
+            "config_data": "vless:\/\/96d9bcb0-9ad2-48be-85a2-a9ab3a005261@8.6.112.0:2083\/?type=ws&encryption=none&flow=&host=ds1-mx-fn154-protection.iranlease.com&path=%2F%3Fed%3D2560&security=tls&sni=ds1-mx-fn154-protection.iranlease.com&allowInsecure=1#%3E%3E%40oneclickvpnkeys%3A%3ADE",
+            "protocol": "vless",
+            "ping_time": "1559",
+            "success_rate": "100.00"
+        },
+        {
             "id": "1363755",
             "name": "\ud83c\uddec\ud83c\udde7 \ud83c\uddfa\ud83c\uddf8 ShatakVPN 260316",
             "config_data": "vless:\/\/e9052516-1e37-4665-a0b4-a5c65dd0ab70@104.18.32.47:80?path=%2F%3Fed&security=&encryption=none&host=TastY-LeaRNInG94aZG31SfF.ECOTouRiss.CO.UK.&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20260316",
@@ -3068,6 +3084,14 @@
             "id": "1349336",
             "name": "@PRS_MLBB",
             "config_data": "vless:\/\/b4819c49-6c7e-4b57-9b9b-c73031e1de11@pq-albania1.09vpn.com:80\/?type=ws&encryption=none&flow=&path=\/vless\/#@PRS_MLBB",
+            "protocol": "vless",
+            "ping_time": "1719",
+            "success_rate": "100.00"
+        },
+        {
+            "id": "1457963",
+            "name": "@v2rays_ha 7289",
+            "config_data": "vless:\/\/f8ae018b-b84d-4c9b-b03b-4642c3a25977@172.66.128.70:2052\/?security=none&type=ws&path=\/?ed&host=ExEMplAry-MILkytsxQiQYso.sPortlaNd.CoMPANy.&encryption=none#@v2rays_ha7289",
             "protocol": "vless",
             "ping_time": "1719",
             "success_rate": "100.00"
@@ -4065,6 +4089,14 @@
             "success_rate": "100.00"
         },
         {
+            "id": "1455744",
+            "name": "\ud83d\udd25Join Telegram:@Farah_VPN\ud83d\udfe3",
+            "config_data": "vless:\/\/ba2bb9d8-9baa-45d6-9e0a-38c9cb6a6a9a@nodejs.org:80?path=%2F%3Fed&security=&encryption=none&host=WeaK-preSSUrE3Ga6bzof92.sPorTlaNd.coMPANY.&type=ws#\ud83d\udd25Join+Telegram:@Farah_VPN\ud83d\udfe3",
+            "protocol": "vless",
+            "ping_time": "1953",
+            "success_rate": "100.00"
+        },
+        {
             "id": "1443680",
             "name": "\ud83c\uddfa\ud83c\uddf8 ShatakVPN 883105",
             "config_data": "vless:\/\/48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.176:23576?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20883105",
@@ -4297,6 +4329,6 @@
             "success_rate": "100.00"
         }
     ],
-    "total": 537,
-    "exported_at": "2026-02-07 18:42:45"
+    "total": 541,
+    "exported_at": "2026-02-07 19:04:59"
 }
