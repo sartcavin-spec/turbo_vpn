@@ -1081,6 +1081,14 @@
             "success_rate": "100.00"
         },
         {
+            "id": "1422423",
+            "name": "VayNora",
+            "config_data": "vless:\/\/8dc7722c-2767-4eea-a28b-2f8daacc07e3@45.82.251.208:8880?security=&encryption=none&type=grpc#VayNora",
+            "protocol": "vless",
+            "ping_time": "1272",
+            "success_rate": "100.00"
+        },
+        {
             "id": "1392106",
             "name": "\ud83c\uddee\ud83c\uddf7 \u26a1 b2n.ir\/v2ray-configs | 547",
             "config_data": "vless:\/\/d89d6641-3b1a-4f51-a194-9c9109fd21b6@creativecommons.org:443?path=%2Fassets&security=tls&encryption=none&insecure=0&host=diprox.pages.dev&type=ws&allowInsecure=0&sni=DiprOX.pages.DEV#\u26a1b2n.ir\/v2ray-configs|547",
@@ -3961,6 +3969,6 @@
             "success_rate": "100.00"
         }
     ],
-    "total": 495,
-    "exported_at": "2026-02-07 14:00:50"
+    "total": 496,
+    "exported_at": "2026-02-07 14:13:56"
 }
