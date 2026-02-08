@@ -7041,6 +7041,14 @@
             "success_rate": "100.00"
         },
         {
+            "id": "1571331",
+            "name": "\ud83c\uddfa\ud83c\uddf8 ShatakVPN 840343",
+            "config_data": "vless:\/\/8dc7722c-2767-4eea-a28b-2f8daacc07e3@45.82.251.249:8880?encryption=none&security=none&sni=pqh29v4.globalfymain.com&type=grpc#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20840343",
+            "protocol": "vless",
+            "ping_time": "1743",
+            "success_rate": "100.00"
+        },
+        {
             "id": "1375350",
             "name": "\ud83c\udde9\ud83c\uddea \ud83c\udde9\ud83c\uddea - DE - @freeOnlineVPN",
             "config_data": "vless:\/\/546e91b5-c33e-4b04-b20c-c0fc8f6d9d7f@nodejs.org:80\/?type=ws&encryption=none&flow=&host=bIZARRe-CEntEryZCvddNcfJ.spORtLand.COmPANY.&path=\/?ed=512&note=@freeOnlineVPN#\ud83c\udde9\ud83c\uddea-DE-@freeOnlineVPN",
@@ -9313,6 +9321,6 @@
             "success_rate": "100.00"
         }
     ],
-    "total": 1164,
-    "exported_at": "2026-02-08 19:42:58"
+    "total": 1165,
+    "exported_at": "2026-02-08 19:53:41"
 }
