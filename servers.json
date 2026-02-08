@@ -153,6 +153,14 @@
             "success_rate": "100.00"
         },
         {
+            "id": "1519872",
+            "name": "\ud83c\uddf7\ud83c\uddfa \u26a1 b2n.ir\/v2ray-configs | 262",
+            "config_data": "vless:\/\/8009bc13-0c64-4ae9-9a74-24ce12cc71e8@158.160.223.36:443?security=reality&encryption=none&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yandex.ru&sid=04bf0403f96e5b4b#\u26a1b2n.ir\/v2ray-configs|262",
+            "protocol": "vless",
+            "ping_time": "1030",
+            "success_rate": "100.00"
+        },
+        {
             "id": "1482644",
             "name": "\ud83c\udf10 Cloud",
             "config_data": "vmess:\/\/eyJhZGQiOiAiMTcyLjY3LjIwNC44NCIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICJuYXNuZXQtNTExOTUyNDI0Lm1jaXRlbC5jbyIsICJpZCI6ICJuYXNuZXQiLCAiaW5zZWN1cmUiOiAiMSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvbmFzbmV0L2NkbiIsICJwb3J0IjogIjgwODAiLCAicHMiOiAiXHVkODNkXHVkZDI1Sm9pbitUZWxlZ3JhbTpARmFyYWhfVlBOXHVkODNkXHVkZmUzIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIi0tLSIsICJ2IjogIjIifQ==",
@@ -4889,6 +4897,14 @@
             "success_rate": "100.00"
         },
         {
+            "id": "1515447",
+            "name": "\ud83c\uddee\ud83c\uddf3 \ud83c\udf96@v2ray_configs_pools",
+            "config_data": "vless:\/\/6202b230-417c-4d8e-b624-0f71afa9c75d@5.129.214.10:443?path=\/?ed=2560&Telegram\ud83c\udf96@AliXTso&security=tls&encryption=none&host=sni.111000.indevs.in&type=ws&sni=sni.111000.indevs.in#\ud83c\udf96@v2ray_configs_pools",
+            "protocol": "vless",
+            "ping_time": "1740",
+            "success_rate": "100.00"
+        },
+        {
             "id": "1474160",
             "name": "\ud83d\udd25Join Telegram:@Farah_VPN\ud83d\udfe3",
             "config_data": "vless:\/\/de7b6583-99d7-4376-a947-7040ccaf33a9@ezqumuc7oe5-80zdgswmwuomouj8qmg7.xolyzo4465.workers.dev:443?encryption=none&security=tls&sni=EZquMuC7OE5-80ZDGswmwuoMouJ8qmg7.xOlyZo4465.wOrKERs.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=ezqumuc7oe5-80zdgswmwuomouj8qmg7.xolyzo4465.workers.dev&path=%2FeyJqdW5rIjoiUlkyamE5RDI4U3Z6OEoiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed%3D2560#\ud83d\udd25Join+Telegram:@Farah_VPN\ud83d\udfe3",
@@ -6689,6 +6705,6 @@
             "success_rate": "100.00"
         }
     ],
-    "total": 836,
-    "exported_at": "2026-02-08 07:46:20"
+    "total": 838,
+    "exported_at": "2026-02-08 08:01:38"
 }
