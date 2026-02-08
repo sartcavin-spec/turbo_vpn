@@ -25,6 +25,14 @@
             "success_rate": "100.00"
         },
         {
+            "id": "1517726",
+            "name": "\u2622\ufe0f44@unvisible_drops",
+            "config_data": "vless:\/\/1c7fcc38-e6be-43c5-875f-b8de2516b9f2@5.182.38.91:17267\/?type=tcp&encryption=none&flow=&sni=yahoo.com&fp=chrome&security=reality&pbk=SnWZg6ORcQepuWLI1EVCTTVc4KyfDiGWR4o_CXCMhgk&sid=4ae260#%E2%98%A2%EF%B8%8F44%40unvisible_drops",
+            "protocol": "vless",
+            "ping_time": "1003",
+            "success_rate": "100.00"
+        },
+        {
             "id": "1443377",
             "name": "\ud83c\udde9\ud83c\uddea ShatakVPN 349940",
             "config_data": "vless:\/\/9357d31a-97f5-492b-9a9d-24dcb3449fb9@94.156.115.109:443\/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=tunnel.vk-apps.com&fp=chrome&security=reality&pbk=2XHOm5oJ92noxYHfahYv6dABkpp-bdehIA5grPB1X2c&sid=beba4237#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20349940",
@@ -65,14 +73,6 @@
             "success_rate": "100.00"
         },
         {
-            "id": "1384282",
-            "name": "\ud83c\uddec\ud83c\udde7 >>@flyv2ray::XX",
-            "config_data": "vless:\/\/1a94fbd9-79d2-4aa7-bf1d-074f678d27ab@104.20.1.252:80?path=%2F%3Fed&security=none&encryption=none&host=EqUiPPed-phOToZkoA7K5e6P.eCoTOuRiss.Co.uk.&type=ws#%3E%3E%40flyv2ray%3A%3AXX",
-            "protocol": "vless",
-            "ping_time": "1013",
-            "success_rate": "100.00"
-        },
-        {
             "id": "1472968",
             "name": "\ud83c\udf10 Cloud",
             "config_data": "vmess:\/\/eyJhZGQiOiIxNzIuNjcuMjA0Ljg0IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJuYXNuZXQtNTExOTUyNDI0Lm1jaXRlbC5jbyIsImlkIjoibmFzbmV0IiwibmV0Ijoid3MiLCJwYXRoIjoiL25hc25ldC9jZG4iLCJwb3J0IjoiODA4MCIsInBzIjoiQUcgNiBAT3V0bGluZV9WcG4iLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=",
@@ -92,14 +92,6 @@
             "id": "1376644",
             "name": "\ud83c\uddfa\ud83c\uddf8 ShatakVPN 895045",
             "config_data": "vmess:\/\/eyJhZGQiOiAiMTcyLjY3LjIwNC44NCIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICJuYXNuZXQtNTExOTUyNDI0Lm1jaXRlbC5jbyIsICJpZCI6ICJuYXNuZXQiLCAiaW5zZWN1cmUiOiAiMSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvbmFzbmV0L2NkbiIsICJwb3J0IjogODA4MCwgInBzIjogIvCfh7rwn4e4IFNoYXRha1ZQTiA4OTUwNDUiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiLS0tIiwgInYiOiAiMiIsICJuYW1lIjogIkB2MnJheW5nemVuZGVnaW1hbWFk8J+Viu+4jyJ9#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20895045",
-            "protocol": "vmess",
-            "ping_time": "1024",
-            "success_rate": "100.00"
-        },
-        {
-            "id": "1409471",
-            "name": "\ud83c\uddfa\ud83c\uddf8 ShatakVPN 830105",
-            "config_data": "vmess:\/\/eyJhZGQiOiAiMTcyLjY3LjIwNC44NCIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICJuYXNuZXQtNTExOTUyNDI0Lm1jaXRlbC5jbyIsICJpZCI6ICJuYXNuZXQiLCAiaW5zZWN1cmUiOiAiMCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvbmFzbmV0L2NkbiIsICJwb3J0IjogODA4MCwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIi0tLSIsICJ2IjogIjIiLCAicHMiOiAi8J+HuvCfh7ggU2hhdGFrVlBOIDgzMDEwNSIsICJuYW1lIjogIvCflKVKb2luK1RlbGVncmFtOkBGYXJhaF9WUE7wn5+jIn0=#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20830105",
             "protocol": "vmess",
             "ping_time": "1024",
             "success_rate": "100.00"
@@ -164,6 +156,14 @@
             "id": "1484156",
             "name": "\ud83c\uddfa\ud83c\uddf8 ShatakVPN 640811",
             "config_data": "vless:\/\/546e91b5-c33e-4b04-b20c-c0fc8f6d9d7f@104.20.1.252:80?encryption=none&security=none&type=ws&host=bIZARRe-CEntEryZCvddNcfJ.spORtLand.COmPANY.&path=%2F%3Fed#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20640811",
+            "protocol": "vless",
+            "ping_time": "1035",
+            "success_rate": "100.00"
+        },
+        {
+            "id": "1498554",
+            "name": "\ud83c\uddec\ud83c\udde7 \ud83d\udd25Join Telegram:@Farah_VPN\ud83d\udfe3",
+            "config_data": "vless:\/\/6abc2840-25fd-4dd7-b1aa-0892fe98f2d9@172.66.128.70:80?path=\/?ed&security=&encryption=none&host=MySterIOUS-chECk94Bl5oXQ6C.eCoTOUriSs.cO.uK.&type=ws#\ud83d\udd25Join+Telegram:@Farah_VPN\ud83d\udfe3",
             "protocol": "vless",
             "ping_time": "1035",
             "success_rate": "100.00"
@@ -553,34 +553,10 @@
             "success_rate": "100.00"
         },
         {
-            "id": "1383081",
-            "name": "@vpnbaz \u2602\ufe0f",
-            "config_data": "vless:\/\/8dc7722c-2767-4eea-a28b-2f8daacc07e3@yesok42v2.ip4exordir.shop:8880?mode=gun&security=none&encryption=none&type=grpc#@vpnbaz\u2602\ufe0f",
-            "protocol": "vless",
-            "ping_time": "1097",
-            "success_rate": "100.00"
-        },
-        {
-            "id": "1355100",
-            "name": "\ud83d\udd25Join Telegram:@Farah_VPN\ud83d\udfe3",
-            "config_data": "vless:\/\/3321a819-889d-40b3-b8fa-f34208827ef1@104.17.73.206:443\/?path=\/Tel-@V2rayAlpha&security=tls&serviseName=@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray&encryption=none&insecure=0&host=o00o.snip.qzz.io&fp=chrome&type=ws&allowInsecure=0&sni=o00o.snip.qzz.io#\ud83d\udd25Join+Telegram:@Farah_VPN\ud83d\udfe3",
-            "protocol": "vless",
-            "ping_time": "1098",
-            "success_rate": "100.00"
-        },
-        {
             "id": "1395556",
             "name": "@Blank_Vpn \u0644\u0637\u0641\u0627 \u0628\u0631\u0627\u06cc \u062d\u0645\u0627\u06cc\u062a \u062c\u0648\u06cc\u0646 \u0634\u06cc\u062f",
             "config_data": "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4dG1udlg1ell1V0dWSURQMmpnbFp3@5.78.51.123:1080#@Blank_Vpn\u0644\u0637\u0641\u0627\u0628\u0631\u0627\u06cc\u062d\u0645\u0627\u06cc\u062a\u062c\u0648\u06cc\u0646\u0634\u06cc\u062f",
             "protocol": "shadowsocks",
-            "ping_time": "1098",
-            "success_rate": "100.00"
-        },
-        {
-            "id": "1438949",
-            "name": "Telegram:@meowvip1 *155*",
-            "config_data": "vless:\/\/nasnet@162.19.10.99:443?security=tls&alpn=h2,http\/1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=nasnet-162191099-direct.sharghdaily.co#Telegram:@meowvip1*155*",
-            "protocol": "vless",
             "ping_time": "1098",
             "success_rate": "100.00"
         },
@@ -753,6 +729,14 @@
             "success_rate": "100.00"
         },
         {
+            "id": "1517715",
+            "name": "@APPXA",
+            "config_data": "vless:\/\/48ff2b70-e180-582f-8866-d9a2edeed5f5@57.129.53.182:23576?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&security=reality&sid=01&sni=fuck.rkn&type=tcp#@APPXA",
+            "protocol": "vless",
+            "ping_time": "1125",
+            "success_rate": "100.00"
+        },
+        {
             "id": "1369168",
             "name": "[\ud83c\udfc1]t.me\/ConfigsHub`",
             "config_data": "vless:\/\/8dc7722c-2767-4eea-a28b-2f8daacc07e3@45.82.251.116:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#[\ud83c\udfc1]t.me\/ConfigsHub`",
@@ -828,6 +812,14 @@
             "id": "1401533",
             "name": "\ud83c\uddee\ud83c\uddf7 \u26a1 b2n.ir\/v2ray-configs | 280",
             "config_data": "vless:\/\/1e35b4bf-b270-4c0b-918d-62746eedd2ad@104.18.32.47:80?path=%2F%3Fed&security=&encryption=none&host=EveRLaSTinG-fiNANcE439p1sxXHY.SPORtLAND.CompanY.&type=ws#\u26a1b2n.ir\/v2ray-configs|280",
+            "protocol": "vless",
+            "ping_time": "1139",
+            "success_rate": "100.00"
+        },
+        {
+            "id": "1517276",
+            "name": "VayNora",
+            "config_data": "vless:\/\/nasnet@57.129.64.102:443?security=tls&alpn=h2,http\/1.1&encryption=none&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1&flow=xtls-rprx-vision&sni=nasnet-5712964102-direct.sharghdaily.co#VayNora",
             "protocol": "vless",
             "ping_time": "1139",
             "success_rate": "100.00"
@@ -977,14 +969,6 @@
             "success_rate": "100.00"
         },
         {
-            "id": "1373664",
-            "name": "\ud83d\udd25Join Telegram:@Farah_VPN\ud83d\udfe3",
-            "config_data": "vless:\/\/d89d6641-3b1a-4f51-a194-9c9109fd21b6@108.162.198.154:443?path=\/Tel-@V2rayAlpha&security=tls&serviseName=@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray&encryption=none&insecure=0&host=diprox.pages.dev&fp=chrome&type=ws&allowInsecure=0&sni=DiprOX.pages.DEV#\ud83d\udd25Join+Telegram:@Farah_VPN\ud83d\udfe3",
-            "protocol": "vless",
-            "ping_time": "1162",
-            "success_rate": "100.00"
-        },
-        {
             "id": "1478921",
             "name": "\ud83c\udde9\ud83c\uddea \ud83c\udde9\ud83c\uddea - DE - @freeOnlineVPN",
             "config_data": "vless:\/\/ba2bb9d8-9baa-45d6-9e0a-38c9cb6a6a9a@172.66.128.70:80?path=\/?ed&security=&encryption=none&host=WeaK-preSSUrE3Ga6bzof92.sPorTlaNd.coMPANY.&type=ws&note=@freeOnlineVPN#\ud83c\udde9\ud83c\uddea-DE-@freeOnlineVPN",
@@ -1006,22 +990,6 @@
             "config_data": "vless:\/\/4c97ec3e-3527-48c5-80ff-b715463896ba@172.66.128.70:80?path=%2F%3Fed&security=none&encryption=none&host=kIndhEArTeD-PARkb5Rjo2juEr.sPorTLaNd.COMpAny.&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20871850",
             "protocol": "vless",
             "ping_time": "1166",
-            "success_rate": "100.00"
-        },
-        {
-            "id": "1254663",
-            "name": "\ud83c\uddec\ud83c\uddf7 ShatakVPN 670065",
-            "config_data": "vless:\/\/96fcf8cc-535d-46c4-b8f9-76058df48e3b@94.131.8.19:45448?encryption=none&security=reality&sni=yahoo.com&fp=chrome&pbk=MmEVCRy11fz67vYJQWyA2a_ZPMBzv2le2cus1XSSI0E&sid=958639bf55e679&type=tcp&headerType=none#%F0%9F%87%AC%F0%9F%87%B7%20ShatakVPN%20670065",
-            "protocol": "vless",
-            "ping_time": "1169",
-            "success_rate": "100.00"
-        },
-        {
-            "id": "1424179",
-            "name": "\u2622\ufe0f31@unvisible_drops",
-            "config_data": "vless:\/\/e765eb5b-8442-40e3-9532-857ba5ececa7@104.18.4.130:443\/?type=grpc&encryption=none&flow=&security=tls&sni=vbox.ping-box.com&alpn=h2%2Chttp%2F1.1&allowInsecure=1#%E2%98%A2%EF%B8%8F31%40unvisible_drops",
-            "protocol": "vless",
-            "ping_time": "1171",
             "success_rate": "100.00"
         },
         {
@@ -1273,14 +1241,6 @@
             "success_rate": "100.00"
         },
         {
-            "id": "1383051",
-            "name": "\ud83c\uddee\ud83c\uddf7 IR-@V2rayAlpha-14",
-            "config_data": "vless:\/\/8dc7722c-2767-4eea-a28b-2f8daacc07e3@45.82.251.208:8880?mode=gun&security=none&encryption=none&type=grpc#IR-@V2rayAlpha-14",
-            "protocol": "vless",
-            "ping_time": "1217",
-            "success_rate": "100.00"
-        },
-        {
             "id": "1397743",
             "name": "\ud83c\uddf7\ud83c\uddfa \u2622\ufe0f93@oneclickvpnkeys",
             "config_data": "vless:\/\/08d6280b-90c8-41e1-a809-3132cfb706f5@90.156.217.130:51101\/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=m.vk.ru&fp=chrome&security=reality&pbk=_CjW0Khlrr5z5oc9Oy6-w2ZEanz-zMBktVn5EOX9oTM&sid=4ffc99daad0f261f#\u2622\ufe0f93@oneclickvpnkeys",
@@ -1345,14 +1305,6 @@
             "success_rate": "100.00"
         },
         {
-            "id": "1374232",
-            "name": "\ud83c\uddeb\ud83c\uddf7 \ud83d\udd25Join Telegram:@Farah_VPN\ud83d\udfe3",
-            "config_data": "vless:\/\/25f86cb1-2140-4085-abcb-c3a0ea7a4be0@OV-France1.09vpn.com:80?encryption=none&type=ws&path=\/vless\/&security=none#\ud83d\udd25Join+Telegram:@Farah_VPN\ud83d\udfe3",
-            "protocol": "vless",
-            "ping_time": "1227",
-            "success_rate": "100.00"
-        },
-        {
             "id": "1378679",
             "name": "\ud83c\uddf7\ud83c\uddfa \u062c\u0648\u06cc\u0646 \u0634\u06cc\u062f \u0642\u0637 \u0646\u0634\u06cc\u062f @shankamil",
             "config_data": "vless:\/\/4603e54d-b023-4947-83e7-70025416f306@212.111.84.187:51102?security=reality&encryption=none&pbk=Qddpg8luihgzgx4g4uMJklXzlrMCd8L1igJSWrRUvSc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=m.vk.ru&sid=8f222b3475800821#\u062c\u0648\u06cc\u0646\u0634\u06cc\u062f\u0642\u0637\u0646\u0634\u06cc\u062f@shankamil",
@@ -1369,9 +1321,25 @@
             "success_rate": "100.00"
         },
         {
+            "id": "1517659",
+            "name": "\ud83c\uddec\ud83c\udde7 >>@configV2rayNG::CA",
+            "config_data": "vless:\/\/e9052516-1e37-4665-a0b4-a5c65dd0ab70@104.18.32.47:80?path=%2F%3Fed&security=&encryption=none&host=TastY-LeaRNInG94aZG31SfF.ECOTouRiss.CO.UK.&type=ws#%3E%3E%40configV2rayNG%3A%3ACA",
+            "protocol": "vless",
+            "ping_time": "1227",
+            "success_rate": "100.00"
+        },
+        {
             "id": "1422403",
             "name": "\ud83c\uddee\ud83c\uddf7 IR-@V2rayAlpha-8",
             "config_data": "vless:\/\/8dc7722c-2767-4eea-a28b-2f8daacc07e3@45.82.251.208:8880?mode=gun&security=none&encryption=none&fp=chrome&type=grpc#IR-@V2rayAlpha-8",
+            "protocol": "vless",
+            "ping_time": "1230",
+            "success_rate": "100.00"
+        },
+        {
+            "id": "1517660",
+            "name": ">>@oneclickvpnkeys::US",
+            "config_data": "vless:\/\/ef23616d-8a9d-4b22-b2f5-9bda864de179@172.67.163.213:2096\/?type=ws&encryption=none&flow=&host=ems.arc-time.workers.dev&path=%2F88ailh3l64gh&security=tls&sni=EMS.Arc-Time.Workers.DEV&alpn=h3&allowInsecure=1&fp=chrome#%3E%3E%40oneclickvpnkeys%3A%3AUS",
             "protocol": "vless",
             "ping_time": "1230",
             "success_rate": "100.00"
@@ -1481,14 +1449,6 @@
             "success_rate": "100.00"
         },
         {
-            "id": "1320349",
-            "name": "\ud83d\udd25Join Telegram:@Farah_VPN\ud83d\udfe3",
-            "config_data": "vless:\/\/fef4a93d-eb4f-4657-b56b-32a0dc060045@188.114.98.0:443?path=\/?Telegram-ICV2RAY-Telegram-AliXTso-Telegram-AliXTso-Telegram-AliXTso-Telegram-AliXTso-Telegram-AliXTso-Telegram-AliXTso-Telegram-AliXTso?ed=512&security=tls&encryption=none&host=dev.twistsparrow.xyz&type=ws&sni=dev.twistsparrow.xyz#\ud83d\udd25Join+Telegram:@Farah_VPN\ud83d\udfe3",
-            "protocol": "vless",
-            "ping_time": "1250",
-            "success_rate": "100.00"
-        },
-        {
             "id": "1474709",
             "name": "\ud83d\udd25Join Telegram:@Farah_VPN\ud83d\udfe3",
             "config_data": "vless:\/\/e4824193-4f54-453b-d037-88368e85ef0e@172.67.249.36:443?encryption=none&type=grpc&mode=gun&security=tls&sni=pqh30v5.carwashipdir.shop&alpn=h2#\ud83d\udd25Join+Telegram:@Farah_VPN\ud83d\udfe3",
@@ -1572,14 +1532,6 @@
             "id": "1376926",
             "name": "@V2rayNG3",
             "config_data": "vless:\/\/0dbad6ba-be87-46e1-ab90-30c53ef1878d@chatgpt.com:443?mode=auto&path=\/sreztjsterw4j&security=tls&alpn=h2&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=drive.speegy.club#@V2rayNG3",
-            "protocol": "vless",
-            "ping_time": "1259",
-            "success_rate": "100.00"
-        },
-        {
-            "id": "1408935",
-            "name": "\ud83d\udd25Join Telegram:@Farah_VPN\ud83d\udfe3",
-            "config_data": "vless:\/\/32465a00-e9c1-4b2c-a57f-42f9ccaf64eb@144.31.2.154:843?security=reality&encryption=none&pbk=7Jm9DCACq0CcHAqEJD0aReVMUc2l6mFQdYex3owLMVk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&sid=825867#\ud83d\udd25Join+Telegram:@Farah_VPN\ud83d\udfe3",
             "protocol": "vless",
             "ping_time": "1259",
             "success_rate": "100.00"
@@ -1945,14 +1897,6 @@
             "success_rate": "100.00"
         },
         {
-            "id": "1367294",
-            "name": "\ud83c\uddee\ud83c\uddf3 [\ud83c\udfc1]t.me\/ConfigsHub`",
-            "config_data": "vless:\/\/6202b230-417c-4d8e-b624-0f71afa9c75d@91.84.105.40:443?path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40app_bedal&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#[\ud83c\udfc1]t.me\/ConfigsHub`",
-            "protocol": "vless",
-            "ping_time": "1310",
-            "success_rate": "100.00"
-        },
-        {
             "id": "1493433",
             "name": "\ud83c\udff3\ufe0f ShatakVPN 555895",
             "config_data": "vmess:\/\/eyJ2IjogIjIiLCAicHMiOiAi8J+Ps++4jyBTaGF0YWtWUE4gNTU1ODk1IiwgImFkZCI6ICIxODUuMTA0LjE4OS4zOCIsICJwb3J0IjogODAsICJpZCI6ICI0M2RjZGNlMS0zY2VhLTQxOTMtYmM4ZC05MGI5MjA3MWQ3NzkiLCAiYWlkIjogIjAiLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAiLS0tIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiIiwgInRscyI6ICIiLCAic25pIjogIiIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAibmFtZSI6ICLwn4e58J+Ht0B2Ml9tb2Rfc2hvcCJ9#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20555895",
@@ -2073,14 +2017,6 @@
             "success_rate": "100.00"
         },
         {
-            "id": "1396595",
-            "name": "\ud83c\uddee\ud83c\uddf3 \ud83d\udd25Join Telegram:@Farah_VPN\ud83d\udfe3",
-            "config_data": "vless:\/\/6202b230-417c-4d8e-b624-0f71afa9c75d@167.71.131.232:443?path=\/?ed=2560&Telegram@AliXTso&security=tls&encryption=none&host=sni.111000.indevs.in&type=ws&sni=sni.111000.indevs.in#\ud83d\udd25Join+Telegram:@Farah_VPN\ud83d\udfe3",
-            "protocol": "vless",
-            "ping_time": "1328",
-            "success_rate": "100.00"
-        },
-        {
             "id": "1492950",
             "name": "\ud83c\uddec\ud83c\udde7 \ud83c\udff3\ufe0f ShatakVPN 347637",
             "config_data": "vless:\/\/1a94fbd9-79d2-4aa7-bf1d-074f678d27ab@104.20.1.252:80?path=\/?ed&security=none&encryption=none&host=EqUiPPed-phOToZkoA7K5e6P.eCoTOuRiss.Co.uk.&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20347637",
@@ -2093,14 +2029,6 @@
             "name": "\ud83c\uddec\ud83c\udde7 \ud83c\uddfa\ud83c\uddf8 ShatakVPN 567334",
             "config_data": "vless:\/\/57ba2ab1-a283-42eb-82ee-dc3561a805b8@172.67.153.156:8443?path=\/57ba2ab1&security=tls&encryption=none&insecure=0&host=ovhwuxian.pai50288.uk&fp=chrome&type=ws&allowInsecure=0&sni=ovhwuxian.pai50288.uk#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20567334",
             "protocol": "vless",
-            "ping_time": "1329",
-            "success_rate": "100.00"
-        },
-        {
-            "id": "1395727",
-            "name": "\ud83c\udde6\ud83c\uddeaAE-95.174.68.33-0277",
-            "config_data": "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZekg0aWQ3WkV5S3BmeTM5RjJZY09tekNzQmtsR3doOA==@95.174.68.33:443#%F0%9F%87%A6%F0%9F%87%AAAE-95.174.68.33-0277",
-            "protocol": "shadowsocks",
             "ping_time": "1329",
             "success_rate": "100.00"
         },
@@ -2124,14 +2052,6 @@
             "id": "1371376",
             "name": "telegram \u00bb \ud835\uddfa\ud835\uddee\ud835\uddf6\ud835\uddfb\ud835\ude03\ud835\udfee\ud835\uddff\ud835\uddee\ud835\ude06",
             "config_data": "vless:\/\/335789dd-7b29-4983-9896-d83c7648f261@85.133.200.32:4444?security=none&encryption=none&headerType=none&fp=chrome&type=tcp#telegram\u00bb\ud835\uddfa\ud835\uddee\ud835\uddf6\ud835\uddfb\ud835\ude03\ud835\udfee\ud835\uddff\ud835\uddee\ud835\ude06",
-            "protocol": "vless",
-            "ping_time": "1332",
-            "success_rate": "100.00"
-        },
-        {
-            "id": "1383992",
-            "name": "@v2rays_ha 7093",
-            "config_data": "vless:\/\/fef4a93d-eb4f-4657-b56b-32a0dc060045@188.114.98.0:443\/?path=\/&security=tls&encryption=none&insecure=0&host=dev.twistsparrow.xyz&type=ws&allowInsecure=0&sni=dev.twistsparrow.xyz#@v2rays_ha7093",
             "protocol": "vless",
             "ping_time": "1332",
             "success_rate": "100.00"
@@ -2177,14 +2097,6 @@
             "success_rate": "100.00"
         },
         {
-            "id": "1373889",
-            "name": "@V2RAY_VMESS_free",
-            "config_data": "vless:\/\/14c80e0e-f7ce-4991-94fc-99a1db4a9b1e@159.89.87.21:28190?security=reality&encryption=none&pbk=ZJRnFU-1s1JOnO8E9uZ7b00l1fPEh63fGRbdBANFRno&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=aws.amazon.com#@V2RAY_VMESS_free",
-            "protocol": "vless",
-            "ping_time": "1342",
-            "success_rate": "100.00"
-        },
-        {
             "id": "1368464",
             "name": "\ud83c\udf10 Cloud",
             "config_data": "vmess:\/\/ewogICAgImFkZCI6ICI1Ny4xMjkuMjUuMjYiLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICJ5aWNodWVuZy5vcmciLAogICAgImlkIjogIjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogImxpbmt2d3MiLAogICAgInBvcnQiOiA0NDMsCiAgICAicHMiOiAi8J+HqfCfh6pERS01Ny4xMjkuMjUuMjYtNzEyNiIsCiAgICAidGxzIjogInRscyIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogZmFsc2UsCiAgICAic25pIjogInlpY2h1ZW5nLm9yZyIKfQ==",
@@ -2197,6 +2109,14 @@
             "name": "\ud83d\udd25Join Telegram:@Farah_VPN\ud83d\udfe3",
             "config_data": "trojan:\/\/humanity@104.18.32.47:443?security=tls&type=ws&sni=www.calmlunch.com&path=\/assignment#\ud83d\udd25Join+Telegram:@Farah_VPN\ud83d\udfe3",
             "protocol": "trojan",
+            "ping_time": "1344",
+            "success_rate": "100.00"
+        },
+        {
+            "id": "1504679",
+            "name": "\ud83c\uddec\ud83c\udde7 [\ud83c\udfc1]t.me\/ConfigsHub`",
+            "config_data": "vless:\/\/57ba2ab1-a283-42eb-82ee-dc3561a805b8@172.67.153.156:8443?path=%2F57ba2ab1&security=tls&encryption=none&insecure=0&host=ovhwuxian.pai50288.uk&fp=chrome&type=ws&allowInsecure=0&sni=ovhwuxian.pai50288.uk#[\ud83c\udfc1]t.me\/ConfigsHub`",
+            "protocol": "vless",
             "ping_time": "1344",
             "success_rate": "100.00"
         },
@@ -2241,27 +2161,11 @@
             "success_rate": "100.00"
         },
         {
-            "id": "1351860",
-            "name": "\ud83d\udd25Join Telegram:@Farah_VPN\ud83d\udfe3",
-            "config_data": "vless:\/\/fef4a93d-eb4f-4657-b56b-32a0dc060045@188.114.98.0:443?path=\/&security=tls&encryption=none&insecure=1&type=ws&allowInsecure=1&sni=dev.twistsparrow.xyz#\ud83d\udd25Join+Telegram:@Farah_VPN\ud83d\udfe3",
-            "protocol": "vless",
-            "ping_time": "1353",
-            "success_rate": "100.00"
-        },
-        {
             "id": "1478301",
             "name": "\u26a1Telegram = @SOSkeyNET",
             "config_data": "vless:\/\/8dc7722c-2767-4eea-a28b-2f8daacc07e3@45.82.251.208:8880\/?type=grpc&encryption=none#\u26a1Telegram=@SOSkeyNET",
             "protocol": "vless",
             "ping_time": "1353",
-            "success_rate": "100.00"
-        },
-        {
-            "id": "1414781",
-            "name": "\ud83c\uddee\ud83c\uddf7 \u26a1 b2n.ir\/v2ray-configs | 508",
-            "config_data": "vless:\/\/fef4a93d-eb4f-4657-b56b-32a0dc060045@104.21.40.34:443?path=%2F&security=tls&encryption=none&host=dev.twistsparrow.xyz&fp=chrome&type=ws&sni=dev.twistsparrow.xyz#\u26a1b2n.ir\/v2ray-configs|508",
-            "protocol": "vless",
-            "ping_time": "1355",
             "success_rate": "100.00"
         },
         {
@@ -2377,6 +2281,14 @@
             "success_rate": "100.00"
         },
         {
+            "id": "1516865",
+            "name": "@V2RAY_VMESS_free",
+            "config_data": "vless:\/\/de2708c5-6e8e-4582-85ed-98f2554e5208@87.121.86.31:57516?security=reality&encryption=none&pbk=ScCsL43AFwGSI8WvpjhAE6Y9PguU49ZLbwF-6YTbrTo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=c1765dd26b1e70#@V2RAY_VMESS_free",
+            "protocol": "vless",
+            "ping_time": "1366",
+            "success_rate": "100.00"
+        },
+        {
             "id": "1422872",
             "name": "@vpnbaz \ud83e\uddf6",
             "config_data": "vless:\/\/ba2bb9d8-9baa-45d6-9e0a-38c9cb6a6a9a@104.20.1.252:80?path=\/?ed&security=none&encryption=none&host=WeaK-preSSUrE3Ga6bzof92.sPorTlaNd.coMPANY.&type=ws#@vpnbaz\ud83e\uddf6",
@@ -2446,14 +2358,6 @@
             "config_data": "vless:\/\/1a94fbd9-79d2-4aa7-bf1d-074f678d27ab@104.20.1.252:80?encryption=none&security=none&type=ws&host=EqUiPPed-phOToZkoA7K5e6P.eCoTOuRiss.Co.uk.&path=%2F%3Fed#\ud83d\udd25Join+Telegram:@Farah_VPN\ud83d\udfe3",
             "protocol": "vless",
             "ping_time": "1374",
-            "success_rate": "100.00"
-        },
-        {
-            "id": "1375098",
-            "name": "\ud83c\uddee\ud83c\uddf3 \u26a1 b2n.ir\/v2ray-configs | 154",
-            "config_data": "vless:\/\/6202b230-417c-4d8e-b624-0f71afa9c75d@195.200.18.248:443?path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#\u26a1b2n.ir\/v2ray-configs|154",
-            "protocol": "vless",
-            "ping_time": "1375",
             "success_rate": "100.00"
         },
         {
@@ -2577,14 +2481,6 @@
             "success_rate": "100.00"
         },
         {
-            "id": "1386434",
-            "name": "\ud83c\udf10 Cloud",
-            "config_data": "vmess:\/\/eyJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkZDI1Sm9pbitUZWxlZ3JhbTpARmFyYWhfVlBOXHVkODNkXHVkZmUzIiwgImFkZCI6ICI1MS43OS4xMDIuMjUzIiwgInBvcnQiOiAiODAiLCAidHlwZSI6ICJub25lIiwgImlkIjogIjU4ZmUxNTQyLTUyOTAtNDBhZC04MTVhLTc3NzA3YTgxYWZlNSIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvSU9lYmhMTWhsMUNUYkZIYkw5NW15ZlJYMiIsICJob3N0IjogIiIsICJ0bHMiOiAiIn0=",
-            "protocol": "vmess",
-            "ping_time": "1397",
-            "success_rate": "100.00"
-        },
-        {
             "id": "1469844",
             "name": "\ud83c\uddfa\ud83c\uddf8 ShatakVPN 853029",
             "config_data": "vless:\/\/a0af2643-a236-463c-8056-3f71d05eed53@104.18.15.19:80?path=\/?ed=2560&security=none&encryption=none&host=shomal-g74f3znf-v2.shomal-321.workers.dev&fp=randomized&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20853029",
@@ -2606,14 +2502,6 @@
             "config_data": "vless:\/\/f8ae018b-b84d-4c9b-b03b-4642c3a25977@172.66.128.70:2052?encryption=none&security=none&type=ws&host=ExEMplAry-MILkytsxQiQYso.sPortlaNd.CoMPANy.&path=%2F%3Fed#\u26a1b2n.ir\/v2ray-configs|994",
             "protocol": "vless",
             "ping_time": "1402",
-            "success_rate": "100.00"
-        },
-        {
-            "id": "1360461",
-            "name": "\ud83d\udd25Join Telegram:@Farah_VPN\ud83d\udfe3",
-            "config_data": "vless:\/\/0b3ad86e-1818-49bb-949d-4e85d137a16d@104.21.13.210:443?path=\/&security=tls&serviseName=@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray&encryption=none&insecure=0&host=mianfeijiedianscp.buzz&type=ws&allowInsecure=0&sni=mianfeijiedianscp.buzz#\ud83d\udd25Join+Telegram:@Farah_VPN\ud83d\udfe3",
-            "protocol": "vless",
-            "ping_time": "1404",
             "success_rate": "100.00"
         },
         {
@@ -2689,6 +2577,14 @@
             "success_rate": "100.00"
         },
         {
+            "id": "1505712",
+            "name": "\ud83c\udf10 Cloud",
+            "config_data": "vmess:\/\/eyJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkZDI1Sm9pbitUZWxlZ3JhbTpARmFyYWhfVlBOXHVkODNkXHVkZmUzIiwgImFkZCI6ICIxODguMTE0Ljk4LjAiLCAicG9ydCI6ICI4MDgwIiwgImlkIjogIm5hc25ldCIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAidGxzIjogIiIsICJwYXRoIjogIi9uYXNuZXQvY2RuIiwgImhvc3QiOiAibmFzbmV0LTE2MjE5MTA5OS5zaGFyZ2hkYWlseS5jbyJ9",
+            "protocol": "vmess",
+            "ping_time": "1420",
+            "success_rate": "100.00"
+        },
+        {
             "id": "1479904",
             "name": "\ud83d\udc9b@V2rayBaaz| \u062a\u0644\u06af\u0631\u0627\u0645\u0645\u0648\u0646 \ud83e\udd0d",
             "config_data": "vless:\/\/fef4a93d-eb4f-4657-b56b-32a0dc060045@188.114.98.0:443?path=\/&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=dev.twistsparrow.xyz#\ud83d\udc9b@V2rayBaaz|\u062a\u0644\u06af\u0631\u0627\u0645\u0645\u0648\u0646\ud83e\udd0d",
@@ -2729,6 +2625,14 @@
             "success_rate": "100.00"
         },
         {
+            "id": "1517740",
+            "name": "\ud83c\uddf7\ud83c\uddfa \u2622\ufe0f81@proxy_kafee",
+            "config_data": "vless:\/\/08d6280b-90c8-41e1-a809-3132cfb706f5@37.139.33.57:8443\/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=m.vk.ru&fp=chrome&security=reality&pbk=_CjW0Khlrr5z5oc9Oy6-w2ZEanz-zMBktVn5EOX9oTM&sid=6419bed7fd0a2cff#%E2%98%A2%EF%B8%8F81%40proxy_kafee",
+            "protocol": "vless",
+            "ping_time": "1429",
+            "success_rate": "100.00"
+        },
+        {
             "id": "1492142",
             "name": "\ud83c\udff3\ufe0f ShatakVPN 209091",
             "config_data": "vless:\/\/636de463-b509-4631-adc6-400b21733278@104.21.233.186:2086?encryption=none&security=none&fp=chrome&type=ws&host=index.harmony610.workers.dev&path=\/vgn80ag4q5o0oxj5#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20209091",
@@ -2740,6 +2644,14 @@
             "id": "1484103",
             "name": "\ud83c\uddee\ud83c\uddf7 \ud83c\uddfa\ud83c\uddf8 ShatakVPN 154672",
             "config_data": "vless:\/\/96d9bcb0-9ad2-48be-85a2-a9ab3a005261@172.64.155.209:2083?encryption=none&security=tls&sni=ds1-mx-fn154-protection.iranlease.com&alpn=http\/1.1&type=ws&host=ds1-mx-fn154-protection.iranlease.com&path=\/#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20154672",
+            "protocol": "vless",
+            "ping_time": "1432",
+            "success_rate": "100.00"
+        },
+        {
+            "id": "1517070",
+            "name": "\ud83c\uddf7\ud83c\uddfa @filembad",
+            "config_data": "vless:\/\/f4643425-78b3-44ac-954b-4a2167002c23@212.233.96.101:443\/?type=tcp&encryption=none&sni=yandex.ru&fp=chrome&security=reality&pbk=rgzU-HlMzZccV6ZjxLw_Fs9Pxeyrj2N3HFMgURyjwwc&sid=f92954e2e710#@filembad",
             "protocol": "vless",
             "ping_time": "1432",
             "success_rate": "100.00"
@@ -2790,6 +2702,22 @@
             "config_data": "vless:\/\/8dc7722c-2767-4eea-a28b-2f8daacc07e3@45.82.251.208:8880?mode=gun&security=none&encryption=none&fp=chrome&type=grpc#\u26a1Telegram=@prrofile_purple",
             "protocol": "vless",
             "ping_time": "1437",
+            "success_rate": "100.00"
+        },
+        {
+            "id": "1517053",
+            "name": "Config 2 - @lebertad",
+            "config_data": "vless:\/\/f0a44f8f-c01f-490c-a6eb-29106a2509a4@3.143.235.221:32252?mode=gun&security=tls&encryption=none&alpn=h2,http\/1.1&authority=&fp=chrome&type=grpc&serviceName=www.bing.com&sni=3.143.235.221#Config2-@lebertad",
+            "protocol": "vless",
+            "ping_time": "1440",
+            "success_rate": "100.00"
+        },
+        {
+            "id": "1517069",
+            "name": "\ud83c\uddf7\ud83c\uddfa \u262e\ufe0f56@oneclickvpnkeys",
+            "config_data": "vless:\/\/f4643425-78b3-44ac-954b-4a2167002c23@212.233.96.101:443\/?type=tcp&encryption=none&flow=&sni=yandex.ru&fp=chrome&security=reality&pbk=rgzU-HlMzZccV6ZjxLw_Fs9Pxeyrj2N3HFMgURyjwwc&sid=f92954e2e710#\u262e\ufe0f56@oneclickvpnkeys",
+            "protocol": "vless",
+            "ping_time": "1440",
             "success_rate": "100.00"
         },
         {
@@ -2877,6 +2805,14 @@
             "name": "@Tweety_Proxy",
             "config_data": "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.61:8080#@Tweety_Proxy",
             "protocol": "shadowsocks",
+            "ping_time": "1449",
+            "success_rate": "100.00"
+        },
+        {
+            "id": "1517269",
+            "name": "AL 31 @Outline_Vpn",
+            "config_data": "vless:\/\/nasnet@162.19.10.94:443?security=tls&encryption=none&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=nasnet-162191094-direct.sharghdaily.co#AL31@Outline_Vpn",
+            "protocol": "vless",
             "ping_time": "1449",
             "success_rate": "100.00"
         },
@@ -2969,14 +2905,6 @@
             "success_rate": "100.00"
         },
         {
-            "id": "1382739",
-            "name": "\u26a1Telegram = @SOSkeyNET",
-            "config_data": "vless:\/\/6416708c-eaa5-4ec5-b652-a2db2feab875@78.159.131.5:443\/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=al.cdn.stun.su&alpn=networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-&fp=chrome&security=reality&pbk=su3dq3BDLDkX-jIjq3GyVUXwqzD7CNVYzKtOcO4HQ24&sid=b9adf1215551a2f3#\u26a1Telegram=@SOSkeyNET",
-            "protocol": "vless",
-            "ping_time": "1465",
-            "success_rate": "100.00"
-        },
-        {
             "id": "1444361",
             "name": "\ud83c\uddf9\ud83c\uddf7 ShatakVPN 653282",
             "config_data": "vmess:\/\/eyJ2IjogIjIiLCAicHMiOiAi8J+HufCfh7cgU2hhdGFrVlBOIDY1MzI4MiIsICJhZGQiOiAiMTg1LjEwNC4xODkuMzgiLCAicG9ydCI6IDgwLCAiaWQiOiAiNDNkY2RjZTEtM2NlYS00MTkzLWJjOGQtOTBiOTIwNzFkNzc5IiwgImFpZCI6ICIwIiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIi0tLSIsICJob3N0IjogIiIsICJwYXRoIjogIiIsICJ0bHMiOiAiIiwgInNuaSI6ICIiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgIm5hbWUiOiAi8J+HufCfh7dAdjJfbW9kX3Nob3AifQ==#%F0%9F%87%B9%F0%9F%87%B7%20ShatakVPN%20653282",
@@ -3009,27 +2937,11 @@
             "success_rate": "100.00"
         },
         {
-            "id": "1377492",
-            "name": "\ud83c\uddfa\ud83c\uddf8 \ud83d\udd25Join Telegram:@Farah_VPN\ud83d\udfe3",
-            "config_data": "vless:\/\/9501547f-9128-4711-90be-989dec25d3f9@172.64.152.23:80?mode=auto&path=\/&security=none&encryption=none&host=manforce.serviceprom.us.ci&type=xhttp#\ud83d\udd25Join+Telegram:@Farah_VPN\ud83d\udfe3",
-            "protocol": "vless",
-            "ping_time": "1468",
-            "success_rate": "100.00"
-        },
-        {
             "id": "1377765",
             "name": "\ud83c\uddfa\ud83c\uddf8 ShatakVPN 902640",
             "config_data": "vless:\/\/33e1a095-1e25-4198-bfe7-ec312e4f98ee@172.66.128.70:80?path=\/?ed&security=none&encryption=none&host=CREDibLe-pLaNt7ddV4jJ7et.OnEeaT.CO.&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20902640",
             "protocol": "vless",
             "ping_time": "1468",
-            "success_rate": "100.00"
-        },
-        {
-            "id": "1398816",
-            "name": "\ud83c\uddec\ud83c\udde7 >>@oneclickvpnkeys::US",
-            "config_data": "vless:\/\/57ba2ab1-a283-42eb-82ee-dc3561a805b8@45.131.209.130:8443\/?type=ws&encryption=none&flow=&host=ovhwuxian.pai50288.uk&path=%2F57ba2ab1&security=tls&sni=ovhwuxian.pai50288.uk&allowInsecure=1&fp=chrome#%3E%3E%40oneclickvpnkeys%3A%3AUS",
-            "protocol": "vless",
-            "ping_time": "1470",
             "success_rate": "100.00"
         },
         {
@@ -3081,6 +2993,14 @@
             "success_rate": "100.00"
         },
         {
+            "id": "1515456",
+            "name": "\ud83c\uddee\ud83c\uddf3 \ud83c\udf96@v2ray_configs_pools",
+            "config_data": "vless:\/\/6202b230-417c-4d8e-b624-0f71afa9c75d@5.34.180.231:443?path=\/?ed=2560&Telegram\ud83c\udf96@AliXTso&security=tls&encryption=none&host=sni.111000.indevs.in&type=ws&sni=sni.111000.indevs.in#\ud83c\udf96@v2ray_configs_pools",
+            "protocol": "vless",
+            "ping_time": "1484",
+            "success_rate": "100.00"
+        },
+        {
             "id": "1456899",
             "name": "Config 3 - @lebertad",
             "config_data": "vless:\/\/5a1d2c0c-abfa-4050-918f-bfab3eaee62a@151.101.9.80:80?type=ws&security=none&host=adspeedx23.global.ssl.fastly.net&path=\/?ed=1049#Config3-@lebertad",
@@ -3126,6 +3046,14 @@
             "config_data": "vless:\/\/96d9bcb0-9ad2-48be-85a2-a9ab3a005261@172.64.155.209:2083?type=ws&encryption=none&host=ds1-mx-fn154-protection.iranlease.com&path=\/&security=tls&sni=ds1-mx-fn154-protection.iranlease.com&alpn=http\/1.1&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20894766",
             "protocol": "vless",
             "ping_time": "1492",
+            "success_rate": "100.00"
+        },
+        {
+            "id": "1517669",
+            "name": ">>@oneclickvpnkeys::US",
+            "config_data": "vless:\/\/f0a44f8f-c01f-490c-a6eb-29106a2509a4@3.143.235.221:32252\/?type=grpc&encryption=none&flow=&serviceName=www.bing.com&security=tls&sni=3.143.235.221&allowInsecure=1#%3E%3E%40oneclickvpnkeys%3A%3AUS",
+            "protocol": "vless",
+            "ping_time": "1493",
             "success_rate": "100.00"
         },
         {
@@ -3497,6 +3425,14 @@
             "success_rate": "100.00"
         },
         {
+            "id": "1503441",
+            "name": "\ud83c\uddf7\ud83c\uddfa \ud83c\uddf7\ud83c\uddfa ShatakVPN 430072",
+            "config_data": "vless:\/\/4603e54d-b023-4947-83e7-70025416f306@158.160.221.132:51102?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=yandex.ru&fp=chrome&security=reality&pbk=Qddpg8luihgzgx4g4uMJklXzlrMCd8L1igJSWrRUvSc&sid=8f222b3475800821#%F0%9F%87%B7%F0%9F%87%BA%20ShatakVPN%20430072",
+            "protocol": "vless",
+            "ping_time": "1563",
+            "success_rate": "100.00"
+        },
+        {
             "id": "1474979",
             "name": "[\ud83c\udfc1]t.me\/ConfigsHub`",
             "config_data": "vless:\/\/fef4a93d-eb4f-4657-b56b-32a0dc060045@188.114.98.0:443?path=%2F&security=tls&encryption=none&insecure=0&host=dev.twistsparrow.xyz&type=ws&allowInsecure=0&sni=dev.twistsparrow.xyz#[\ud83c\udfc1]t.me\/ConfigsHub`",
@@ -3550,14 +3486,6 @@
             "config_data": "vmess:\/\/eyJhZGQiOiAiMTcyLjY3LjIwNC44NCIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICJuYXNuZXQtNTExOTUyNDI0Lm1jaXRlbC5jbyIsICJpZCI6ICJuYXNuZXQiLCAiaW5zZWN1cmUiOiAiMSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvbmFzbmV0L2NkbiIsICJwb3J0IjogODA4MCwgInBzIjogIvCfh7rwn4e4IFNoYXRha1ZQTiAxMjA3OTciLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiLS0tIiwgInYiOiAiMiIsICJuYW1lIjogIvCflKVKb2luK1RlbGVncmFtOkBGYXJhaF9WUE7wn5+jIn0=#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20120797",
             "protocol": "vmess",
             "ping_time": "1567",
-            "success_rate": "100.00"
-        },
-        {
-            "id": "1432927",
-            "name": "\u2622\ufe0f44@unvisible_drops",
-            "config_data": "vless:\/\/1c7fcc38-e6be-43c5-875f-b8de2516b9f2@5.182.38.91:17267\/?type=tcp&encryption=none&flow=&sni=yahoo.com&fp=chrome&security=reality&pbk=SnWZg6ORcQepuWLI1EVCTTVc4KyfDiGWR4o_CXCMhgk&sid=4ae260#%E2%98%A2%EF%B8%8F44%40unvisible_drops",
-            "protocol": "vless",
-            "ping_time": "1568",
             "success_rate": "100.00"
         },
         {
@@ -3878,14 +3806,6 @@
             "config_data": "vmess:\/\/eyJhZGQiOiAiMTcyLjY3LjczLjE2MyIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICJuYXNuZXQtMTYyMTkxMDk5LnNoYXJnaGRhaWx5LmNvIiwgImlkIjogIm5hc25ldCIsICJpbnNlY3VyZSI6ICIwIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9uYXNuZXQvY2RuP2VkPTI1NjAiLCAicG9ydCI6IDgwODAsICJwcyI6ICLwn4e68J+HuCBTaGF0YWtWUE4gNzIzNDE4IiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIi0tLSIsICJ2IjogIjIiLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWV9#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20723418",
             "protocol": "vmess",
             "ping_time": "1609",
-            "success_rate": "100.00"
-        },
-        {
-            "id": "1381579",
-            "name": "\ud83d\udd25Join Telegram:@Farah_VPN\ud83d\udfe3",
-            "config_data": "vless:\/\/d89d6641-3b1a-4f51-a194-9c9109fd21b6@108.162.198.154:443?security=tls&allowInsecure=0&encryption=none&type=ws&host=diprox.pages.dev&path=\/Tel-@v2ray_configs_pools&sni=DiprOX.pages.DEV&fp=chrome#\ud83d\udd25Join+Telegram:@Farah_VPN\ud83d\udfe3",
-            "protocol": "vless",
-            "ping_time": "1610",
             "success_rate": "100.00"
         },
         {
@@ -4353,14 +4273,6 @@
             "success_rate": "100.00"
         },
         {
-            "id": "1376172",
-            "name": "\u0633\u0631\u0648\u0631\u0647\u0627\u06cc \u0631\u0627\u06cc\u06af\u0627\u0646 \u0648 \u067e\u0631\u0633\u0631\u0639\u062a : PRS_MLBB@",
-            "config_data": "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwdmd6OXBx@54.36.174.134:443#\u0633\u0631\u0648\u0631\u0647\u0627\u06cc\u0631\u0627\u06cc\u06af\u0627\u0646\u0648\u067e\u0631\u0633\u0631\u0639\u062a:PRS_MLBB@",
-            "protocol": "shadowsocks",
-            "ping_time": "1678",
-            "success_rate": "100.00"
-        },
-        {
             "id": "1425286",
             "name": "\ud83c\uddee\ud83c\uddf3 \ud83d\udd25Join Telegram:@Farah_VPN\ud83d\udfe3",
             "config_data": "vless:\/\/6202b230-417c-4d8e-b624-0f71afa9c75d@165.232.104.116:443?path=\/?ed=2560&Telegram\ud83c\udf96@AliXTso&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#\ud83d\udd25Join+Telegram:@Farah_VPN\ud83d\udfe3",
@@ -4473,9 +4385,9 @@
             "success_rate": "100.00"
         },
         {
-            "id": "1394277",
-            "name": "\ud83d\udd25Join Telegram:@Farah_VPN\ud83d\udfe3",
-            "config_data": "vless:\/\/fef4a93d-eb4f-4657-b56b-32a0dc060045@ipbaz.ping-box.com:443?path=\/&security=tls&encryption=none&host=dev.twistsparrow.xyz&fp=chrome&type=ws&sni=dev.twistsparrow.xyz#\ud83d\udd25Join+Telegram:@Farah_VPN\ud83d\udfe3",
+            "id": "1517658",
+            "name": ">>@v2nodes::NL",
+            "config_data": "vless:\/\/e31085f9-7f55-4a7d-b00e-ce94149477cb@104.18.32.47:80?encryption=none&type=ws&host=PrICKLy-AdverTisEMEnt6OaD5Z64MK.onEEaT.cO.&path=\/?ed&security=none#%3E%3E%40v2nodes%3A%3ANL",
             "protocol": "vless",
             "ping_time": "1699",
             "success_rate": "100.00"
@@ -4505,9 +4417,9 @@
             "success_rate": "100.00"
         },
         {
-            "id": "1383660",
-            "name": "@PRS_MLBB",
-            "config_data": "vless:\/\/d89d6641-3b1a-4f51-a194-9c9109fd21b6@creativecommons.org:443?path=\/Tel-@V2rayAlpha&security=tls&encryption=none&insecure=0&host=diprox.pages.dev&type=ws&allowInsecure=0&sni=DiprOX.pages.DEV#@PRS_MLBB",
+            "id": "1517673",
+            "name": "\ud83c\uddee\ud83c\uddf7 >>@vmessiran::US",
+            "config_data": "vless:\/\/fef4a93d-eb4f-4657-b56b-32a0dc060045@188.114.98.0:443?path=%2F%3FTELEGRAM-YamYamProxy_YamYamProxy_YamYamProxy_YamYamProxy_YamYamProxy%3Fed%3D512&security=tls&encryption=none&host=dev.twistsparrow.xyz&type=ws&sni=dev.twistsparrow.xyz#%3E%3E%40vmessiran%3A%3AUS",
             "protocol": "vless",
             "ping_time": "1710",
             "success_rate": "100.00"
@@ -4737,14 +4649,6 @@
             "success_rate": "100.00"
         },
         {
-            "id": "1370279",
-            "name": "\ud83c\udf10 Cloud",
-            "config_data": "vmess:\/\/eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7gg576O5Zu9IENsb3VkRmxhcmXoioLngrkiLCJhZGQiOiJycnJndC4yMDMwLnBwLnVhIiwicG9ydCI6IjgwIiwidHlwZSI6Im5vbmUiLCJpZCI6ImZjMzcwNGQ2LThlNWUtNDQzYS1iZDViLTIwZWM3Y2ZiZTk5MCIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvZXN6anA0blRUOFR4REhGZXBNcGZOa0NrOCIsImhvc3QiOiJycnJndC4yMDMwLnBwLnVhIiwidGxzIjoiIn0=",
-            "protocol": "vmess",
-            "ping_time": "1736",
-            "success_rate": "100.00"
-        },
-        {
             "id": "1472115",
             "name": "\ud83d\udd25Join Telegram:@Farah_VPN\ud83d\udfe3",
             "config_data": "vless:\/\/2e82cda5-e020-4c63-8271-e58a00831447@uk2.miyazono-kaori.com:443\/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.bp.com&fp=chrome&security=reality&pbk=QdYs12kmf0mAXNOEPgMpLN5dbZUlgvRK2zCqynOmqBk&sid=20#\ud83d\udd25Join+Telegram:@Farah_VPN\ud83d\udfe3",
@@ -4785,14 +4689,6 @@
             "success_rate": "100.00"
         },
         {
-            "id": "1364953",
-            "name": "\ud83d\udd25Join Telegram:@Farah_VPN\ud83d\udfe3",
-            "config_data": "vless:\/\/0b3ad86e-1818-49bb-949d-4e85d137a16d@104.21.13.210:443\/?path=\/&security=tls&encryption=none&insecure=0&host=mianfeijiedianscp.buzz&fp=chrome&type=ws&allowInsecure=0&sni=mianfeijiedianscp.buzz#\ud83d\udd25Join+Telegram:@Farah_VPN\ud83d\udfe3",
-            "protocol": "vless",
-            "ping_time": "1741",
-            "success_rate": "100.00"
-        },
-        {
             "id": "1474160",
             "name": "\ud83d\udd25Join Telegram:@Farah_VPN\ud83d\udfe3",
             "config_data": "vless:\/\/de7b6583-99d7-4376-a947-7040ccaf33a9@ezqumuc7oe5-80zdgswmwuomouj8qmg7.xolyzo4465.workers.dev:443?encryption=none&security=tls&sni=EZquMuC7OE5-80ZDGswmwuoMouJ8qmg7.xOlyZo4465.wOrKERs.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=ezqumuc7oe5-80zdgswmwuomouj8qmg7.xolyzo4465.workers.dev&path=%2FeyJqdW5rIjoiUlkyamE5RDI4U3Z6OEoiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed%3D2560#\ud83d\udd25Join+Telegram:@Farah_VPN\ud83d\udfe3",
@@ -4814,22 +4710,6 @@
             "config_data": "vless:\/\/33e1a095-1e25-4198-bfe7-ec312e4f98ee@nodejs.org:80?path=\/?ed&security=none&encryption=none&host=CREDibLe-pLaNt7ddV4jJ7et.OnEeaT.CO.&type=ws#Telegram:@meowvip1*187*",
             "protocol": "vless",
             "ping_time": "1745",
-            "success_rate": "100.00"
-        },
-        {
-            "id": "1376050",
-            "name": "\ud83c\uddf7\ud83c\uddfa \ud83d\udd25Join Telegram:@Farah_VPN\ud83d\udfe3",
-            "config_data": "vless:\/\/6416708c-eaa5-4ec5-b652-a2db2feab875@217.12.219.53:443\/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ozon.ru&fp=chrome&security=reality&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=cd57a927f6b72d81#\ud83d\udd25Join+Telegram:@Farah_VPN\ud83d\udfe3",
-            "protocol": "vless",
-            "ping_time": "1747",
-            "success_rate": "100.00"
-        },
-        {
-            "id": "1384691",
-            "name": "\ud83c\udf10 Cloud",
-            "config_data": "vmess:\/\/eyJhZGQiOiJ0Z2p1Lm9yZyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoibmFzbmV0LTU3MTI5NjQ5Ny5pcmFucHJlc3MuY28iLCJpZCI6Im5hc25ldCIsImluc2VjdXJlIjoiMSIsIm5ldCI6IndzIiwicGF0aCI6Ii9uYXNuZXQvY2RuP2VkXHUwMDNkMjU2MCIsInBvcnQiOiI4MDgwIiwicHMiOiLimJ4g8J2XnfCdl7zwnZe28J2XuyDinqAgQFZpdHVyZXkg4piFIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9",
-            "protocol": "vmess",
-            "ping_time": "1747",
             "success_rate": "100.00"
         },
         {
@@ -5017,6 +4897,14 @@
             "success_rate": "100.00"
         },
         {
+            "id": "1517073",
+            "name": "\ud83c\uddf7\ud83c\uddfa \u26a1Telegram = @SOSkeyNET",
+            "config_data": "vless:\/\/f4643425-78b3-44ac-954b-4a2167002c23@212.233.96.101:443?security=reality&encryption=none&pbk=rgzU-HlMzZccV6ZjxLw_Fs9Pxeyrj2N3HFMgURyjwwc&headerType=none&fp=chrome&type=tcp&sni=yandex.ru&sid=f92954e2e710#\u26a1Telegram=@SOSkeyNET",
+            "protocol": "vless",
+            "ping_time": "1774",
+            "success_rate": "100.00"
+        },
+        {
             "id": "1479917",
             "name": "\ud83c\udde9\ud83c\uddea \ud83c\udde9\ud83c\uddea @FreakConfig",
             "config_data": "vless:\/\/fef4a93d-eb4f-4657-b56b-32a0dc060045@188.114.98.0:443?path=\/&security=tls&encryption=none&insecure=0&host=dev.twistsparrow.xyz&type=ws&allowInsecure=0&sni=dev.twistsparrow.xyz#\ud83c\udde9\ud83c\uddea@FreakConfig",
@@ -5105,14 +4993,6 @@
             "success_rate": "100.00"
         },
         {
-            "id": "1475838",
-            "name": "\ud83d\udd25Join Telegram:@Farah_VPN\ud83d\udfe3",
-            "config_data": "vless:\/\/33e1a095-1e25-4198-bfe7-ec312e4f98ee@nodejs.org:80\/?security=none&type=ws&path=\/?ed&host=CREDibLe-pLaNt7ddV4jJ7et.OnEeaT.CO.&encryption=none#\ud83d\udd25Join+Telegram:@Farah_VPN\ud83d\udfe3",
-            "protocol": "vless",
-            "ping_time": "1783",
-            "success_rate": "100.00"
-        },
-        {
             "id": "1395714",
             "name": "\ud83c\uddf5\ud83c\udde6PA-138.186.142.80-0252",
             "config_data": "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@138.186.142.80:990#%F0%9F%87%B5%F0%9F%87%A6PA-138.186.142.80-0252",
@@ -5173,14 +5053,6 @@
             "name": "\ud83d\udd25Join Telegram:@Farah_VPN\ud83d\udfe3",
             "config_data": "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwdmd6OXBx@142.4.216.225:443#\ud83d\udd25Join+Telegram:@Farah_VPN\ud83d\udfe3",
             "protocol": "shadowsocks",
-            "ping_time": "1799",
-            "success_rate": "100.00"
-        },
-        {
-            "id": "1389841",
-            "name": "\ud83c\udde9\ud83c\uddea ShatakVPN 577874",
-            "config_data": "vless:\/\/dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80?security=none&type=ws&path=%2Fhttp#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20577874",
-            "protocol": "vless",
             "ping_time": "1799",
             "success_rate": "100.00"
         },
@@ -5289,6 +5161,14 @@
             "success_rate": "100.00"
         },
         {
+            "id": "1517536",
+            "name": "\ud83c\uddec\ud83c\udde7 >>@flyv2ray::XX",
+            "config_data": "vless:\/\/1a94fbd9-79d2-4aa7-bf1d-074f678d27ab@104.20.1.252:80?path=%2F%3Fed&security=none&encryption=none&host=EqUiPPed-phOToZkoA7K5e6P.eCoTOuRiss.Co.uk.&type=ws#%3E%3E%40flyv2ray%3A%3AXX",
+            "protocol": "vless",
+            "ping_time": "1814",
+            "success_rate": "100.00"
+        },
+        {
             "id": "1377260",
             "name": "\ud83e\udee747@oneclickvpnkeys",
             "config_data": "vless:\/\/faaaf16e-188e-42f2-bcc1-17feadc84fad@151.236.15.72:444\/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=opensuse.org&fp=chrome&security=reality&pbk=FOSoac3DIrSrCUcBtQA-BdHMxCtqe2CYCpdvGxKMiUw&sid=82b9ca5d8d39ba72#\ud83e\udee747@oneclickvpnkeys",
@@ -5348,6 +5228,14 @@
             "id": "1477594",
             "name": "\ud83c\uddec\ud83c\udde7 @v2rayngzendegimamad\ud83d\udd4a\ufe0f",
             "config_data": "vless:\/\/57ba2ab1-a283-42eb-82ee-dc3561a805b8@172.67.153.156:8443?path=\/57ba2ab1&security=tls&encryption=none&insecure=1&host=ovhwuxian.pai50288.uk&type=ws&allowInsecure=1&sni=ovhwuxian.pai50288.uk#@v2rayngzendegimamad\ud83d\udd4a\ufe0f",
+            "protocol": "vless",
+            "ping_time": "1820",
+            "success_rate": "100.00"
+        },
+        {
+            "id": "1517186",
+            "name": "@PuLaFreeBOT 11",
+            "config_data": "vless:\/\/fef4a93d-eb4f-4657-b56b-32a0dc060045@188.114.98.0:443?path=\/&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=dev.twistsparrow.xyz#@PuLaFreeBOT11",
             "protocol": "vless",
             "ping_time": "1820",
             "success_rate": "100.00"
@@ -5446,14 +5334,6 @@
             "config_data": "vmess:\/\/eyJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkZDI1Sm9pbitUZWxlZ3JhbTpARmFyYWhfVlBOXHVkODNkXHVkZmUzIiwgImFkZCI6ICJuZXh0bWkuaGFqbXlhYi5pciIsICJwb3J0IjogIjIwNTMiLCAidHlwZSI6ICItLS0iLCAiaWQiOiAiOTU4NTYzNmEtNTRiYy00MTlhLTkwYTEtNzZjNWM2ZWM3NGRmIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi8iLCAiaG9zdCI6ICJhcHAuaGFqbXlhYi5pciIsICJ0bHMiOiAidGxzIn0=",
             "protocol": "vmess",
             "ping_time": "1827",
-            "success_rate": "100.00"
-        },
-        {
-            "id": "1380335",
-            "name": "\ud83c\uddf7\ud83c\uddfa \ud83d\udd25Join Telegram:@Farah_VPN\ud83d\udfe3",
-            "config_data": "vless:\/\/46254027-2890-4224-9c7b-4bfede00175b@95.163.182.238:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=yandex.ru&pbk=--Hfd0J48lUn9F6lHE3NJn8M-MdjeWTQDWMtJshhYAk&sid=8f0a12bc34de5678&spx=\/&type=tcp&headerType=none#\ud83d\udd25Join+Telegram:@Farah_VPN\ud83d\udfe3",
-            "protocol": "vless",
-            "ping_time": "1829",
             "success_rate": "100.00"
         },
         {
@@ -5641,14 +5521,6 @@
             "success_rate": "100.00"
         },
         {
-            "id": "1400475",
-            "name": "\ud83c\uddee\ud83c\uddf3 \ud83d\udd25Join Telegram:@Farah_VPN\ud83d\udfe3",
-            "config_data": "vless:\/\/6202b230-417c-4d8e-b624-0f71afa9c75d@5.45.66.11:443?path=\/?ed=2560&Telegram\ud83c\udf96@AliXTso&security=tls&encryption=none&host=sni.111000.indevs.in&type=ws&sni=sni.111000.indevs.in#\ud83d\udd25Join+Telegram:@Farah_VPN\ud83d\udfe3",
-            "protocol": "vless",
-            "ping_time": "1851",
-            "success_rate": "100.00"
-        },
-        {
             "id": "1373139",
             "name": "\ud83c\udde9\ud83c\uddea \ud83c\udde9\ud83c\uddea - DE - @freeOnlineVPN",
             "config_data": "vless:\/\/546e91b5-c33e-4b04-b20c-c0fc8f6d9d7f@nodejs.org:80?encryption=none&security=none&type=ws&host=bIZARRe-CEntEryZCvddNcfJ.spORtLand.COmPANY.&path=\/?ed=\u00ace=@freeOnlineVPN&note=@freeOnlineVPN#\ud83c\udde9\ud83c\uddea-DE-@freeOnlineVPN",
@@ -5705,14 +5577,6 @@
             "success_rate": "100.00"
         },
         {
-            "id": "1362822",
-            "name": "\ud83c\udde8\ud83c\udde6 \ud83c\uddfa\ud83c\uddf8 ShatakVPN 407657",
-            "config_data": "vless:\/\/686c62d9-17a7-43c9-a40a-f6747df60a9f@172.66.47.45:2096?type=ws&encryption=none&host=ca.adobe-connect.top&path=\/&security=tls&sni=ca.adobe-connect.top&allowInsecure=1&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20407657",
-            "protocol": "vless",
-            "ping_time": "1866",
-            "success_rate": "100.00"
-        },
-        {
             "id": "1476389",
             "name": "\ud83c\uddec\ud83c\udde7 @v2rays_ha 7288",
             "config_data": "vless:\/\/1a94fbd9-79d2-4aa7-bf1d-074f678d27ab@nodejs.org:80\/?security=none&type=ws&path=\/?ed&host=EqUiPPed-phOToZkoA7K5e6P.eCoTOuRiss.Co.uk.&encryption=none#@v2rays_ha7288",
@@ -5753,6 +5617,14 @@
             "success_rate": "100.00"
         },
         {
+            "id": "1520134",
+            "name": "\ud83c\uddee\ud83c\uddf7 \u26a1 b2n.ir\/v2ray-configs | 188",
+            "config_data": "vless:\/\/cdddbb3f-5481-4d12-e3ee-597f97910d21@cf.mahdi383ir.website:2096?alpn=h2%2Chttp%2F1.1&encryption=none&fp=firefox&host=kh2tiyozkxybazdibomyhih.mahdi383ir.website&path=%2F&security=tls&sni=kh2tiyozkxybazdibomyhih.mahdi383ir.website&type=ws#\u26a1b2n.ir\/v2ray-configs|188",
+            "protocol": "vless",
+            "ping_time": "1872",
+            "success_rate": "100.00"
+        },
+        {
             "id": "1346903",
             "name": "\ud83c\uddec\ud83c\udde7 \ud83d\udd25Join Telegram:@Farah_VPN\ud83d\udfe3",
             "config_data": "vless:\/\/57ba2ab1-a283-42eb-82ee-dc3561a805b8@ovhwuxian.pai50288.uk:8443?path=%2F57ba2ab1&security=tls&encryption=none&insecure=0&host=ovhwuxian.pai50288.uk&fp=chrome&type=ws&allowInsecure=0&sni=ovhwuxian.pai50288.uk#\ud83d\udd25Join+Telegram:@Farah_VPN\ud83d\udfe3",
@@ -5772,6 +5644,14 @@
             "id": "1479872",
             "name": "@FarazV2ray",
             "config_data": "vless:\/\/fef4a93d-eb4f-4657-b56b-32a0dc060045@104.21.40.34:443?path=\/&security=tls&encryption=none&insecure=0&host=dev.twistsparrow.xyz&fp=chrome&type=ws&allowInsecure=0&sni=dev.twistsparrow.xyz#@FarazV2ray",
+            "protocol": "vless",
+            "ping_time": "1875",
+            "success_rate": "100.00"
+        },
+        {
+            "id": "1503379",
+            "name": "\ud83c\udff3\ufe0f ShatakVPN 844844",
+            "config_data": "vless:\/\/b4819c49-6c7e-4b57-9b9b-c73031e1de11@45.15.170.237:80?type=ws&encryption=none&path=\/vless\/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20844844",
             "protocol": "vless",
             "ping_time": "1875",
             "success_rate": "100.00"
@@ -5977,6 +5857,14 @@
             "success_rate": "100.00"
         },
         {
+            "id": "1517054",
+            "name": "\u26a1Telegram = @SOSkeyNET",
+            "config_data": "vless:\/\/f0a44f8f-c01f-490c-a6eb-29106a2509a4@3.143.235.221:32252?mode=gun&security=tls&encryption=none&alpn=h2,http\/1.1&authority=&fp=chrome&type=grpc&serviceName=www.bing.com&sni=3.143.235.221#\u26a1Telegram=@SOSkeyNET",
+            "protocol": "vless",
+            "ping_time": "1897",
+            "success_rate": "100.00"
+        },
+        {
             "id": "1470255",
             "name": "\ud83c\uddfa\ud83c\uddf8 ShatakVPN 147742",
             "config_data": "vmess:\/\/eyJhZGQiOiAiMTcyLjY3LjIwNC44NCIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICJuYXNuZXQtNTExOTUyNDI0Lm1jaXRlbC5jbyIsICJpZCI6ICJuYXNuZXQiLCAiaW5zZWN1cmUiOiAiMCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvbmFzbmV0L2NkbiIsICJwb3J0IjogODA4MCwgInBzIjogIvCfh7rwn4e4IFNoYXRha1ZQTiAxNDc3NDIiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiLS0tIiwgInYiOiAiMiIsICJuYW1lIjogIkBpMTBWUE4g8J+agHwg2KjYpyDZhdinINmF2KrYtdmEINio2YXZiNmG4pqhIn0=#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20147742",
@@ -5990,14 +5878,6 @@
             "config_data": "vless:\/\/546e91b5-c33e-4b04-b20c-c0fc8f6d9d7f@nodejs.org:80?encryption=none&security=none&type=ws&host=bIZARRe-CEntEryZCvddNcfJ.spORtLand.COmPANY.&path=\/?ed=e=@freeOnlineVPN&note=@freeOnlineVPN#\ud83d\udd25Join+Telegram:@Farah_VPN\ud83d\udfe3",
             "protocol": "vless",
             "ping_time": "1899",
-            "success_rate": "100.00"
-        },
-        {
-            "id": "1410270",
-            "name": "\ud83c\uddf0\ud83c\uddf7 ShatakVPN 628504",
-            "config_data": "vmess:\/\/eyJhZGQiOiAiMTUyLjcwLjkyLjY5IiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICJiYjljMzk5My1hNGI5LTRkYWQtYWViOS1hYzg2MzcxYWU2OGIiLCAibmV0IjogInRjcCIsICJwYXRoIjogIi8iLCAicG9ydCI6IDgwLCAicHMiOiAi8J+HsPCfh7cgU2hhdGFrVlBOIDYyODUwNCIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJodHRwIiwgInYiOiAiMiIsICJuYW1lIjogIj4+QG9uZWNsaWNrdnBua2V5czo6S1I6OktSOjpLUjo6S1I6OktSOjpLUjo6S1I6OktSOjpLUjo6S1I6OktSOjpLUjo6S1I6OktSOjpLUjo6S1I6OktSOjpLUjo6S1I6OktSOjpLUjo6S1IifQ==#%F0%9F%87%B0%F0%9F%87%B7%20ShatakVPN%20628504",
-            "protocol": "vmess",
-            "ping_time": "1901",
             "success_rate": "100.00"
         },
         {
@@ -6022,14 +5902,6 @@
             "config_data": "vless:\/\/59edf6dc-b1f7-4017-8107-aae4f61a173c@mskhost.outlinekeys.net:443?security=reality&encryption=none&pbk=3zn513ilYXOJngXLRP0MUnK23HuB9TKLjQ7YG20dzTQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=mskhost.outlinekeys.net#@Magsin_Vpn\ud83d\udd25",
             "protocol": "vless",
             "ping_time": "1902",
-            "success_rate": "100.00"
-        },
-        {
-            "id": "1411127",
-            "name": "\ud83c\uddee\ud83c\uddf7 \u26a1 b2n.ir\/v2ray-configs | 242",
-            "config_data": "vless:\/\/d89d6641-3b1a-4f51-a194-9c9109fd21b6@creativecommons.org:443?path=%2Fassets&security=tls&encryption=none&host=diprox.pages.dev&fp=chrome&type=ws&sni=DiprOX.pages.DEV#\u26a1b2n.ir\/v2ray-configs|242",
-            "protocol": "vless",
-            "ping_time": "1903",
             "success_rate": "100.00"
         },
         {
@@ -6065,14 +5937,6 @@
             "success_rate": "100.00"
         },
         {
-            "id": "1409581",
-            "name": "\ud83c\uddf3\ud83c\uddf1 ShatakVPN 196879",
-            "config_data": "vless:\/\/48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.12:23576\/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#%F0%9F%87%B3%F0%9F%87%B1%20ShatakVPN%20196879",
-            "protocol": "vless",
-            "ping_time": "1908",
-            "success_rate": "100.00"
-        },
-        {
             "id": "1410387",
             "name": "\ud83c\uddfa\ud83c\uddf8 ShatakVPN 971939",
             "config_data": "vless:\/\/d89d6641-3b1a-4f51-a194-9c9109fd21b6@108.162.198.154:443\/?path=%2Ffp%3Dchrome&security=tls&encryption=none&host=DiprOX.pages.DEV&fp=chrome&type=ws&sni=DiprOX.pages.DEV#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20971939",
@@ -6092,6 +5956,14 @@
             "id": "1394976",
             "name": "\ud83c\uddee\ud83c\uddf7 \ud83c\uddfa\ud83c\uddf8 ShatakVPN 699483",
             "config_data": "vless:\/\/96d9bcb0-9ad2-48be-85a2-a9ab3a005261@172.64.155.209:2083?path=\/&security=tls&alpn=http\/1.1&encryption=none&insecure=0&host=ds1-mx-fn154-protection.iranlease.com&type=ws&allowInsecure=0&sni=ds1-mx-fn154-protection.iranlease.com#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20699483",
+            "protocol": "vless",
+            "ping_time": "1909",
+            "success_rate": "100.00"
+        },
+        {
+            "id": "1498772",
+            "name": "\ud83c\uddf7\ud83c\uddfa \ud83d\udd25Join Telegram:@Farah_VPN\ud83d\udfe3",
+            "config_data": "vless:\/\/feaf1d64-b44c-4cc8-b114-4001478c1fd0@65.108.108.151:443?security=reality&encryption=none=-@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann&pbk=u26A516I3BCfUMPOo6rw0-XYt0C2sCWaPNP2pNdtxzw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fit.jojack.ru&sid=f8865ecbb9bc11a3#\ud83d\udd25Join+Telegram:@Farah_VPN\ud83d\udfe3",
             "protocol": "vless",
             "ping_time": "1909",
             "success_rate": "100.00"
@@ -6145,27 +6017,11 @@
             "success_rate": "100.00"
         },
         {
-            "id": "1375503",
-            "name": ">>@v2ray_configs_pool::US",
-            "config_data": "vless:\/\/ef23616d-8a9d-4b22-b2f5-9bda864de179@172.67.170.140:2053?security=tls&type=ws&path=%2Fassets%3Fed%3D2048&host=index.arcane509.workers.dev&alpn=http%2F1.1&sni=INDEX.Arcane509.Workers.DEV&fp=chrome&encryption=none#%3E%3E%40v2ray_configs_pool%3A%3AUS",
-            "protocol": "vless",
-            "ping_time": "1925",
-            "success_rate": "100.00"
-        },
-        {
             "id": "1484198",
             "name": "\ud83c\uddfa\ud83c\uddf8 ShatakVPN 938818",
             "config_data": "vmess:\/\/eyJhZGQiOiAiMTA0LjIxLjY5LjQ0IiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIm5hc25ldC01MTE5NTI0MjQubWNpdGVsLmNvIiwgImlkIjogIm5hc25ldCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvbmFzbmV0L2NkbiIsICJwb3J0IjogODA4MCwgInBzIjogIvCfh7rwn4e4IFNoYXRha1ZQTiA5Mzg4MTgiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiIiwgInYiOiAiMiIsICJuYW1lIjogIj4+QG9uZWNsaWNrdnBua2V5czo6WFg6OlhYOjpYWDo6WFgifQ==#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20938818",
             "protocol": "vmess",
             "ping_time": "1927",
-            "success_rate": "100.00"
-        },
-        {
-            "id": "1269685",
-            "name": "\ud83c\uddee\ud83c\uddf7 \ud83c\udde8\ud83c\udded ShatakVPN 384975",
-            "config_data": "vless:\/\/23aa242f-09f1-4f7e-8fcc-9d819fd95798@107.189.10.132:2087?encryption=none&headerType=http&host=iranserver.com&security=none&type=tcp#%F0%9F%87%A8%F0%9F%87%AD%20ShatakVPN%20384975",
-            "protocol": "vless",
-            "ping_time": "1931",
             "success_rate": "100.00"
         },
         {
@@ -6361,14 +6217,6 @@
             "success_rate": "100.00"
         },
         {
-            "id": "1397034",
-            "name": "\ud83c\uddee\ud83c\uddf3 \ud83d\udd25Join Telegram:@Farah_VPN\ud83d\udfe3",
-            "config_data": "vless:\/\/6202b230-417c-4d8e-b624-0f71afa9c75d@vip1.kaixincloud.top:2096?path=\/?ed=2560&Telegram+@WangCai2&security=tls&encryption=none&host=sni.111000.indevs.in&fp=chrome&type=ws&sni=sni.111000.indevs.in#\ud83d\udd25Join+Telegram:@Farah_VPN\ud83d\udfe3",
-            "protocol": "vless",
-            "ping_time": "1961",
-            "success_rate": "100.00"
-        },
-        {
             "id": "1375005",
             "name": "\ud83c\uddfa\ud83c\uddf8 ShatakVPN 162621",
             "config_data": "vless:\/\/2a2a8023-3b4b-407d-a00a-7beb5a158148@104.20.1.252:80?path=%2F%3Fed&security=none&encryption=none&host=SHAggy-AGREEMeNTSpUfz4utdI.SpOrTland.COMPANy.&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20162621",
@@ -6438,6 +6286,14 @@
             "config_data": "vmess:\/\/ewogICAgImFkZCI6ICJnZi51c2EyMDMwLmluZGV2cy5pbiIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogImdmLnVzYTIwMzAuaW5kZXZzLmluIiwKICAgICJpZCI6ICI1MTk2YWFlNy0xNDc5LTRmM2MtOTc4Yi02OGU3NDk3N2I1MDkiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIva2wwMWlIdTF2Z2JKbVE1SUtNQml2blIzIiwKICAgICJwb3J0IjogODAsCiAgICAicHMiOiAi8J+PgVJFTEFZLTE3Mi42Ny4xNzMuNzQtMDg2NiIsCiAgICAidGxzIjogIiIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9",
             "protocol": "vmess",
             "ping_time": "1969",
+            "success_rate": "100.00"
+        },
+        {
+            "id": "1502551",
+            "name": "\ud83c\udff3\ufe0f ShatakVPN 419962",
+            "config_data": "vmess:\/\/eyJ2IjogbnVsbCwgInBzIjogIvCfj7PvuI8gU2hhdGFrVlBOIDQxOTk2MiIsICJhZGQiOiAiMTcyLjY3LjIxMy4xNjYiLCAicG9ydCI6IDgwLCAiaWQiOiAiMmJmZTU4ZjctZGExZC00NWRmLWFiNDMtN2M2NjViMjBlZTI5IiwgImFpZCI6ICIwIiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogbnVsbCwgImhvc3QiOiAiYmJibm1qdS45MzIucHAudWEiLCAiYWxwbiI6IG51bGwsICJwYXRoIjogIi90MVVWNEhTcnpiV0dtSnRiQmhtS2I4bk9rZyIsICJ0bHMiOiAiIiwgInNuaSI6IG51bGwsICJmcCI6IG51bGwsICJuYW1lIjogIvCfh7rwn4e4IFVTIDIwIn0=#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20419962",
+            "protocol": "vmess",
+            "ping_time": "1970",
             "success_rate": "100.00"
         },
         {
@@ -6561,14 +6417,6 @@
             "success_rate": "100.00"
         },
         {
-            "id": "1360114",
-            "name": "\ud83c\uddee\ud83c\uddf3 \u26a1 b2n.ir\/v2ray-configs | 912",
-            "config_data": "vless:\/\/6202b230-417c-4d8e-b624-0f71afa9c75d@51.158.146.213:2053?path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#\u26a1b2n.ir\/v2ray-configs|912",
-            "protocol": "vless",
-            "ping_time": "1989",
-            "success_rate": "100.00"
-        },
-        {
             "id": "1371301",
             "name": "@Blank_Vpn \u0644\u0637\u0641\u0627 \u0628\u0631\u0627\u06cc \u062d\u0645\u0627\u06cc\u062a \u062c\u0648\u06cc\u0646 \u0634\u06cc\u062f",
             "config_data": "trojan:\/\/humanity@172.64.152.23:443?path=\/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#@Blank_Vpn\u0644\u0637\u0641\u0627\u0628\u0631\u0627\u06cc\u062d\u0645\u0627\u06cc\u062a\u062c\u0648\u06cc\u0646\u0634\u06cc\u062f",
@@ -6617,6 +6465,6 @@
             "success_rate": "100.00"
         }
     ],
-    "total": 827,
-    "exported_at": "2026-02-08 05:11:52"
+    "total": 808,
+    "exported_at": "2026-02-08 05:59:31"
 }
