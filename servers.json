@@ -6889,6 +6889,14 @@
             "success_rate": "100.00"
         },
         {
+            "id": "1587897",
+            "name": "\ud83d\udc9b@V2rayBaaz| \u062a\u0644\u06af\u0631\u0627\u0645\u0645\u0648\u0646 \ud83e\udd0d",
+            "config_data": "vless:\/\/d89d6641-3b1a-4f51-a194-9c9109fd21b6@creativecommons.org:443?path=\/Tel-@V2rayAlpha&security=tls&encryption=none&insecure=0&host=DiprOX.pages.DEV&fp=chrome&type=ws&allowInsecure=0&sni=DiprOX.pages.DEV#\ud83d\udc9b@V2rayBaaz|\u062a\u0644\u06af\u0631\u0627\u0645\u0645\u0648\u0646\ud83e\udd0d",
+            "protocol": "vless",
+            "ping_time": "1728",
+            "success_rate": "100.00"
+        },
+        {
             "id": "1377929",
             "name": "\ud83c\udf10 Cloud",
             "config_data": "vmess:\/\/eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7gg576O5Zu9IENsb3VkRmxhcmXoioLngrkiLCJhZGQiOiJkaWdpdGFsb2NlYW4uY29tIiwicG9ydCI6IjgwODAiLCJ0eXBlIjoiLS0tIiwiaWQiOiJuYXNuZXQiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiL05BU05FVC9jZG4\/ZWQ9MjU2MCIsImhvc3QiOiJuYXNuZXQtNTcxMjk5NjY3LnJhaGF2YXJkMzY1LmNvIiwidGxzIjoiIn0=",
@@ -9225,6 +9233,6 @@
             "success_rate": "100.00"
         }
     ],
-    "total": 1153,
-    "exported_at": "2026-02-08 19:15:44"
+    "total": 1154,
+    "exported_at": "2026-02-08 19:19:08"
 }
