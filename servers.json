@@ -969,6 +969,14 @@
             "success_rate": "100.00"
         },
         {
+            "id": "1587758",
+            "name": "\ud83c\uddee\ud83c\uddf7 \u26a1\ufe0e \ud80c\udffa \u06a9\u0627\u0646\u0641\u06cc\u06af \u0631\u0627\u06cc\u06af\u0627\u0646 @NabiProxy",
+            "config_data": "vless:\/\/b3ab86ed-b74f-4ad3-badc-e987fa3ad2c3@185.215.228.252:31837?security=none&encryption=none&host=myket.ir&headerType=http&type=tcp#\u26a1\ufe0e\ud80c\udffa\u06a9\u0627\u0646\u0641\u06cc\u06af\u0631\u0627\u06cc\u06af\u0627\u0646@NabiProxy",
+            "protocol": "vless",
+            "ping_time": "1094",
+            "success_rate": "100.00"
+        },
+        {
             "id": "1586716",
             "name": "VayNora",
             "config_data": "vless:\/\/fef4a93d-eb4f-4657-b56b-32a0dc060045@188.114.98.0:443?security=tls&allowInsecure=0&encryption=none&type=ws&host=dev.twistsparrow.xyz&path=\/&sni=dev.twistsparrow.xyz&fp=chrome#VayNora",
@@ -7289,6 +7297,14 @@
             "success_rate": "100.00"
         },
         {
+            "id": "1577853",
+            "name": "\ud83c\uddec\ud83c\udde7 @v2rays_ha 7178",
+            "config_data": "vless:\/\/1a94fbd9-79d2-4aa7-bf1d-074f678d27ab@104.20.1.252:80\/?security=none&type=ws&path=\/?ed&host=EqUiPPed-phOToZkoA7K5e6P.eCoTOuRiss.Co.uk.&encryption=none#@v2rays_ha7178",
+            "protocol": "vless",
+            "ping_time": "1761",
+            "success_rate": "100.00"
+        },
+        {
             "id": "1425234",
             "name": "\ud83c\uddee\ud83c\uddf3 \ud83d\udd25Join Telegram:@Farah_VPN\ud83d\udfe3",
             "config_data": "vless:\/\/6202b230-417c-4d8e-b624-0f71afa9c75d@5.129.239.240:443?path=\/?ed=2560&Telegram\ud83c\udf96@AliXTso&security=tls&encryption=none&host=sni.111000.indevs.in&type=ws&sni=sni.111000.indevs.in#\ud83d\udd25Join+Telegram:@Farah_VPN\ud83d\udfe3",
@@ -9449,6 +9465,6 @@
             "success_rate": "100.00"
         }
     ],
-    "total": 1181,
-    "exported_at": "2026-02-08 21:03:17"
+    "total": 1183,
+    "exported_at": "2026-02-08 21:37:21"
 }
