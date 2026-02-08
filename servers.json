@@ -3417,14 +3417,6 @@
             "success_rate": "100.00"
         },
         {
-            "id": "1528235",
-            "name": "@v2rays_ha 7179",
-            "config_data": "vless:\/\/3321a819-889d-40b3-b8fa-f34208827ef1@104.17.73.206:443\/?security=tls&type=ws&path=\/Tel-@V2rayAlpha&host=o00o.snip.qzz.io&sni=o00o.snip.qzz.io&fp=chrome&encryption=none#@v2rays_ha7179",
-            "protocol": "vless",
-            "ping_time": "1345",
-            "success_rate": "100.00"
-        },
-        {
             "id": "1456952",
             "name": "\ud83c\uddee\ud83c\uddf3 @Tweety_Proxy",
             "config_data": "vless:\/\/6202b230-417c-4d8e-b624-0f71afa9c75d@37.187.98.185:443?path=\/?ed=2560&Telegram\ud83c\udf96@AliXTso&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#@Tweety_Proxy",
@@ -7305,6 +7297,14 @@
             "success_rate": "100.00"
         },
         {
+            "id": "1561766",
+            "name": "@v2rays_ha 7179",
+            "config_data": "vless:\/\/3321a819-889d-40b3-b8fa-f34208827ef1@104.17.73.206:443\/?security=tls&type=ws&path=\/Tel-@V2rayAlpha&host=o00o.snip.qzz.io&sni=o00o.snip.qzz.io&fp=chrome&encryption=none#@v2rays_ha7179",
+            "protocol": "vless",
+            "ping_time": "1774",
+            "success_rate": "100.00"
+        },
+        {
             "id": "1546733",
             "name": "\ud83c\udde9\ud83c\uddea \ud83c\udde9\ud83c\uddea - DE - @freeOnlineVPN",
             "config_data": "vless:\/\/65fe56c2-78ec-417a-a666-9f393eac8b61@104.20.1.252:80?path=\/?ed&security=none&encryption=none&host=everlASTinG-oFfERC4S5Mg1918.SpoRTLand.COMpaNy.&type=ws&note=@freeOnlineVPN#\ud83c\udde9\ud83c\uddea-DE-@freeOnlineVPN",
@@ -8036,6 +8036,14 @@
             "id": "1496963",
             "name": "\ud83d\udd25Join Telegram:@Farah_VPN\ud83d\udfe3",
             "config_data": "vless:\/\/e4824193-4f54-453b-d037-88368e85ef0e@162.159.152.4:443?encryption=none&security=tls&sni=pqh30v1.carwashipdir.shop&fp=chrome&insecure=1&allowInsecure=1&type=grpc#\ud83d\udd25Join+Telegram:@Farah_VPN\ud83d\udfe3",
+            "protocol": "vless",
+            "ping_time": "1846",
+            "success_rate": "100.00"
+        },
+        {
+            "id": "1566424",
+            "name": "\ud83c\uddf0\ud83c\uddff Kazakhstan",
+            "config_data": "vless:\/\/481c5606-b586-44d7-bc2e-d8ef30d67f62@176.120.72.63:38339?security=reality&encryption=none&pbk=o0MFuznHh_Wztg0FTAMhFXm3hjAqOJAJIIVNn-_A9WA&headerType=none&fp=chrome&type=tcp&sni=dl.google.com&sid=e16883e511#%F0%9F%87%B0%F0%9F%87%BF%20Kazakhstan",
             "protocol": "vless",
             "ping_time": "1846",
             "success_rate": "100.00"
@@ -9305,6 +9313,6 @@
             "success_rate": "100.00"
         }
     ],
-    "total": 1163,
-    "exported_at": "2026-02-08 19:40:20"
+    "total": 1164,
+    "exported_at": "2026-02-08 19:42:58"
 }
