@@ -6889,6 +6889,14 @@
             "success_rate": "100.00"
         },
         {
+            "id": "1528344",
+            "name": "@meliproxyy",
+            "config_data": "vless:\/\/d89d6641-3b1a-4f51-a194-9c9109fd21b6@creativecommons.org:443?path=\/assets&security=tls&encryption=none&host=diprox.pages.dev&type=ws&sni=DiprOX.pages.DEV#@meliproxyy",
+            "protocol": "vless",
+            "ping_time": "1896",
+            "success_rate": "100.00"
+        },
+        {
             "id": "1517054",
             "name": "\u26a1Telegram = @SOSkeyNET",
             "config_data": "vless:\/\/f0a44f8f-c01f-490c-a6eb-29106a2509a4@3.143.235.221:32252?mode=gun&security=tls&encryption=none&alpn=h2,http\/1.1&authority=&fp=chrome&type=grpc&serviceName=www.bing.com&sni=3.143.235.221#\u26a1Telegram=@SOSkeyNET",
@@ -7545,6 +7553,6 @@
             "success_rate": "100.00"
         }
     ],
-    "total": 943,
-    "exported_at": "2026-02-08 11:58:03"
+    "total": 944,
+    "exported_at": "2026-02-08 11:59:12"
 }
