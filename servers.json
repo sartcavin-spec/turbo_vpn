@@ -1001,6 +1001,14 @@
             "success_rate": "100.00"
         },
         {
+            "id": "1567486",
+            "name": "\ud83c\uddfa\ud83c\uddf8 ShatakVPN 348519",
+            "config_data": "vless:\/\/8dc7722c-2767-4eea-a28b-2f8daacc07e3@45.82.251.249:8880?encryption=none&security=none&sni=pqh29v4.globalfymain.com&type=grpc#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20348519",
+            "protocol": "vless",
+            "ping_time": "1100",
+            "success_rate": "100.00"
+        },
+        {
             "id": "1390349",
             "name": "\ud83c\uddfa\ud83c\uddf8 ShatakVPN 897883",
             "config_data": "vmess:\/\/eyJhZGQiOiAiMTcyLjY3LjIwNC44NCIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICJuYXNuZXQtNTExOTUyNDI0Lm1jaXRlbC5jbyIsICJpZCI6ICJuYXNuZXQiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL25hc25ldC9jZG4iLCAicG9ydCI6IDgwODAsICJwcyI6ICLwn4e68J+HuCBTaGF0YWtWUE4gODk3ODgzIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIi0tLSIsICJ2IjogIjIiLCAibmFtZSI6ICLimqHvuI9UZWxlZ3JhbSA9IEBTT1NrZXlORVQifQ==#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20897883",
@@ -8985,6 +8993,6 @@
             "success_rate": "100.00"
         }
     ],
-    "total": 1123,
-    "exported_at": "2026-02-08 17:58:22"
+    "total": 1124,
+    "exported_at": "2026-02-08 18:01:04"
 }
