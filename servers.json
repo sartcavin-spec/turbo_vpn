@@ -2241,14 +2241,6 @@
             "success_rate": "100.00"
         },
         {
-            "id": "1617838",
-            "name": "\u06a9\u0627\u0646\u0627\u0644 \u062a\u0644\u06af\u0631\u0627\u0645 : Free_VPN_CH@",
-            "config_data": "vless:\/\/2a2a8023-3b4b-407d-a00a-7beb5a158148@nodejs.org:80?encryption=none&security=none&type=ws&host=SHAggy-AGREEMeNTSpUfz4utdI.SpOrTland.COMPANy.&path=%2F%3Fed#%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%3A%20Free_VPN_CH%40",
-            "protocol": "vless",
-            "ping_time": "1160",
-            "success_rate": "100.00"
-        },
-        {
             "id": "1600957",
             "name": "\ud83c\uddee\ud83c\uddf7 \ud83d\udd25Join Telegram:@Farah_VPN\ud83d\udfe3",
             "config_data": "vless:\/\/2b54583d-2738-40db-9b37-0454886e5744@hi4.afraseda.ir:2053?mode=auto&path=\/?ed=2048&security=tls&alpn=h2,http\/1.1&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=affipr.afraseda.ir#\ud83d\udd25Join+Telegram:@Farah_VPN\ud83d\udfe3",
@@ -3489,6 +3481,14 @@
             "success_rate": "100.00"
         },
         {
+            "id": "1625120",
+            "name": "\ud83c\uddec\ud83c\udde7 \u26a1 b2n.ir\/v2ray-configs | 217",
+            "config_data": "vless:\/\/4a8d4562-7192-4e83-8a24-75515a1666a3@173.245.49.254:80?path=%2F%3Fed&security=none&encryption=none&host=fiT-acADEmyw21824Ac8c.ECoToURISs.cO.Uk.&type=ws#\u26a1b2n.ir\/v2ray-configs|217",
+            "protocol": "vless",
+            "ping_time": "1257",
+            "success_rate": "100.00"
+        },
+        {
             "id": "1484193",
             "name": "\ud83c\uddfa\ud83c\uddf8 ShatakVPN 859778",
             "config_data": "vmess:\/\/eyJ2IjogIjIiLCAicHMiOiAi8J+HuvCfh7ggU2hhdGFrVlBOIDg1OTc3OCIsICJhZGQiOiAiMTA0LjIxLjY5LjQ0IiwgInBvcnQiOiA4MDgwLCAiaWQiOiAibmFzbmV0IiwgImFpZCI6ICIwIiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogIm5hc25ldC01MTE5NTI0MjQubWNpdGVsLmNvIiwgInBhdGgiOiAiL25hc25ldC9jZG4iLCAidGxzIjogIiIsICJzbmkiOiAiIiwgInRlc3RfbmFtZSI6ICJVU+e+juWbvTExIiwgIm5hbWUiOiAi8J+UpUpvaW4rVGVsZWdyYW06QEZhcmFoX1ZQTvCfn6MifQ==#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20859778",
@@ -4573,6 +4573,14 @@
             "name": "\ud83c\udf10 Cloud",
             "config_data": "vmess:\/\/eyJhZGQiOiIyMDkuMTI2Ljg0LjE4OSIsImFpZCI6MCwiaG9zdCI6IjIwOS4xMjYuODQuMTg5IiwiaWQiOiIyYzk4MTE2NC05YjkzLTRiY2EtOTRmZi1iNzhkM2Y4NDk4ZDciLCJuZXQiOiJ3cyIsInBhdGgiOiIvdm1lc3N3cyIsInBvcnQiOjQ0MywicHMiOiLwn4e68J+HuCBVUyB8IFZNRVNTIHwgQHYycmF5X2ZyZWVfY29uZiAjMSIsInRscyI6IiIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIn0=",
             "protocol": "vmess",
+            "ping_time": "1338",
+            "success_rate": "100.00"
+        },
+        {
+            "id": "1623441",
+            "name": "\u06a9\u0627\u0646\u0627\u0644 \u062a\u0644\u06af\u0631\u0627\u0645 : Free_VPN_CH@",
+            "config_data": "vless:\/\/2a2a8023-3b4b-407d-a00a-7beb5a158148@nodejs.org:80?encryption=none&security=none&type=ws&host=SHAggy-AGREEMeNTSpUfz4utdI.SpOrTland.COMPANy.&path=%2F%3Fed#%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%3A%20Free_VPN_CH%40",
+            "protocol": "vless",
             "ping_time": "1338",
             "success_rate": "100.00"
         },
@@ -11265,6 +11273,14 @@
             "success_rate": "100.00"
         },
         {
+            "id": "1632786",
+            "name": "\ud83d\udd25Join Telegram:@Farah_VPN\ud83d\udfe3",
+            "config_data": "vless:\/\/59edf6dc-b1f7-4017-8107-aae4f61a173c@srv6.outlinekeys.com:443\/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=srv6.outlinekeys.com&fp=chrome&security=reality&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA&sid=#\ud83d\udd25Join+Telegram:@Farah_VPN\ud83d\udfe3",
+            "protocol": "vless",
+            "ping_time": "1973",
+            "success_rate": "100.00"
+        },
+        {
             "id": "1378882",
             "name": "@v2rays_ha 6971",
             "config_data": "vless:\/\/fef4a93d-eb4f-4657-b56b-32a0dc060045@188.114.98.0:443\/?path=\/&security=tls&encryption=none&host=dev.twistsparrow.xyz&type=ws&sni=dev.twistsparrow.xyz#@v2rays_ha6971",
@@ -11449,6 +11465,6 @@
             "success_rate": "100.00"
         }
     ],
-    "total": 1431,
-    "exported_at": "2026-02-09 05:13:54"
+    "total": 1433,
+    "exported_at": "2026-02-09 05:21:06"
 }
