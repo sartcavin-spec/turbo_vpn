@@ -14449,6 +14449,14 @@
             "success_rate": "100.00"
         },
         {
+            "id": "1718284",
+            "name": "@v2rays_ha 7750",
+            "config_data": "vless:\/\/7d4a519b-d270-434e-a42d-d39624577a92@nodejs.org:80\/?path=\/?ed&security=&encryption=none&host=BrIgHt-orGaNizaTioNAuhudDhESZ.spoRTlAnd.CoMpANY.&type=ws#@v2rays_ha7750",
+            "protocol": "vless",
+            "ping_time": "1935",
+            "success_rate": "100.00"
+        },
+        {
             "id": "1557691",
             "name": "\ud83c\uddee\ud83c\uddf3 @v2rays_ha 7190",
             "config_data": "vless:\/\/6202b230-417c-4d8e-b624-0f71afa9c75d@162.159.12.151:443\/?security=tls&type=ws&path=\/?ed=2560&host=sni.111000.indevs.in&sni=sni.111000.indevs.in&fp=chrome&encryption=none#@v2rays_ha7190",
@@ -15073,6 +15081,6 @@
             "success_rate": "100.00"
         }
     ],
-    "total": 1884,
-    "exported_at": "2026-02-09 20:30:44"
+    "total": 1885,
+    "exported_at": "2026-02-09 21:03:38"
 }
