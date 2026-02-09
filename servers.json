@@ -1649,14 +1649,6 @@
             "success_rate": "100.00"
         },
         {
-            "id": "1614087",
-            "name": "\ud83c\uddec\ud83c\udde7 \ud83c\udde8\ud83c\udde6 - CA - @freeOnlineVPN",
-            "config_data": "vless:\/\/6abc2840-25fd-4dd7-b1aa-0892fe98f2d9@172.66.128.70:80?encryption=none&security=none&type=ws&host=MySterIOUS-chECk94Bl5oXQ6C.eCoTOUriSs.cO.uK.&path=\/?ed&note=@freeOnlineVPN#\ud83c\udde8\ud83c\udde6-CA-@freeOnlineVPN",
-            "protocol": "vless",
-            "ping_time": "1101",
-            "success_rate": "100.00"
-        },
-        {
             "id": "1613653",
             "name": "\ud83c\uddee\ud83c\uddf3 @Spotify_Porteghali 8928",
             "config_data": "vless:\/\/5003ee68-7646-45b1-ada9-27afa4e99fd4@in-yeki-vase-mahsa.global.ssl.fastly.net:443?path=\/containers\/fi&security=tls&alpn=http\/1.1&encryption=none&insecure=0&host=in-yeki-vase-mahsa.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=in-yeki-vase-mahsa.global.ssl.fastly.net#@Spotify_Porteghali8928",
@@ -7089,6 +7081,14 @@
             "success_rate": "100.00"
         },
         {
+            "id": "1675683",
+            "name": "\ud83c\uddec\ud83c\udde7 \ud83c\udde8\ud83c\udde6 - CA - @freeOnlineVPN",
+            "config_data": "vless:\/\/6abc2840-25fd-4dd7-b1aa-0892fe98f2d9@172.66.128.70:80?encryption=none&security=none&type=ws&host=MySterIOUS-chECk94Bl5oXQ6C.eCoTOUriSs.cO.uK.&path=\/?ed&note=@freeOnlineVPN#\ud83c\udde8\ud83c\udde6-CA-@freeOnlineVPN",
+            "protocol": "vless",
+            "ping_time": "1447",
+            "success_rate": "100.00"
+        },
+        {
             "id": "1427567",
             "name": "\ud83c\uddf7\ud83c\uddfa \u26a1 b2n.ir\/v2ray-configs | 539",
             "config_data": "vless:\/\/8009bc13-0c64-4ae9-9a74-24ce12cc71e8@37.139.34.145:8443?security=reality&encryption=none&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=m.vk.ru&sid=04bf0403f96e5b4b#\u26a1b2n.ir\/v2ray-configs|539",
@@ -8694,6 +8694,14 @@
             "config_data": "vmess:\/\/eyJhZGQiOiJjY2RkZnZnYi51bjIwMjcuaW5kZXZzLmluIiwiYWlkIjoiMCIsImFscG4iOiIiLCJlY2hDb25maWdMaXN0IjoiIiwiZWNoRm9yY2VRdWVyeSI6IiIsImVjaFNlcnZlcktleXMiOiIiLCJmYWtlaG9zdF9kb21haW4iOiIiLCJmcCI6IiIsImhvc3QiOiJjY2RkZnZnYi51bjIwMjcuaW5kZXZzLmluIiwiaWQiOiI4MjdiZWIyYS1mOTdhLTRiMjMtYjczMy1hZGVmMzBjOThlMTciLCJpbnRlcnZhbCI6IiIsImxlbmd0aCI6IiIsIm11eCI6IiIsIm11eENvbmN1cnJlbmN5IjoiIiwibmV0Ijoid3MiLCJwYWNrZXRzIjoiIiwicGF0aCI6Ii9ISVNMZm9mdnF6ZDNhM2l6eFl5WlhPRiIsInBvcnQiOiI4MCIsInBzIjoi8J+HvfCfh70gWFggfCBWTUVTUyB8IEByZWQycmF5ICMxIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9",
             "protocol": "vmess",
             "ping_time": "1580",
+            "success_rate": "100.00"
+        },
+        {
+            "id": "1684278",
+            "name": "@ConfigV2RayNG",
+            "config_data": "vless:\/\/d89d6641-3b1a-4f51-a194-9c9109fd21b6@creativecommons.org:443?path=\/assets&security=tls&encryption=none&insecure=0&host=diprox.pages.dev&fp=chrome&type=ws&allowInsecure=0&sni=DiprOX.pages.DEV#@ConfigV2RayNG",
+            "protocol": "vless",
+            "ping_time": "1581",
             "success_rate": "100.00"
         },
         {
@@ -13809,6 +13817,6 @@
             "success_rate": "100.00"
         }
     ],
-    "total": 1726,
-    "exported_at": "2026-02-09 14:41:01"
+    "total": 1727,
+    "exported_at": "2026-02-09 14:43:03"
 }
