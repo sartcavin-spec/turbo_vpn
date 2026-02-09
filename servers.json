@@ -3785,6 +3785,14 @@
             "success_rate": "100.00"
         },
         {
+            "id": "1659870",
+            "name": "\ud83c\uddee\ud83c\uddf3 \ud83c\uddee\ud83c\uddf3 ShatakVPN 115297",
+            "config_data": "vless:\/\/6202b230-417c-4d8e-b624-0f71afa9c75d@139.84.163.149:443?encryption=none&security=tls&sni=sni.111000.indevs.in&insecure=0&allowInsecure=0&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#%F0%9F%87%AE%F0%9F%87%B3%20ShatakVPN%20115297",
+            "protocol": "vless",
+            "ping_time": "1248",
+            "success_rate": "100.00"
+        },
+        {
             "id": "1557240",
             "name": "\ud83c\uddec\ud83c\udde7 \ud83c\uddfa\ud83c\uddf8 ShatakVPN 511942",
             "config_data": "vless:\/\/57ba2ab1-a283-42eb-82ee-dc3561a805b8@104.21.3.219:8443?path=\/57ba2ab1&security=tls&encryption=none&host=ovhwuxian.pai50288.uk&fp=chrome&type=ws&sni=ovhwuxian.pai50288.uk#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20511942",
@@ -13009,6 +13017,6 @@
             "success_rate": "100.00"
         }
     ],
-    "total": 1626,
-    "exported_at": "2026-02-09 10:38:04"
+    "total": 1627,
+    "exported_at": "2026-02-09 10:39:46"
 }
