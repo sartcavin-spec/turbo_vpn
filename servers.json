@@ -1145,6 +1145,14 @@
             "success_rate": "100.00"
         },
         {
+            "id": "1710801",
+            "name": "\ud83c\udde9\ud83c\uddea ShatakVPN 625663",
+            "config_data": "vless:\/\/f74d98a4-9198-4f78-b921-47d4f4950953@185.236.26.58:443?allowInsecure=1&encryption=none&flow=xtls-rprx-vision&security=tls&sni=de3.teleport.lat&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20625663",
+            "protocol": "vless",
+            "ping_time": "1061",
+            "success_rate": "100.00"
+        },
+        {
             "id": "1484202",
             "name": "\ud83c\uddfa\ud83c\uddf8 ShatakVPN 701115",
             "config_data": "vmess:\/\/eyJhZGQiOiAiMTg4LjExNC45OC4wIiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIm5hc25ldC0xNjIxOTEwOTkuc2hhcmdoZGFpbHkuY28iLCAiaWQiOiAibmFzbmV0IiwgImluc2VjdXJlIjogIjAiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL25hc25ldC9jZG4\/ZWQ9MjU2MC8\/VEVMRUdSQU0tLUtBTkFMLS1KS1ZQTi0tSktWUE4tLUpLVlBOLS1KS1ZQTi0tSktWUE4tLUpLVlBOIiwgInBvcnQiOiA4MDgwLCAicHMiOiAi8J+HuvCfh7ggU2hhdGFrVlBOIDcwMTExNSIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICItLS0iLCAidiI6ICIyIn0=#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20701115",
@@ -1364,6 +1372,14 @@
             "id": "1604841",
             "name": "\ud83c\uddfa\ud83c\uddf8 ShatakVPN 430630",
             "config_data": "vless:\/\/5b002005-7fb1-413e-8cbd-08e50c87c2ea@104.18.4.46:8880\/?type=ws&encryption=none&flow=&host=wetfleagidc-8tsbi8xd-v3.wet-flea-gidc.workers.dev#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20430630",
+            "protocol": "vless",
+            "ping_time": "1076",
+            "success_rate": "100.00"
+        },
+        {
+            "id": "1711050",
+            "name": "\ud83c\uddfa\ud83c\uddf8 ShatakVPN 703107",
+            "config_data": "vless:\/\/8dc7722c-2767-4eea-a28b-2f8daacc07e3@45.82.251.249:8880?encryption=none&security=none&sni=pqh29v4.globalfymain.com&type=grpc#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20703107",
             "protocol": "vless",
             "ping_time": "1076",
             "success_rate": "100.00"
@@ -15057,6 +15073,6 @@
             "success_rate": "100.00"
         }
     ],
-    "total": 1882,
-    "exported_at": "2026-02-09 20:24:42"
+    "total": 1884,
+    "exported_at": "2026-02-09 20:30:44"
 }
