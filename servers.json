@@ -13689,6 +13689,14 @@
             "success_rate": "100.00"
         },
         {
+            "id": "1834656",
+            "name": "\ud83c\udf10 Cloud",
+            "config_data": "vmess:\/\/eyJ2IjoiMiIsInBzIjoi5pyq55+lMTggMzAuMk1CL3MiLCJhZGQiOiIxNTcuMTczLjIwNi40NyIsInBvcnQiOiI1NzQ0OSIsImlkIjoiNGY2ZDBjZTYtMDQwNi00NDdjLWYzMDctMjFhNmFhN2ZlNmIyIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJwYXRoIjoiIiwidGxzIjoiIiwic25pIjoiIiwidGVzdF9uYW1lIjoiMTgifQ==",
+            "protocol": "vmess",
+            "ping_time": "1639",
+            "success_rate": "100.00"
+        },
+        {
             "id": "1755361",
             "name": "\ud83c\uddec\ud83c\udde7 \ud83d\udd25Join Telegram:@Farah_VPN\ud83d\udfe3",
             "config_data": "vless:\/\/57ba2ab1-a283-42eb-82ee-dc3561a805b8@ovhwuxian.pai50288.uk:8443?path=%2F57ba2ab1&security=tls&encryption=none&host=ovhwuxian.pai50288.uk&fp=chrome&type=ws&sni=ovhwuxian.pai50288.uk#\ud83d\udd25Join+Telegram:@Farah_VPN\ud83d\udfe3",
@@ -19777,6 +19785,6 @@
             "success_rate": "100.00"
         }
     ],
-    "total": 2472,
-    "exported_at": "2026-02-10 20:30:41"
+    "total": 2473,
+    "exported_at": "2026-02-10 21:11:49"
 }
