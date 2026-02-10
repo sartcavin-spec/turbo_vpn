@@ -4137,6 +4137,14 @@
             "success_rate": "100.00"
         },
         {
+            "id": "1764815",
+            "name": "\ud83c\uddee\ud83c\uddf7 @canfingV2rayNG",
+            "config_data": "vless:\/\/4ec2ba13-5518-4514-9e3a-77daf3b3828f@188.114.98.0:443?security=tls&encryption=none&insecure=0&host=vpnvran.lunarmc.ir&fp=chrome&type=ws&allowInsecure=0&sni=vpnvran.lunarmc.ir#@canfingV2rayNG",
+            "protocol": "vless",
+            "ping_time": "1190",
+            "success_rate": "100.00"
+        },
+        {
             "id": "1632217",
             "name": "\ud83d\udd25Join Telegram:@Farah_VPN\ud83d\udfe3",
             "config_data": "vless:\/\/8dc7722c-2767-4eea-a28b-2f8daacc07e3@yesok42v2.ip4exordir.shop:8880?mode=gun&security=none&encryption=none&authority=telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray&type=grpc#\ud83d\udd25Join+Telegram:@Farah_VPN\ud83d\udfe3",
@@ -18289,6 +18297,6 @@
             "success_rate": "100.00"
         }
     ],
-    "total": 2286,
-    "exported_at": "2026-02-10 09:36:03"
+    "total": 2287,
+    "exported_at": "2026-02-10 09:38:51"
 }
