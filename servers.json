@@ -15713,14 +15713,6 @@
             "success_rate": "100.00"
         },
         {
-            "id": "1942339",
-            "name": "\ud83c\uddec\ud83c\udde7 \ud83c\uddf3\ud83c\uddf1 ShatakVPN 108821",
-            "config_data": "vless:\/\/57ba2ab1-a283-42eb-82ee-dc3561a805b8@45.131.209.130:8443\/?type=ws&encryption=none&flow=&host=ovhwuxian.pai50288.uk&path=%2F57ba2ab1&security=tls&sni=ovhwuxian.pai50288.uk&allowInsecure=1&fp=chrome#%F0%9F%87%B3%F0%9F%87%B1%20ShatakVPN%20108821",
-            "protocol": "vless",
-            "ping_time": "1640",
-            "success_rate": "100.00"
-        },
-        {
             "id": "1718908",
             "name": "@icv2ray",
             "config_data": "vless:\/\/fef4a93d-eb4f-4657-b56b-32a0dc060045@nodejs.org:443?path=\/&security=tls&serviseName=@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray&encryption=none&insecure=0&host=dev.nestandneighbours.com&type=ws&allowInsecure=0&sni=dev.nestandneighbours.com#@icv2ray",
@@ -16813,6 +16805,14 @@
             "name": "\ud83c\udf10 Cloud",
             "config_data": "vmess:\/\/eyJhZGQiOiJmcmFua2Z1cnQwMi56Z2pvay5jb20iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImZyYW5rZnVydDAyLnpnam9rLmNvbSIsImlkIjoiOTBkNTBjNjItMTNiNC00ZjljLWI1ZDgtMDE2OGQzMGI0MjNhIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiI0NDMiLCJwcyI6IuKZu++4jzIxQG9uZWNsaWNrdnBua2V5cyIsInNjeSI6ImF1dG8iLCJzbmkiOiJmcmFua2Z1cnQwMi56Z2pvay5jb20iLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==",
             "protocol": "vmess",
+            "ping_time": "1688",
+            "success_rate": "100.00"
+        },
+        {
+            "id": "1982365",
+            "name": "\ud83c\uddec\ud83c\udde7 \ud83c\uddf3\ud83c\uddf1 ShatakVPN 108821",
+            "config_data": "vless:\/\/57ba2ab1-a283-42eb-82ee-dc3561a805b8@45.131.209.130:8443\/?type=ws&encryption=none&flow=&host=ovhwuxian.pai50288.uk&path=%2F57ba2ab1&security=tls&sni=ovhwuxian.pai50288.uk&allowInsecure=1&fp=chrome#%F0%9F%87%B3%F0%9F%87%B1%20ShatakVPN%20108821",
+            "protocol": "vless",
             "ping_time": "1688",
             "success_rate": "100.00"
         },
@@ -23178,5 +23178,5 @@
         }
     ],
     "total": 2897,
-    "exported_at": "2026-02-11 22:53:46"
+    "exported_at": "2026-02-11 22:57:09"
 }
