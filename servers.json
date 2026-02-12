@@ -17897,6 +17897,14 @@
             "success_rate": "100.00"
         },
         {
+            "id": "2061363",
+            "name": "\ud83c\uddeb\ud83c\uddf7 [KIA_NET] \ud83c\uddeb\ud83c\uddf7 FR-489",
+            "config_data": "vless:\/\/25f86cb1-2140-4085-abcb-c3a0ea7a4be0@OV-France1.09vpn.com:80?path=\/vless\/&security=none&encryption=none&type=ws#[KIA_NET]\ud83c\uddeb\ud83c\uddf7FR-489",
+            "protocol": "vless",
+            "ping_time": "1694",
+            "success_rate": "100.00"
+        },
+        {
             "id": "1884817",
             "name": "\ud83d\udd25Join Telegram:@Farah_VPN\ud83d\udfe3",
             "config_data": "vless:\/\/e4824193-4f54-453b-d037-88368e85ef0e@all.tellmethetrue.shop:443?mode=gun&security=tls&alpn=h2&encryption=none&insecure=0&type=grpc&allowInsecure=0&sni=pqh30v3.carwashipdir.shop#\ud83d\udd25Join+Telegram:@Farah_VPN\ud83d\udfe3",
@@ -24361,6 +24369,6 @@
             "success_rate": "100.00"
         }
     ],
-    "total": 3045,
-    "exported_at": "2026-02-12 19:56:05"
+    "total": 3046,
+    "exported_at": "2026-02-12 20:00:19"
 }
