@@ -10985,6 +10985,14 @@
             "success_rate": "100.00"
         },
         {
+            "id": "2063460",
+            "name": "\ud83c\uddec\ud83c\udde7 @v2rays_ha 8332",
+            "config_data": "vless:\/\/c5fbb5dd-83bb-43ce-a799-e3e5c29e25da@104.18.32.47:80\/?security=none&type=ws&path=\/?ed&host=gLeEfuL-GrassMcKS7Sr4kw.wiNdleR.co.Uk.&encryption=none#@v2rays_ha8332",
+            "protocol": "vless",
+            "ping_time": "1393",
+            "success_rate": "100.00"
+        },
+        {
             "id": "2016455",
             "name": "\ud83c\udde8\ud83c\udde6 \ud83c\udff3\ufe0f ShatakVPN 439185",
             "config_data": "vless:\/\/686c62d9-17a7-43c9-a40a-f6747df60a9f@104.21.227.134:2096?path=\/&security=tls&encryption=none&insecure=1&host=ca.adobe-connect.top&fp=chrome&type=ws&allowInsecure=1&sni=ca.adobe-connect.top#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20439185",
@@ -13604,6 +13612,14 @@
             "id": "1962382",
             "name": "@config_v2rayy",
             "config_data": "vless:\/\/807f8da3-b366-4ecc-9a11-8e24de1484f7@91.98.82.130:10898?security=none&allowInsecure=0&encryption=none&type=tcp&path=\/&headerType=http#@config_v2rayy",
+            "protocol": "vless",
+            "ping_time": "1513",
+            "success_rate": "100.00"
+        },
+        {
+            "id": "2057315",
+            "name": "\ud83d\udd25Join Telegram:@Farah_VPN\ud83d\udfe3",
+            "config_data": "vless:\/\/75e1fde7-6bf6-48ef-ba43-400e960e185b@pq-bosniaandherzegovina1.09vpn.com:80?path=\/vless\/&security=none&encryption=none&type=ws#\ud83d\udd25Join+Telegram:@Farah_VPN\ud83d\udfe3",
             "protocol": "vless",
             "ping_time": "1513",
             "success_rate": "100.00"
@@ -24345,6 +24361,6 @@
             "success_rate": "100.00"
         }
     ],
-    "total": 3043,
-    "exported_at": "2026-02-12 19:37:06"
+    "total": 3045,
+    "exported_at": "2026-02-12 19:56:05"
 }
