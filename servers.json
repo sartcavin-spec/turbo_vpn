@@ -11505,6 +11505,14 @@
             "success_rate": "100.00"
         },
         {
+            "id": "2140843",
+            "name": "\ud83c\udff3\ufe0f ShatakVPN 491385",
+            "config_data": "vmess:\/\/eyJhZGQiOiAiNTEuNzkuMTAyLjI1MyIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiNThmZTE1NDItNTI5MC00MGFkLTgxNWEtNzc3MDdhODFhZmU1IiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9JT2ViaExNaGwxQ1RiRkhiTDk1bXlmUlgyIiwgInBvcnQiOiA4MCwgInBzIjogIvCfj7PvuI8gU2hhdGFrVlBOIDQ5MTM4NSIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICItLS0iLCAidiI6ICIyIn0=#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20491385",
+            "protocol": "vmess",
+            "ping_time": "1411",
+            "success_rate": "100.00"
+        },
+        {
             "id": "1615457",
             "name": "\ud83c\uddf5\ud83c\uddf1 @meliproxyy",
             "config_data": "vless:\/\/e6ec1d89-17fc-4de7-af89-81cd51022526@pl.griffon-guard.com:443?security=reality&encryption=none&pbk=IBvNLerjNLpF4OpUX-wGJp8YDZrnKoh-gEItUDNT_Bg&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=apple.com#@meliproxyy",
@@ -24969,6 +24977,6 @@
             "success_rate": "100.00"
         }
     ],
-    "total": 3121,
-    "exported_at": "2026-02-13 18:51:22"
+    "total": 3122,
+    "exported_at": "2026-02-13 19:04:58"
 }
