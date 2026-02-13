@@ -13665,14 +13665,6 @@
             "success_rate": "100.00"
         },
         {
-            "id": "2057315",
-            "name": "\ud83d\udd25Join Telegram:@Farah_VPN\ud83d\udfe3",
-            "config_data": "vless:\/\/75e1fde7-6bf6-48ef-ba43-400e960e185b@pq-bosniaandherzegovina1.09vpn.com:80?path=\/vless\/&security=none&encryption=none&type=ws#\ud83d\udd25Join+Telegram:@Farah_VPN\ud83d\udfe3",
-            "protocol": "vless",
-            "ping_time": "1513",
-            "success_rate": "100.00"
-        },
-        {
             "id": "1491556",
             "name": "\ud83c\udd94@vmesskhodam",
             "config_data": "vless:\/\/fef4a93d-eb4f-4657-b56b-32a0dc060045@104.21.40.34:443?path=\/&security=tls&encryption=none&insecure=0&host=dev.twistsparrow.xyz&type=ws&allowInsecure=0&sni=dev.twistsparrow.xyz#\ud83c\udd94@vmesskhodam",
@@ -15324,6 +15316,14 @@
             "id": "1994238",
             "name": "\ud83c\uddee\ud83c\uddf3 \ud83c\udff3\ufe0f ShatakVPN 211094",
             "config_data": "vless:\/\/6202b230-417c-4d8e-b624-0f71afa9c75d@62.72.166.138:2096?encryption=none&security=tls&sni=sni.111000.indevs.in&insecure=0&allowInsecure=0&type=ws&path=\/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20211094",
+            "protocol": "vless",
+            "ping_time": "1583",
+            "success_rate": "100.00"
+        },
+        {
+            "id": "2113991",
+            "name": "\ud83d\udd25Join Telegram:@Farah_VPN\ud83d\udfe3",
+            "config_data": "vless:\/\/75e1fde7-6bf6-48ef-ba43-400e960e185b@pq-bosniaandherzegovina1.09vpn.com:80?path=\/vless\/&security=none&encryption=none&type=ws#\ud83d\udd25Join+Telegram:@Farah_VPN\ud83d\udfe3",
             "protocol": "vless",
             "ping_time": "1583",
             "success_rate": "100.00"
@@ -24522,5 +24522,5 @@
         }
     ],
     "total": 3065,
-    "exported_at": "2026-02-13 11:00:11"
+    "exported_at": "2026-02-13 11:19:30"
 }
