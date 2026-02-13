@@ -19985,6 +19985,14 @@
             "success_rate": "100.00"
         },
         {
+            "id": "2124679",
+            "name": "\ud83c\uddf7\ud83c\uddfa \ud83d\udd25Join Telegram:@Farah_VPN\ud83d\udfe3",
+            "config_data": "vless:\/\/40a7f95c-f861-4f04-9a6e-55d624c7582c@77.83.245.193:11777?security=reality&encryption=none&pbk=Yx7qVnlZif4zOda3OjieAZm352SaGzy0bNT67xNKGxQ&headerType=none&fp=chrome&spx=\/&type=tcp&sni=yandex.ru&sid=a6f7168a7c3e2f77#\ud83d\udd25Join+Telegram:@Farah_VPN\ud83d\udfe3",
+            "protocol": "vless",
+            "ping_time": "1780",
+            "success_rate": "100.00"
+        },
+        {
             "id": "1609300",
             "name": "\ud83c\udf10 Cloud",
             "config_data": "vmess:\/\/ewogICAgImFkZCI6ICJlZWQ0Ljc3NzcxMjUueHl6IiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAiZWVkNC43Nzc3MTI1Lnh5eiIsCiAgICAiaWQiOiAiZmMzNzA0ZDYtOGU1ZS00NDNhLWJkNWItMjBlYzdjZmJlOTkwIiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiL2VzempwNG5UVDhUeERIRmVwTXBmTmtDazgiLAogICAgInBvcnQiOiA0NDMsCiAgICAicHMiOiAi8J+PgVJFTEFZLTE3Mi42Ny4xOTYuNy0wNjI3IiwKICAgICJ0bHMiOiAidGxzIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0=",
@@ -24521,6 +24529,6 @@
             "success_rate": "100.00"
         }
     ],
-    "total": 3065,
-    "exported_at": "2026-02-13 11:38:44"
+    "total": 3066,
+    "exported_at": "2026-02-13 11:50:19"
 }
