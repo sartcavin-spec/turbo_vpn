@@ -23433,6 +23433,14 @@
             "success_rate": "100.00"
         },
         {
+            "id": "2273879",
+            "name": "\ud83c\udff3\ufe0f ShatakVPN 674954",
+            "config_data": "vless:\/\/3f0f36f5-f091-45c5-88c9-4bcc545b922c@172.64.35.45:2096?path=%2F45.76.183.217%3D49292&security=tls&encryption=none&insecure=0&host=hetz.x-smm.com&fp=chrome&type=ws&allowInsecure=0&sni=hetz.x-smm.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20674954",
+            "protocol": "vless",
+            "ping_time": "1985",
+            "success_rate": "100.00"
+        },
+        {
             "id": "1740334",
             "name": "\ud83c\uddee\ud83c\uddf3 \ud83d\udd25Join Telegram:@Farah_VPN\ud83d\udfe3",
             "config_data": "vless:\/\/6202b230-417c-4d8e-b624-0f71afa9c75d@116.203.58.165:443?path=\/?ed=2560&Telegram@WangCai2&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&fp=chrome&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#\ud83d\udd25Join+Telegram:@Farah_VPN\ud83d\udfe3",
@@ -23689,6 +23697,6 @@
             "success_rate": "100.00"
         }
     ],
-    "total": 2961,
-    "exported_at": "2026-02-14 20:17:15"
+    "total": 2962,
+    "exported_at": "2026-02-14 20:18:15"
 }
