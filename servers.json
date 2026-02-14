@@ -18441,6 +18441,14 @@
             "success_rate": "100.00"
         },
         {
+            "id": "2227663",
+            "name": "\ud83c\uddee\ud83c\uddf3 \ud83c\udff3\ufe0f ShatakVPN 962430",
+            "config_data": "vless:\/\/6202b230-417c-4d8e-b624-0f71afa9c75d@57.129.137.76:8443?path=\/?ed=2560&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&fp=chrome&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20962430",
+            "protocol": "vless",
+            "ping_time": "1740",
+            "success_rate": "100.00"
+        },
+        {
             "id": "1873014",
             "name": "\ud83c\uddec\ud83c\udde7 \u26a1 b2n.ir\/v2ray-configs | 876",
             "config_data": "vless:\/\/57ba2ab1-a283-42eb-82ee-dc3561a805b8@104.21.3.219:8443?path=%2F57ba2ab1&security=tls&encryption=none&host=ovhwuxian.pai50288.uk&fp=chrome&type=ws&sni=ovhwuxian.pai50288.uk#\u26a1b2n.ir\/v2ray-configs|876",
@@ -23641,6 +23649,6 @@
             "success_rate": "100.00"
         }
     ],
-    "total": 2955,
-    "exported_at": "2026-02-14 11:32:25"
+    "total": 2956,
+    "exported_at": "2026-02-14 11:41:15"
 }
