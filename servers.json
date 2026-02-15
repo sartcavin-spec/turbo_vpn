@@ -17153,6 +17153,14 @@
             "success_rate": "100.00"
         },
         {
+            "id": "2373226",
+            "name": "\ud83c\udf10 Cloud",
+            "config_data": "vmess:\/\/eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7ggVVPnvo7lm70obWliZWk3Ny5jb20g57Gz6LSd6IqC54K55YiG5LqrKSIsImFkZCI6IjgyLjE5OC4yNDYuOTciLCJwb3J0IjoiMTgwIiwidHlwZSI6Im5vbmUiLCJpZCI6ImQxM2ZjMmY1LTNlMDUtNDc5NS04MWViLTQ0MTQzYTA5ZTU1MiIsImFpZCI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiL3ZjIiwiaG9zdCI6InZjLmZseS5kZXYiLCJ0bHMiOiIifQ==",
+            "protocol": "vmess",
+            "ping_time": "1778",
+            "success_rate": "100.00"
+        },
+        {
             "id": "2044976",
             "name": "\ud83c\uddec\ud83c\udde7 \ud83c\udff3\ufe0f ShatakVPN 616425",
             "config_data": "vless:\/\/57ba2ab1-a283-42eb-82ee-dc3561a805b8@45.131.209.130:8443?security=tls&sni=ovhwuxian.pai50288.uk&allowInsecure=1&fp=chrome&type=ws&path=\/57ba2ab1&host=ovhwuxian.pai50288.uk&packetEncoding=xudp&encryption=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20616425",
@@ -20929,6 +20937,6 @@
             "success_rate": "100.00"
         }
     ],
-    "total": 2616,
-    "exported_at": "2026-02-15 18:45:51"
+    "total": 2617,
+    "exported_at": "2026-02-15 19:14:18"
 }
