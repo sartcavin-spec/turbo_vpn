@@ -9033,14 +9033,6 @@
             "success_rate": "100.00"
         },
         {
-            "id": "1880813",
-            "name": "\ud83c\uddee\ud83c\uddf7 IR-@V2rayAlpha--18",
-            "config_data": "vless:\/\/3321a819-889d-40b3-b8fa-f34208827ef1@57.129.137.56:443?path=\/Tel-@V2rayAlpha&security=tls&encryption=none&insecure=0&host=o00o.snip.qzz.io&fp=chrome&type=ws&allowInsecure=0&sni=o00o.snip.qzz.io#IR-@V2rayAlpha--18",
-            "protocol": "vless",
-            "ping_time": "1338",
-            "success_rate": "100.00"
-        },
-        {
             "id": "2161499",
             "name": "\ud83c\uddee\ud83c\uddf7 \u26a1 b2n.ir\/v2ray-configs | 648",
             "config_data": "vless:\/\/cc976b15-418b-4f0b-89ce-cd685ffbaf20@vnn.vpnfreedom.tech:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=google.com&fp=chrome&pbk=odbiaA-5s0mkehtfrf2SBcrKAMDP1sFjxKHJYdDCKgc&sid=81&spx=%2F&type=tcp&headerType=none#\u26a1b2n.ir\/v2ray-configs|648",
@@ -9804,6 +9796,14 @@
             "id": "1754576",
             "name": ">>@v2ray_configs_pool::US",
             "config_data": "vless:\/\/ef23616d-8a9d-4b22-b2f5-9bda864de179@172.67.214.25:2053?security=tls&type=ws&path=%2Fassets%3Fed%3D2048&host=index.arcane509.workers.dev&alpn=http%2F1.1&sni=INDEX.Arcane509.Workers.DEV&fp=chrome&encryption=none#%3E%3E%40v2ray_configs_pool%3A%3AUS",
+            "protocol": "vless",
+            "ping_time": "1372",
+            "success_rate": "100.00"
+        },
+        {
+            "id": "2327067",
+            "name": "\ud83c\uddee\ud83c\uddf7 IR-@V2rayAlpha--18",
+            "config_data": "vless:\/\/3321a819-889d-40b3-b8fa-f34208827ef1@57.129.137.56:443?path=\/Tel-@V2rayAlpha&security=tls&encryption=none&insecure=0&host=o00o.snip.qzz.io&fp=chrome&type=ws&allowInsecure=0&sni=o00o.snip.qzz.io#IR-@V2rayAlpha--18",
             "protocol": "vless",
             "ping_time": "1372",
             "success_rate": "100.00"
@@ -22794,5 +22794,5 @@
         }
     ],
     "total": 2849,
-    "exported_at": "2026-02-15 09:51:47"
+    "exported_at": "2026-02-15 09:56:37"
 }
