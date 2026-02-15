@@ -20569,6 +20569,14 @@
             "success_rate": "100.00"
         },
         {
+            "id": "2383662",
+            "name": "\ud83c\uddee\ud83c\uddf3 Telegram:@config_proxy \ud83d\udd25",
+            "config_data": "vless:\/\/6202b230-417c-4d8e-b624-0f71afa9c75d@57.129.47.58:2053?encryption=none&security=tls&sni=sni.111000.indevs.in&type=ws&host=sni.111000.indevs.in&path=\/?ed=2560&telegram\ud83c\udde8\ud83c\uddf3+@wangcai2#Telegram:@config_proxy\ud83d\udd25",
+            "protocol": "vless",
+            "ping_time": "1976",
+            "success_rate": "100.00"
+        },
+        {
             "id": "1867088",
             "name": "\ud83c\udde8\ud83c\udde6 \ud83c\udff3\ufe0f ShatakVPN 166031",
             "config_data": "vless:\/\/686c62d9-17a7-43c9-a40a-f6747df60a9f@104.21.227.134:2096?path=\/&security=tls&encryption=none&host=ca.adobe-connect.top&fp=chrome&type=ws&sni=ca.adobe-connect.top#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20166031",
@@ -20593,9 +20601,9 @@
             "success_rate": "100.00"
         },
         {
-            "id": "1878899",
-            "name": "\ud83c\udff3\ufe0f ShatakVPN 293398",
-            "config_data": "vless:\/\/621a845a-48ea-35f0-9b9a-ca499c647ade@104.21.227.134:443?encryption=none&security=tls&sni=dabaihk.webn.cc&alpn=h3,h2&fp=chrome&allowInsecure=1&type=ws&host=dabaihk.webn.cc&path=\/db1024e9df2f990b#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20293398",
+            "id": "1752661",
+            "name": "\ud83d\udd25Join Telegram:@Farah_VPN\ud83d\udfe3",
+            "config_data": "vless:\/\/8910cbb3-33b1-4266-a243-ac780ac63394@pq-albania1.09vpn.com:80?path=%2Fvless%2F&security=none&encryption=none&type=ws#\ud83d\udd25Join+Telegram:@Farah_VPN\ud83d\udfe3",
             "protocol": "vless",
             "ping_time": "1978",
             "success_rate": "100.00"
@@ -20609,9 +20617,9 @@
             "success_rate": "100.00"
         },
         {
-            "id": "1752661",
-            "name": "\ud83d\udd25Join Telegram:@Farah_VPN\ud83d\udfe3",
-            "config_data": "vless:\/\/8910cbb3-33b1-4266-a243-ac780ac63394@pq-albania1.09vpn.com:80?path=%2Fvless%2F&security=none&encryption=none&type=ws#\ud83d\udd25Join+Telegram:@Farah_VPN\ud83d\udfe3",
+            "id": "1878899",
+            "name": "\ud83c\udff3\ufe0f ShatakVPN 293398",
+            "config_data": "vless:\/\/621a845a-48ea-35f0-9b9a-ca499c647ade@104.21.227.134:443?encryption=none&security=tls&sni=dabaihk.webn.cc&alpn=h3,h2&fp=chrome&allowInsecure=1&type=ws&host=dabaihk.webn.cc&path=\/db1024e9df2f990b#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20293398",
             "protocol": "vless",
             "ping_time": "1978",
             "success_rate": "100.00"
@@ -20913,6 +20921,6 @@
             "success_rate": "100.00"
         }
     ],
-    "total": 2614,
-    "exported_at": "2026-02-15 17:14:44"
+    "total": 2615,
+    "exported_at": "2026-02-15 17:36:18"
 }
