@@ -3129,6 +3129,14 @@
             "success_rate": "100.00"
         },
         {
+            "id": "2487858",
+            "name": "@flyv2ray",
+            "config_data": "vless:\/\/7c3f08c8-7b3b-4028-91d8-378a18c2b62a@185.227.149.123:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=mycatcollection.com&sid=6ba85179e30d4fc2#@flyv2ray",
+            "protocol": "vless",
+            "ping_time": "1155",
+            "success_rate": "100.00"
+        },
+        {
             "id": "1674917",
             "name": "\ud83c\uddec\ud83c\udde7 @meliproxyy",
             "config_data": "vless:\/\/3775d133-dc3a-4a02-8095-5c70c328ae9f@172.66.128.70:80?path=\/?ed&security=none&encryption=none&host=HUge-ActOR48bf36fHJV.ecOTouriSS.co.uK.&type=ws#@meliproxyy",
@@ -5113,25 +5121,17 @@
             "success_rate": "100.00"
         },
         {
-            "id": "2409147",
-            "name": "\ud83c\udded\ud83c\uddfa WS-TLS | @Express_alaki | src @DeamNet_proxy",
-            "config_data": "vless:\/\/6202b230-417c-4d8e-b624-0f71afa9c75d@141.11.203.238:2096?encryption=none&security=tls&sni=sni.jpmj.dev&fp=chrome&insecure=1&type=ws&host=sni.jpmj.dev&path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3%2B@wangcai2#%F0%9F%87%AD%F0%9F%87%BA%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40DeamNet_proxy",
+            "id": "1710491",
+            "name": "\ud83c\uddec\ud83c\udde7 \ud83c\uddfa\ud83c\uddf8 ShatakVPN 875419",
+            "config_data": "vless:\/\/1a94fbd9-79d2-4aa7-bf1d-074f678d27ab@104.20.1.252:80?path=\/?ed&security=none&encryption=none&host=EqUiPPed-phOToZkoA7K5e6P.eCoTOuRiss.Co.uk.&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20875419",
             "protocol": "vless",
-            "ping_time": "1241",
+            "ping_time": "1242",
             "success_rate": "100.00"
         },
         {
             "id": "2432633",
             "name": "\u06a9\u0627\u0646\u0641\u06cc\u06af \u0631\u0627\u06cc\u06af\u0627\u0646 = t.me\/arisping",
             "config_data": "vless:\/\/8dc7722c-2767-4eea-a28b-2f8daacc07e3@yesok42v2.ip4exordir.shop:8880?encryption=none&security=none&type=grpc#\u06a9\u0627\u0646\u0641\u06cc\u06af\u0631\u0627\u06cc\u06af\u0627\u0646=t.me\/arisping",
-            "protocol": "vless",
-            "ping_time": "1242",
-            "success_rate": "100.00"
-        },
-        {
-            "id": "1710491",
-            "name": "\ud83c\uddec\ud83c\udde7 \ud83c\uddfa\ud83c\uddf8 ShatakVPN 875419",
-            "config_data": "vless:\/\/1a94fbd9-79d2-4aa7-bf1d-074f678d27ab@104.20.1.252:80?path=\/?ed&security=none&encryption=none&host=EqUiPPed-phOToZkoA7K5e6P.eCoTOuRiss.Co.uk.&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20875419",
             "protocol": "vless",
             "ping_time": "1242",
             "success_rate": "100.00"
@@ -5900,6 +5900,14 @@
             "id": "1700825",
             "name": "\ud83c\uddee\ud83c\uddf3 \u26a1\ufe0e \ud80c\udffa \u06a9\u0627\u0646\u0641\u06cc\u06af \u0631\u0627\u06cc\u06af\u0627\u0646 @NabiProxy",
             "config_data": "vless:\/\/6202b230-417c-4d8e-b624-0f71afa9c75d@165.232.94.31:443?path=\/?ed=2560&Telegram@AliXTso&security=tls&encryption=none&host=sni.111000.indevs.in&type=ws&sni=sni.111000.indevs.in#\u26a1\ufe0e\ud80c\udffa\u06a9\u0627\u0646\u0641\u06cc\u06af\u0631\u0627\u06cc\u06af\u0627\u0646@NabiProxy",
+            "protocol": "vless",
+            "ping_time": "1281",
+            "success_rate": "100.00"
+        },
+        {
+            "id": "2484927",
+            "name": "\ud83c\uddee\ud83c\uddf7 \u2705\u06a9\u0627\u0646\u0641\u06cc\u06af\u0647\u0627\u06cc \u0628\u06cc\u0634\u062a\u0631\u062f\u0631:@\u2705",
+            "config_data": "vless:\/\/260f19e2-41c2-4f0c-870f-ab7e28e72ef6@ip.shakhle.ir:2083?path=\/&security=tls&alpn=h2,http\/1.1&encryption=none&insecure=0&host=ipv4.yasharteam.com&fp=chrome&type=ws&allowInsecure=0&sni=ipv4.yasharteam.com#\u2705\u06a9\u0627\u0646\u0641\u06cc\u06af\u0647\u0627\u06cc\u0628\u06cc\u0634\u062a\u0631\u062f\u0631:@\u2705",
             "protocol": "vless",
             "ping_time": "1281",
             "success_rate": "100.00"
@@ -11900,6 +11908,14 @@
             "id": "2321397",
             "name": "\ud83c\uddec\ud83c\udde7 \ud83c\udff3\ufe0f ShatakVPN 131014",
             "config_data": "vless:\/\/57ba2ab1-a283-42eb-82ee-dc3561a805b8@172.67.153.156:8443?path=%2F57ba2ab1&security=tls&encryption=none&host=ovhwuxian.pai50288.uk&fp=chrome&type=ws&sni=ovhwuxian.pai50288.uk#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20131014",
+            "protocol": "vless",
+            "ping_time": "1611",
+            "success_rate": "100.00"
+        },
+        {
+            "id": "2492543",
+            "name": "\ud83c\udded\ud83c\uddfa WS-TLS | @Express_alaki | src @DeamNet_proxy",
+            "config_data": "vless:\/\/6202b230-417c-4d8e-b624-0f71afa9c75d@141.11.203.238:2096?encryption=none&security=tls&sni=sni.jpmj.dev&fp=chrome&insecure=1&type=ws&host=sni.jpmj.dev&path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3%2B@wangcai2#%F0%9F%87%AD%F0%9F%87%BA%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40DeamNet_proxy",
             "protocol": "vless",
             "ping_time": "1611",
             "success_rate": "100.00"
@@ -18457,6 +18473,6 @@
             "success_rate": "100.00"
         }
     ],
-    "total": 2307,
-    "exported_at": "2026-02-16 14:09:21"
+    "total": 2309,
+    "exported_at": "2026-02-16 14:32:22"
 }
