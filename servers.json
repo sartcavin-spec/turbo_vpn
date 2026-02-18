@@ -2513,6 +2513,14 @@
             "success_rate": "100.00"
         },
         {
+            "id": "2759226",
+            "name": "\ud83c\udf10 Cloud",
+            "config_data": "vmess:\/\/eyJhZGQiOiAidGdqdS5vcmciLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAibmFzbmV0LTE2MjE5MTA5OS5zaGFyZ2hkYWlseS5jbyIsICJpZCI6ICJuYXNuZXQiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL25hc25ldC9jZG4\/ZWQ9MjU2MCIsICJwb3J0IjogIjgwODAiLCAicHMiOiAiXHVkODNkXHVkZDI1Sm9pbitUZWxlZ3JhbTpARmFyYWhfVlBOXHVkODNkXHVkZmUzIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIi0tLSIsICJ2IjogIjIifQ==",
+            "protocol": "vmess",
+            "ping_time": "1244",
+            "success_rate": "100.00"
+        },
+        {
             "id": "2690352",
             "name": "\ud83c\udde8\ud83c\udde6 \ud83c\udff3\ufe0f ShatakVPN 855277",
             "config_data": "vless:\/\/686c62d9-17a7-43c9-a40a-f6747df60a9f@172.66.44.211:2096?type=ws&encryption=none&host=ca.adobe-connect.top&path=\/&security=tls&sni=ca.adobe-connect.top&allowInsecure=1#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20855277",
@@ -2804,6 +2812,14 @@
             "id": "1994340",
             "name": "\ud83c\udff3\ufe0f ShatakVPN 659802",
             "config_data": "vless:\/\/5196aae7-1479-4f3c-978b-68e74977b509@104.21.27.154:443?security=tls&encryption=none&sni=jjjiu.99890604.xyz&fp=chrome&type=ws&host=jjjiu.99890604.xyz&path=\/vzwyBIUYH4vYIKMBivnR3&allow_insecure=0#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20659802",
+            "protocol": "vless",
+            "ping_time": "1269",
+            "success_rate": "100.00"
+        },
+        {
+            "id": "2764400",
+            "name": "\ud83d\udd25Join Telegram:@Farah_VPN\ud83d\udfe3",
+            "config_data": "vless:\/\/e8b1500b-e9e8-5492-8312-f4eadf7d0767@162.19.10.94:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=nasnet-162191094-direct.sharghdaily.co&fp=chrome&type=tcp&headerType=none#\ud83d\udd25Join+Telegram:@Farah_VPN\ud83d\udfe3",
             "protocol": "vless",
             "ping_time": "1269",
             "success_rate": "100.00"
@@ -11273,6 +11289,6 @@
             "success_rate": "100.00"
         }
     ],
-    "total": 1409,
-    "exported_at": "2026-02-18 16:36:08"
+    "total": 1411,
+    "exported_at": "2026-02-18 16:42:10"
 }
