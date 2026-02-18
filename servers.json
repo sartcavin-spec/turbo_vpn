@@ -5417,6 +5417,14 @@
             "success_rate": "100.00"
         },
         {
+            "id": "2708895",
+            "name": "\ud83c\udde9\ud83c\uddea >>@oneclickvpnkeys::XX",
+            "config_data": "vless:\/\/7d90f043-ed7f-40c9-ac2f-352987904958@ov-germany1.09vpn.com:80\/?type=ws&encryption=none&flow=&path=%2Fvless%2F#%3E%3E%40oneclickvpnkeys%3A%3AXX",
+            "protocol": "vless",
+            "ping_time": "1466",
+            "success_rate": "100.00"
+        },
+        {
             "id": "2562192",
             "name": "@YamYamProxy",
             "config_data": "vless:\/\/e5f8a9f6-f164-479b-b3b5-b90f213c7145@141.101.120.127:2053?path=\/&security=tls&encryption=none&host=ir1.airpanel.top&type=ws&sni=ir1.airpanel.top#@YamYamProxy",
@@ -10809,6 +10817,14 @@
             "success_rate": "100.00"
         },
         {
+            "id": "2707368",
+            "name": "\u06a9\u0627\u0646\u0641\u06cc\u06af \u0631\u0627\u06cc\u06af\u0627\u0646 = t.me\/arisping",
+            "config_data": "vless:\/\/e8b1500b-e9e8-5492-8312-f4eadf7d0767@162.19.10.94:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=nasnet-162191094-direct.sharghdaily.co&insecure=1&allowInsecure=1&type=tcp&headerType=none#\u06a9\u0627\u0646\u0641\u06cc\u06af\u0631\u0627\u06cc\u06af\u0627\u0646=t.me\/arisping",
+            "protocol": "vless",
+            "ping_time": "1908",
+            "success_rate": "100.00"
+        },
+        {
             "id": "1922566",
             "name": "\ud83c\udde9\ud83c\uddea \ud83c\udde9\ud83c\uddea - DE - @freeOnlineVPN",
             "config_data": "vless:\/\/546e91b5-c33e-4b04-b20c-c0fc8f6d9d7f@172.66.128.70:80?path=\/?ed&security=none&encryption=none&host=bIZARRe-CEntEryZCvddNcfJ.spORtLand.COmPANY.&type=ws&note=@freeOnlineVPN#\ud83c\udde9\ud83c\uddea-DE-@freeOnlineVPN",
@@ -11681,6 +11697,6 @@
             "success_rate": "100.00"
         }
     ],
-    "total": 1460,
-    "exported_at": "2026-02-18 10:01:26"
+    "total": 1462,
+    "exported_at": "2026-02-18 10:05:37"
 }
