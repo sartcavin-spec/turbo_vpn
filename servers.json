@@ -5377,6 +5377,14 @@
             "success_rate": "100.00"
         },
         {
+            "id": "2727640",
+            "name": "\ud83d\udd25Join Telegram:@Farah_VPN\ud83d\udfe3",
+            "config_data": "vless:\/\/94a03e9a-74d5-4036-95e9-563cc19355de@ficdn2.suio.me:443\/?type=tcp&encryption=none&flow=&security=tls&sni=ficdn2.suio.me&allowInsecure=1#\ud83d\udd25Join+Telegram:@Farah_VPN\ud83d\udfe3",
+            "protocol": "vless",
+            "ping_time": "1474",
+            "success_rate": "100.00"
+        },
+        {
             "id": "2150140",
             "name": "\ud83c\udf10 Cloud",
             "config_data": "vmess:\/\/eyJhZGQiOiAiOC4yMTcuMTMuNzQiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiIiwgImlkIjogImNmMWFkNmM3LTU5ODctNDMxNC04MmJiLWI0Mzk5MDQwZDA0NyIsICJpbnNlY3VyZSI6ICIwIiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIiLCAicG9ydCI6ICIzMTc2OSIsICJwcyI6ICJcdWQ4M2RcdWRkMjVKb2luK1RlbGVncmFtOkBGYXJhaF9WUE5cdWQ4M2RcdWRmZTMiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIifQ==",
@@ -6340,6 +6348,14 @@
             "id": "2472588",
             "name": "\ud83d\udd25Join Telegram:@Farah_VPN\ud83d\udfe3",
             "config_data": "vless:\/\/6202b230-417c-4d8e-b624-0f71afa9c75d@51.77.213.238:8443?path=\/?Telegram+@WangCai2=&security=tls&encryption=none&insecure=0&host=sni.111000.dynv6.net&type=ws&allowInsecure=0&sni=sni.111000.dynv6.net#\ud83d\udd25Join+Telegram:@Farah_VPN\ud83d\udfe3",
+            "protocol": "vless",
+            "ping_time": "1552",
+            "success_rate": "100.00"
+        },
+        {
+            "id": "2725764",
+            "name": "\u06a9\u0627\u0646\u0641\u06cc\u06af \u0631\u0627\u06cc\u06af\u0627\u0646 = t.me\/arisping",
+            "config_data": "vless:\/\/nasnet@162.19.10.94:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=nasnet-162191094-direct.sharghdaily.co&fp=chrome&insecure=0&allowInsecure=0&type=tcp&headerType=none#\u06a9\u0627\u0646\u0641\u06cc\u06af\u0631\u0627\u06cc\u06af\u0627\u0646=t.me\/arisping",
             "protocol": "vless",
             "ping_time": "1552",
             "success_rate": "100.00"
@@ -7318,6 +7334,14 @@
             "config_data": "vless:\/\/a619d576-1380-4aac-8732-99e8dfe8df0f@mlb.tunnelguard.ru:443\/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=mlb.tunnelguard.ru&alpn=h2,http\/1.1&allowInsecure=1#\u2699\ufe0f80@oneclickvpnkeys",
             "protocol": "vless",
             "ping_time": "1629",
+            "success_rate": "100.00"
+        },
+        {
+            "id": "2720573",
+            "name": "\ud83c\udff3\ufe0f ShatakVPN 900560",
+            "config_data": "vless:\/\/3321a819-889d-40b3-b8fa-f34208827ef1@57.129.137.56:443?type=ws&encryption=none&host=o00o.snip.qzz.io&path=\/proxyip=sjc.o00o.ooo&security=tls&sni=o00o.snip.qzz.io&allowInsecure=1#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20900560",
+            "protocol": "vless",
+            "ping_time": "1630",
             "success_rate": "100.00"
         },
         {
@@ -9310,6 +9334,14 @@
             "config_data": "vless:\/\/eb071647-72a6-46be-8e89-ff3d228d52f6@pl.jojack.ru:443?security=reality&encryption=none&pbk=hSTtlpXKAYVVu5ybX3hQfq8dfsUrO_HoFVgfGGoCHVw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=pl.jojack.ru&sid=a7ab02dfcc1f2c04#%F0%9F%87%B5%F0%9F%87%B1%40KIA_NET",
             "protocol": "vless",
             "ping_time": "1792",
+            "success_rate": "100.00"
+        },
+        {
+            "id": "2722862",
+            "name": ">>@oneclickvpnkeys::DE",
+            "config_data": "vless:\/\/f74d98a4-9198-4f78-b921-47d4f4950953@185.236.26.58:443\/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=de3.teleport.lat&allowInsecure=1#%3E%3E%40oneclickvpnkeys%3A%3ADE",
+            "protocol": "vless",
+            "ping_time": "1794",
             "success_rate": "100.00"
         },
         {
@@ -11537,6 +11569,6 @@
             "success_rate": "100.00"
         }
     ],
-    "total": 1442,
-    "exported_at": "2026-02-18 11:49:32"
+    "total": 1446,
+    "exported_at": "2026-02-18 12:28:37"
 }
