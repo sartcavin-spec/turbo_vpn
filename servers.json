@@ -10561,6 +10561,14 @@
             "success_rate": "100.00"
         },
         {
+            "id": "2909291",
+            "name": "\ud83c\uddf0\ud83c\uddf7 \ud83d\udd25Join Telegram:@Farah_VPN\ud83d\udfe3",
+            "config_data": "vless:\/\/fa335d1c-e6d1-48bb-99a3-f06710a29043@afrcloud22.mmv.kr:443\/?type=ws&encryption=none&host=afrcloud22.mmv.kr&path=%2F130.185.164.213%3D8443&security=tls&sni=afrcloud22.mmv.kr&alpn=irmeliy%40.irmeliy%40.irmeliy%40.irmeliy%40.irmeliy%40.irmeliy%40.irmeliy-#\ud83d\udd25Join+Telegram:@Farah_VPN\ud83d\udfe3",
+            "protocol": "vless",
+            "ping_time": "1916",
+            "success_rate": "100.00"
+        },
+        {
             "id": "2218219",
             "name": "\ud83d\udd25Join Telegram:@Farah_VPN\ud83d\udfe3",
             "config_data": "vless:\/\/4c97ec3e-3527-48c5-80ff-b715463896ba@104.20.1.252:80?path=\/?ed&security=none&encryption=none&host=kIndhEArTeD-PARkb5Rjo2juEr.sPorTLaNd.COMpAny.&type=ws#\ud83d\udd25Join+Telegram:@Farah_VPN\ud83d\udfe3",
@@ -11481,6 +11489,6 @@
             "success_rate": "100.00"
         }
     ],
-    "total": 1435,
-    "exported_at": "2026-02-19 23:55:17"
+    "total": 1436,
+    "exported_at": "2026-02-19 23:59:54"
 }
