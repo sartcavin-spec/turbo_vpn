@@ -3513,6 +3513,14 @@
             "success_rate": "100.00"
         },
         {
+            "id": "2892471",
+            "name": "\ud83d\udd25Join Telegram:@Farah_VPN\ud83d\udfe3",
+            "config_data": "vless:\/\/e5f8a9f6-f164-479b-b3b5-b90f213c7145@104.21.224.5:2053\/?type=ws&encryption=none&flow=&host=ir1.airpanel.top&path=%2F&security=tls&sni=ir1.airpanel.top&allowInsecure=1#\ud83d\udd25Join+Telegram:@Farah_VPN\ud83d\udfe3",
+            "protocol": "vless",
+            "ping_time": "1314",
+            "success_rate": "100.00"
+        },
+        {
             "id": "2683031",
             "name": "\u26a1Telegram = @SOSkeyNET",
             "config_data": "vless:\/\/e08f1ad7-0c60-446d-baec-08b3b69bb3d0@146.103.102.82:80?encryption=none&path=\/getWorkerUpdates&type=ws#\u26a1Telegram=@SOSkeyNET",
@@ -5598,6 +5606,14 @@
             "config_data": "vless:\/\/6202b230-417c-4d8e-b624-0f71afa9c75d@95.179.241.93:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&fp=chrome&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20595858",
             "protocol": "vless",
             "ping_time": "1492",
+            "success_rate": "100.00"
+        },
+        {
+            "id": "2872348",
+            "name": "\ud83c\udff3\ufe0f ShatakVPN 912383",
+            "config_data": "vmess:\/\/eyJhZGQiOiAiMTg1LjEwNC4xODkuMzgiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiIiwgImlkIjogIjQzZGNkY2UxLTNjZWEtNDE5My1iYzhkLTkwYjkyMDcxZDc3OSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIiLCAicG9ydCI6IDgwLCAicHMiOiAi8J+Ps++4jyBTaGF0YWtWUE4gOTEyMzgzIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIi0tLSIsICJ2IjogIjIifQ==#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20912383",
+            "protocol": "vmess",
+            "ping_time": "1494",
             "success_rate": "100.00"
         },
         {
@@ -11801,6 +11817,6 @@
             "success_rate": "100.00"
         }
     ],
-    "total": 1475,
-    "exported_at": "2026-02-19 20:16:55"
+    "total": 1477,
+    "exported_at": "2026-02-19 20:42:57"
 }
