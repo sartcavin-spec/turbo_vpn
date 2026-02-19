@@ -9945,6 +9945,14 @@
             "success_rate": "100.00"
         },
         {
+            "id": "2883778",
+            "name": "\ud83c\udf10 Cloud",
+            "config_data": "vmess:\/\/ewogICAgImFkZCI6ICIxOTguNjIuNjIuMTk5IiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAiIiwKICAgICJpZCI6ICJmMDgzNjlkMS01ZWU3LTRiMTYtZDc4Ni0zMGJjZTEyZmMzM2MiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvZjA4MzY5ZDEtNWVlNy00YjE2LWQ3ODYtMzBiY2UxMmZjMzNjIiwKICAgICJwb3J0IjogNDQzLAogICAgInBzIjogIvCfh7rwn4e4VVMtMTk4LjYyLjYyLjE5OS00NzcxIiwKICAgICJ0bHMiOiAidGxzIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiBmYWxzZSwKICAgICJzbmkiOiAib3VzMy5kZWFuNTIudG9wIgp9",
+            "protocol": "vmess",
+            "ping_time": "1831",
+            "success_rate": "100.00"
+        },
+        {
             "id": "2727051",
             "name": "\ud83c\uddee\ud83c\uddf7 IR-@V2rayAlpha-18",
             "config_data": "vless:\/\/e8b1500b-e9e8-5492-8312-f4eadf7d0767@57.129.64.102:443?security=tls&encryption=none&insecure=1&headerType=none&type=tcp&allowInsecure=1&flow=xtls-rprx-vision&sni=nasnet-5712964102-direct.sharghdaily.co#IR-@V2rayAlpha-18",
@@ -11817,6 +11825,6 @@
             "success_rate": "100.00"
         }
     ],
-    "total": 1477,
-    "exported_at": "2026-02-19 20:42:57"
+    "total": 1478,
+    "exported_at": "2026-02-19 20:51:50"
 }
