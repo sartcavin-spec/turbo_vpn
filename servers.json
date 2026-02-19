@@ -4873,14 +4873,6 @@
             "success_rate": "100.00"
         },
         {
-            "id": "2840453",
-            "name": "Telegram:@meowvip1 *228*",
-            "config_data": "vless:\/\/8dc7722c-2767-4eea-a28b-2f8daacc07e3@yesok42v2.ip4exordir.shop:8880?mode=gun&security=none&encryption=none&type=grpc#Telegram:@meowvip1*228*",
-            "protocol": "vless",
-            "ping_time": "1428",
-            "success_rate": "100.00"
-        },
-        {
             "id": "2457507",
             "name": "\ud83c\uddf0\ud83c\uddf7 \ud83d\udd25Join Telegram:@Farah_VPN\ud83d\udfe3",
             "config_data": "vless:\/\/d9a83363-40a6-4a21-9dbe-cb2b7d287048@afrcloud22.mmv.kr:443?encryption=none&security=tls&sni=afrcloud22.mmv.kr&insecure=0&allowInsecure=0&type=ws&host=afrcloud22.mmv.kr&path=%2F107.174.121.122%3D443#\ud83d\udd25Join+Telegram:@Farah_VPN\ud83d\udfe3",
@@ -10169,11 +10161,11 @@
             "success_rate": "100.00"
         },
         {
-            "id": "2476684",
-            "name": "\ud83c\udf10 Cloud",
-            "config_data": "vmess:\/\/ewogICAgImFkZCI6ICJ5aGoudGMxLmNjd3UuY2MiLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICJ5aGoudGMxLmNjd3UuY2MiLAogICAgImlkIjogIjE3OThiMTRiLWFlZTAtNDAwOC1iYTlhLTJlNTM4Nzc3NjFiNCIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi9rRks5TzVjbDhaeWN5cnhjSldOVkZDMjEiLAogICAgInBvcnQiOiA4MCwKICAgICJwcyI6ICLwn4+BUkVMQVktMTA0LjIxLjQwLjI1MC0wODU4IiwKICAgICJ0bHMiOiAiIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0=",
-            "protocol": "vmess",
-            "ping_time": "1854",
+            "id": "2880443",
+            "name": "Telegram:@meowvip1 *228*",
+            "config_data": "vless:\/\/8dc7722c-2767-4eea-a28b-2f8daacc07e3@yesok42v2.ip4exordir.shop:8880?mode=gun&security=none&encryption=none&type=grpc#Telegram:@meowvip1*228*",
+            "protocol": "vless",
+            "ping_time": "1851",
             "success_rate": "100.00"
         },
         {
@@ -10197,6 +10189,14 @@
             "name": "\ud83c\uddee\ud83c\uddf3 \ud83d\udd25Join Telegram:@Farah_VPN\ud83d\udfe3",
             "config_data": "vless:\/\/6202b230-417c-4d8e-b624-0f71afa9c75d@49.13.234.155:443?encryption=none&security=tls&sni=sni.111000.indevs.in&insecure=1&type=ws&host=sni.111000.indevs.in&path=\/?ed=2560&telegram\ud83c\udde8\ud83c\uddf3+@wangcai2#\ud83d\udd25Join+Telegram:@Farah_VPN\ud83d\udfe3",
             "protocol": "vless",
+            "ping_time": "1854",
+            "success_rate": "100.00"
+        },
+        {
+            "id": "2476684",
+            "name": "\ud83c\udf10 Cloud",
+            "config_data": "vmess:\/\/ewogICAgImFkZCI6ICJ5aGoudGMxLmNjd3UuY2MiLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICJ5aGoudGMxLmNjd3UuY2MiLAogICAgImlkIjogIjE3OThiMTRiLWFlZTAtNDAwOC1iYTlhLTJlNTM4Nzc3NjFiNCIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi9rRks5TzVjbDhaeWN5cnhjSldOVkZDMjEiLAogICAgInBvcnQiOiA4MCwKICAgICJwcyI6ICLwn4+BUkVMQVktMTA0LjIxLjQwLjI1MC0wODU4IiwKICAgICJ0bHMiOiAiIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0=",
+            "protocol": "vmess",
             "ping_time": "1854",
             "success_rate": "100.00"
         },
@@ -10582,6 +10582,14 @@
             "config_data": "vless:\/\/b4819c49-6c7e-4b57-9b9b-c73031e1de11@pq-albania1.09vpn.com:80?encryption=none&security=none&type=ws&path=%2Fvless%2F#%3E%3E%40DailyV2RY%3A%3AXX",
             "protocol": "vless",
             "ping_time": "1890",
+            "success_rate": "100.00"
+        },
+        {
+            "id": "2881249",
+            "name": "\ud83c\udf10 TCP-None \ud83d\udcc1 @v2ray_Extractor",
+            "config_data": "vless:\/\/98fb333c-3d84-4fa4-b1f7-1683b509f65a@91.99.218.107:36454?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-None%20%F0%9F%93%81%20%40v2ray_Extractor",
+            "protocol": "vless",
+            "ping_time": "1891",
             "success_rate": "100.00"
         },
         {
@@ -11777,6 +11785,6 @@
             "success_rate": "100.00"
         }
     ],
-    "total": 1472,
-    "exported_at": "2026-02-19 19:26:16"
+    "total": 1473,
+    "exported_at": "2026-02-19 19:46:07"
 }
