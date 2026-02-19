@@ -5233,6 +5233,14 @@
             "success_rate": "100.00"
         },
         {
+            "id": "2845499",
+            "name": "@chillguy_vpn",
+            "config_data": "vless:\/\/94a03e9a-74d5-4036-95e9-563cc19355de@144.31.4.36:443\/?type=tcp&encryption=none&flow=&security=tls&sni=plcdn13.suio.me&allowInsecure=1#@chillguy_vpn",
+            "protocol": "vless",
+            "ping_time": "1466",
+            "success_rate": "100.00"
+        },
+        {
             "id": "2318983",
             "name": "\ud83c\udf10 Cloud",
             "config_data": "vmess:\/\/eyJhZGQiOiAiMjA5LjEyNi44NC4xODkiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiMjA5LjEyNi44NC4xODkiLCAiaWQiOiAiMmM5ODExNjQtOWI5My00YmNhLTk0ZmYtYjc4ZDNmODQ5OGQ3IiwgImluc2VjdXJlIjogIjAiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL3ZtZXNzd3MiLCAicG9ydCI6ICI0NDMiLCAicHMiOiAiXHVkODNkXHVkZDI1Sm9pbitUZWxlZ3JhbTpARmFyYWhfVlBOXHVkODNkXHVkZmUzIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIi0tLSIsICJ2IjogIjIifQ==",
@@ -5485,6 +5493,14 @@
             "name": "\ud83c\udde8\ud83c\udde6 \ud83d\udd25Join Telegram:@Farah_VPN\ud83d\udfe3",
             "config_data": "vless:\/\/686c62d9-17a7-43c9-a40a-f6747df60a9f@104.18.185.26:2096?encryption=none&security=tls&sni=ca.adobe-connect.top&type=ws&host=ca.adobe-connect.top&path=\/#\ud83d\udd25Join+Telegram:@Farah_VPN\ud83d\udfe3",
             "protocol": "vless",
+            "ping_time": "1486",
+            "success_rate": "100.00"
+        },
+        {
+            "id": "2848152",
+            "name": "\ud83c\udf10 Cloud",
+            "config_data": "vmess:\/\/eyJhZGQiOiAiMTA0LjIxLjY5LjQ0IiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIm5hc25ldC01MTE5NTI0MjQubWNpdGVsLmNvIiwgImlkIjogIm5hc25ldCIsICJpbnNlY3VyZSI6ICIwIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9uYXNuZXQvY2RuIiwgInBvcnQiOiAiODA4MCIsICJwcyI6ICJcdWQ4M2RcdWRkMjVKb2luK1RlbGVncmFtOkBGYXJhaF9WUE5cdWQ4M2RcdWRmZTMiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiLS0tIiwgInYiOiAiMiJ9",
+            "protocol": "vmess",
             "ping_time": "1486",
             "success_rate": "100.00"
         },
@@ -5977,17 +5993,17 @@
             "success_rate": "100.00"
         },
         {
-            "id": "2116646",
-            "name": "\u26a1Telegram = @SOSkeyNET",
-            "config_data": "vless:\/\/e07c6a8b-f67d-4297-bc8f-31855eef57a8@www.speedtest.net:8443?allowInsecure=0&alpn=h2,http\/1.1&encryption=none&fp=chrome&insecure=0&path=\/&security=tls&sni=Tet.mehspeedtest.com&type=ws#\u26a1Telegram=@SOSkeyNET",
+            "id": "2472845",
+            "name": "\ud83c\uddee\ud83c\uddf3 \ud83d\udd25Join Telegram:@Farah_VPN\ud83d\udfe3",
+            "config_data": "vless:\/\/6202b230-417c-4d8e-b624-0f71afa9c75d@8.223.63.150:443?encryption=none&security=tls&sni=sni.111000.indevs.in&type=ws&host=sni.111000.indevs.in&path=\/?ed=2560&Telegram@WangCai2#\ud83d\udd25Join+Telegram:@Farah_VPN\ud83d\udfe3",
             "protocol": "vless",
             "ping_time": "1526",
             "success_rate": "100.00"
         },
         {
-            "id": "2472845",
-            "name": "\ud83c\uddee\ud83c\uddf3 \ud83d\udd25Join Telegram:@Farah_VPN\ud83d\udfe3",
-            "config_data": "vless:\/\/6202b230-417c-4d8e-b624-0f71afa9c75d@8.223.63.150:443?encryption=none&security=tls&sni=sni.111000.indevs.in&type=ws&host=sni.111000.indevs.in&path=\/?ed=2560&Telegram@WangCai2#\ud83d\udd25Join+Telegram:@Farah_VPN\ud83d\udfe3",
+            "id": "2116646",
+            "name": "\u26a1Telegram = @SOSkeyNET",
+            "config_data": "vless:\/\/e07c6a8b-f67d-4297-bc8f-31855eef57a8@www.speedtest.net:8443?allowInsecure=0&alpn=h2,http\/1.1&encryption=none&fp=chrome&insecure=0&path=\/&security=tls&sni=Tet.mehspeedtest.com&type=ws#\u26a1Telegram=@SOSkeyNET",
             "protocol": "vless",
             "ping_time": "1526",
             "success_rate": "100.00"
@@ -11401,6 +11417,6 @@
             "success_rate": "100.00"
         }
     ],
-    "total": 1425,
-    "exported_at": "2026-02-19 11:23:04"
+    "total": 1427,
+    "exported_at": "2026-02-19 11:30:05"
 }
