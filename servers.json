@@ -3633,6 +3633,14 @@
             "success_rate": "100.00"
         },
         {
+            "id": "2894326",
+            "name": "\ud83c\uddee\ud83c\uddf7 \ud83d\udd25Join Telegram:@Farah_VPN\ud83d\udfe3",
+            "config_data": "vless:\/\/e6c7ed63-89db-4ae1-a3f8-7a722921b3b2@162.159.36.20:443?path=%2FO1w0n3vYgFKYs7EzNAvLPvOp&security=tls&encryption=none&insecure=1&host=apii.onlineshoppingez.ir&type=ws&allowInsecure=1&sni=apii.onlineshoppingez.ir#\ud83d\udd25Join+Telegram:@Farah_VPN\ud83d\udfe3",
+            "protocol": "vless",
+            "ping_time": "1322",
+            "success_rate": "100.00"
+        },
+        {
             "id": "2056294",
             "name": "\ud83c\uddee\ud83c\uddf3 \ud83d\udd25Join Telegram:@Farah_VPN\ud83d\udfe3",
             "config_data": "vless:\/\/6202b230-417c-4d8e-b624-0f71afa9c75d@152.228.135.5:443?path=%2F%3Fed%3D2560%26Telegram%F0%9F%8E%96%40YamYamProxy&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&fp=chrome&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#\ud83d\udd25Join+Telegram:@Farah_VPN\ud83d\udfe3",
@@ -8433,14 +8441,6 @@
             "success_rate": "100.00"
         },
         {
-            "id": "2731108",
-            "name": "\ud83c\uddee\ud83c\uddf7 \ud83d\udd25Join Telegram:@Farah_VPN\ud83d\udfe3",
-            "config_data": "vless:\/\/e6c7ed63-89db-4ae1-a3f8-7a722921b3b2@162.159.36.20:443?path=%2FO1w0n3vYgFKYs7EzNAvLPvOp&security=tls&encryption=none&insecure=1&host=apii.onlineshoppingez.ir&type=ws&allowInsecure=1&sni=apii.onlineshoppingez.ir#\ud83d\udd25Join+Telegram:@Farah_VPN\ud83d\udfe3",
-            "protocol": "vless",
-            "ping_time": "1722",
-            "success_rate": "100.00"
-        },
-        {
             "id": "2811813",
             "name": "\ud83c\udff3\ufe0f ShatakVPN 240822",
             "config_data": "vless:\/\/6202b230-417c-4d8e-b624-0f71afa9c75d@46.151.28.128:2053?type=ws&encryption=none&host=sni.111000.dynv6.net&path=\/?Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2=&ed=2560&eh=Sec-WebSocket-Protocol&security=tls&sni=sni.111000.dynv6.net&allowInsecure=1#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20240822",
@@ -11594,5 +11594,5 @@
         }
     ],
     "total": 1449,
-    "exported_at": "2026-02-19 17:13:12"
+    "exported_at": "2026-02-19 17:31:46"
 }
