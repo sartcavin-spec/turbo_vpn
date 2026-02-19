@@ -7193,6 +7193,22 @@
             "success_rate": "100.00"
         },
         {
+            "id": "2839420",
+            "name": "\ud83d\udc26\u200d\ud83d\udd25-@SPEEDS_VPN",
+            "config_data": "vless:\/\/6202b230-417c-4d8e-b624-0f71afa9c75d@57.129.63.154:2053?path=\/?ed=2560&Telegram&security=tls&encryption=none&insecure=0&host=sni.111000.dynv6.net&fp=chrome&type=ws&allowInsecure=0&sni=sni.111000.dynv6.net#\ud83d\udc26\u200d\ud83d\udd25-@SPEEDS_VPN",
+            "protocol": "vless",
+            "ping_time": "1621",
+            "success_rate": "100.00"
+        },
+        {
+            "id": "2849352",
+            "name": "\ud83c\udf10 Cloud",
+            "config_data": "vmess:\/\/eyJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkZDI1Sm9pbitUZWxlZ3JhbTpARmFyYWhfVlBOXHVkODNkXHVkZmUzIiwgImFkZCI6ICI4Mi4xOTguMjQ2Ljk3IiwgInBvcnQiOiAiMTgwIiwgInR5cGUiOiAibm9uZSIsICJpZCI6ICJkMTNmYzJmNS0zZTA1LTQ3OTUtODFlYi00NDE0M2EwOWU1NTIiLCAiYWlkIjogIjAiLCAibmV0IjogInRjcCIsICJwYXRoIjogIi9Sa1VVYnFoQTlHSlpCUk9qTDNRNXZUeW1yIiwgImhvc3QiOiAiZERkRmZHVEhZVS45MjI5MjIuU0hPUCIsICJ0bHMiOiAiIn0=",
+            "protocol": "vmess",
+            "ping_time": "1622",
+            "success_rate": "100.00"
+        },
+        {
             "id": "2200792",
             "name": "\ud83c\uddee\ud83c\uddf3 @@V2rayng_Fast - [\ud83c\uddfa\ud83c\uddf2]\u20228",
             "config_data": "vless:\/\/6202b230-417c-4d8e-b624-0f71afa9c75d@199.119.137.95:2053?path=\/?ed&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#@@V2rayng_Fast-[\ud83c\uddfa\ud83c\uddf2]\u20228",
@@ -11385,6 +11401,6 @@
             "success_rate": "100.00"
         }
     ],
-    "total": 1423,
-    "exported_at": "2026-02-19 10:53:01"
+    "total": 1425,
+    "exported_at": "2026-02-19 11:23:04"
 }
