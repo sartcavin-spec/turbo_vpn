@@ -5713,6 +5713,14 @@
             "success_rate": "100.00"
         },
         {
+            "id": "2875773",
+            "name": "\ud83c\uddeb\ud83c\uddee \u26a1Telegram = @SOSkeyNET",
+            "config_data": "vless:\/\/472b07d2-31e4-41ab-ae47-48914d9b7900@45.130.125.160:443?path=\/Net3rffws&security=tls&encryption=none&insecure=0&host=fi.unoix.io&fp=chrome&type=ws&allowInsecure=0&sni=fi.unoix.io#\u26a1Telegram=@SOSkeyNET",
+            "protocol": "vless",
+            "ping_time": "1502",
+            "success_rate": "100.00"
+        },
+        {
             "id": "2198666",
             "name": "\ud83d\udd25Join Telegram:@Farah_VPN\ud83d\udfe3",
             "config_data": "vless:\/\/6202b230-417c-4d8e-b624-0f71afa9c75d@92.53.191.238:2096?path=\/?ed=2560&\/Join-V2rayTun0-Join-V2rayTun0-Join-V2rayTun0-Join-V2rayTun0-Join-V2rayTun0-Join-V2rayTun0-Join-V2rayTun0-Join-V2rayTun0-&security=tls&encryption=none&insecure=0&host=sni.jpmj.dev&type=ws&allowInsecure=0&sni=sni.jpmj.dev#\ud83d\udd25Join+Telegram:@Farah_VPN\ud83d\udfe3",
@@ -11825,6 +11833,6 @@
             "success_rate": "100.00"
         }
     ],
-    "total": 1478,
-    "exported_at": "2026-02-19 21:18:58"
+    "total": 1479,
+    "exported_at": "2026-02-19 21:51:57"
 }
