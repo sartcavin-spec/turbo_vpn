@@ -11265,6 +11265,14 @@
             "success_rate": "100.00"
         },
         {
+            "id": "2946154",
+            "name": "\ud83c\uddee\ud83c\uddf3 \ud83d\udee1 V 64 @Outline_Vpn",
+            "config_data": "vless:\/\/6202b230-417c-4d8e-b624-0f71afa9c75d@159.223.24.65:443?path=\/?ed=2560&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#\ud83d\udee1V64@Outline_Vpn",
+            "protocol": "vless",
+            "ping_time": "1942",
+            "success_rate": "100.00"
+        },
+        {
             "id": "2689408",
             "name": "\ud83c\uddfa\ud83c\udde6 ShatakVPN 130111",
             "config_data": "vless:\/\/6202b230-417c-4d8e-b624-0f71afa9c75d@89.116.180.238:2096?path=\/?ed=2560&telegram\ud83c\udde8\ud83c\uddf3+@wangcai2&security=tls&encryption=none&insecure=1&host=sni.jpmj.dev&type=ws&allowInsecure=1&sni=sni.jpmj.dev#%F0%9F%87%BA%F0%9F%87%A6%20ShatakVPN%20130111",
@@ -11889,6 +11897,6 @@
             "success_rate": "100.00"
         }
     ],
-    "total": 1486,
-    "exported_at": "2026-02-20 05:41:24"
+    "total": 1487,
+    "exported_at": "2026-02-20 06:35:45"
 }
