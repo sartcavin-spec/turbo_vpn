@@ -2401,6 +2401,14 @@
             "success_rate": "100.00"
         },
         {
+            "id": "2984027",
+            "name": "\ud83c\udf10 Cloud",
+            "config_data": "vmess:\/\/eyJhZGQiOiI4OS4zMS4xMjAuMTkyIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjQ0NTM3NTk1LTljY2MtNGI4My04OTM2LTVmOWFkMzIyOTAxOSIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNDQzIiwicHMiOiI+PkBvbmVjbGlja3ZwbmtleXM6OkFFOjpBRTo6QUU6OkFFOjpBRTo6QUU6OkFFOjpBRTo6QUU6OkFFOjpBRTo6QUU6OkFFOjpBRTo6QUU6OkFFOjpBRTo6QUU6OkFFOjpBRSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ",
+            "protocol": "vmess",
+            "ping_time": "1218",
+            "success_rate": "100.00"
+        },
+        {
             "id": "2214300",
             "name": "\ud83c\udff3\ufe0f ShatakVPN 867565",
             "config_data": "vless:\/\/094e66a9-8d92-41fe-85ad-8e7bf9b5fcaa@146.103.99.25:80?type=ws&encryption=none&path=\/getWorkerUpdates#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20867565",
@@ -12065,6 +12073,6 @@
             "success_rate": "100.00"
         }
     ],
-    "total": 1508,
-    "exported_at": "2026-02-20 10:51:59"
+    "total": 1509,
+    "exported_at": "2026-02-20 11:07:51"
 }
