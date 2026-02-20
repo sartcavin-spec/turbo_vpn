@@ -6385,6 +6385,14 @@
             "success_rate": "100.00"
         },
         {
+            "id": "2958869",
+            "name": "\ud83c\uddee\ud83c\uddf3 \u26a1 b2n.ir\/v2ray-configs | 892",
+            "config_data": "vless:\/\/6202b230-417c-4d8e-b624-0f71afa9c75d@154.194.12.138:2096?encryption=none&security=tls&sni=sni.111000.indevs.in&type=ws&host=sni.111000.indevs.in&path=%2f%3fed%3d2560%26telegram%f0%9f%87%a8%f0%9f%87%b3+%40wangcai2#\u26a1b2n.ir\/v2ray-configs|892",
+            "protocol": "vless",
+            "ping_time": "1545",
+            "success_rate": "100.00"
+        },
+        {
             "id": "2213235",
             "name": "@ConfigV2RayNG \ud83c\udf47",
             "config_data": "vless:\/\/e07c6a8b-f67d-4297-bc8f-31855eef57a8@www.speedtest.net:8443?path=\/&security=tls&alpn=h2,http\/1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=Tet.mehspeedtest.com#@ConfigV2RayNG\ud83c\udf47",
@@ -9929,6 +9937,14 @@
             "success_rate": "100.00"
         },
         {
+            "id": "2942021",
+            "name": "\ud83c\uddee\ud83c\uddf7 \u267e\ufe0f\ud835\udddd\ud835\uddfc\ud835\uddf6\ud835\uddfb\u27a0\ud83c\udd94\ufe0f@ATLAS_V2VPN\ud83c\udd93\ufe0f\ud83d\udedc\ud83d\udd37\ufe0f318\ud83c\udf10\ud83c\udd95\ufe0f",
+            "config_data": "vless:\/\/260f19e2-41c2-4f0c-870f-ab7e28e72ef6@ip.shakhle.ir:2083?path=\/&security=tls&encryption=none&insecure=0&host=ipv4.yasharteam.com&fp=chrome&type=ws&allowInsecure=0&sni=ipv4.yasharteam.com#\u267e\ufe0f\ud835\udddd\ud835\uddfc\ud835\uddf6\ud835\uddfb\u27a0\ud83c\udd94\ufe0f@ATLAS_V2VPN\ud83c\udd93\ufe0f\ud83d\udedc\ud83d\udd37\ufe0f318\ud83c\udf10\ud83c\udd95\ufe0f",
+            "protocol": "vless",
+            "ping_time": "1824",
+            "success_rate": "100.00"
+        },
+        {
             "id": "2497050",
             "name": "\ud83c\udde8\ud83c\udde6 \ud83c\udde8\ud83c\udde6[Telegram:NetifyVPN]",
             "config_data": "vless:\/\/9c8bb1f3-c261-4c4a-a97c-e0778dfb2772@daily.asperwild.com:443?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&type=tcp&security=reality&sni=daily.asperwild.com&fp=chrome&pbk=hLlhnCZGMfjakOk2U1uDynwnqG0z4A8HSE4cu-lrrzo&sid=9a461d450ab387b5&spx=\/&flow=xtls-rprx-vision#\ud83c\udde8\ud83c\udde6[Telegram:NetifyVPN]",
@@ -11905,6 +11921,6 @@
             "success_rate": "100.00"
         }
     ],
-    "total": 1488,
-    "exported_at": "2026-02-20 07:35:08"
+    "total": 1490,
+    "exported_at": "2026-02-20 07:57:03"
 }
