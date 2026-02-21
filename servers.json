@@ -3633,6 +3633,14 @@
             "success_rate": "100.00"
         },
         {
+            "id": "3107512",
+            "name": "\ud83c\uddfa\ud83c\uddf8 ShatakVPN 328259",
+            "config_data": "vmess:\/\/eyJ2IjogIjIiLCAicHMiOiAi8J+HuvCfh7ggU2hhdGFrVlBOIDMyODI1OSIsICJhZGQiOiAiMTA0LjE4LjMyLjQ3IiwgInBvcnQiOiA4NDQzLCAiaWQiOiAiMTllNTJiZjQtMWI3ZC00YmQ0LWFlNjYtNmNhMDI0NDM2YzE3IiwgImFpZCI6ICIwIiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIi0tLSIsICJob3N0IjogIiIsICJwYXRoIjogIi9nYnQiLCAidGxzIjogInRscyIsICJzbmkiOiAiZnJzeXMuZmwtZGwuY29tIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJpbnNlY3VyZSI6ICIwIiwgIm5hbWUiOiAiPj5ARGFpbHlWMlJZOjpGUiJ9#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20328259",
+            "protocol": "vmess",
+            "ping_time": "1339",
+            "success_rate": "100.00"
+        },
+        {
             "id": "2903183",
             "name": "\ud83d\udd25Join Telegram:@Farah_VPN\ud83d\udfe3",
             "config_data": "vless:\/\/8dc7722c-2767-4eea-a28b-2f8daacc07e3@45.82.251.208:8880?security=none&allowInsecure=0&encryption=none&type=grpc#\ud83d\udd25Join+Telegram:@Farah_VPN\ud83d\udfe3",
@@ -8489,6 +8497,14 @@
             "success_rate": "100.00"
         },
         {
+            "id": "3120296",
+            "name": "\ud83c\udff3\ufe0f ShatakVPN 986920",
+            "config_data": "vless:\/\/22470ee7-74b2-4b23-b164-bc87930d7e96@91.107.253.99:33133?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20986920",
+            "protocol": "vless",
+            "ping_time": "1788",
+            "success_rate": "100.00"
+        },
+        {
             "id": "2576111",
             "name": "\ud83d\udd25Join Telegram:@Farah_VPN\ud83d\udfe3",
             "config_data": "vless:\/\/6202b230-417c-4d8e-b624-0f71afa9c75d@91.84.103.10:8443\/?type=ws&encryption=none&flow=&host=sni.111000.dynv6.net&path=%2F%3FTelegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%2B%2540WangCai2%3D&ed=2560&eh=Sec-WebSocket-Protocol&security=tls&sni=sni.111000.dynv6.net&allowInsecure=1#\ud83d\udd25Join+Telegram:@Farah_VPN\ud83d\udfe3",
@@ -10713,6 +10729,6 @@
             "success_rate": "100.00"
         }
     ],
-    "total": 1339,
-    "exported_at": "2026-02-21 21:42:04"
+    "total": 1341,
+    "exported_at": "2026-02-21 21:46:07"
 }
