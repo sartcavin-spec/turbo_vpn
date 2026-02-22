@@ -4761,6 +4761,14 @@
             "success_rate": "100.00"
         },
         {
+            "id": "3235631",
+            "name": "@chillguy_vpn",
+            "config_data": "vless:\/\/f8ae018b-b84d-4c9b-b03b-4642c3a25977@104.20.1.252:2052?path=\/?ed&security=&encryption=none&host=exemplary-milkytsxqiqyso.sportland.company.&type=ws#@chillguy_vpn",
+            "protocol": "vless",
+            "ping_time": "1517",
+            "success_rate": "100.00"
+        },
+        {
             "id": "2597979",
             "name": "\ud83d\udd25Join Telegram:@Farah_VPN\ud83d\udfe3",
             "config_data": "vless:\/\/6202b230-417c-4d8e-b624-0f71afa9c75d@14.102.228.238:2096?path=@vpnazadie@vpnazadie&security=tls&encryption=none&insecure=0&host=sni.jpmj.dev&type=ws&allowInsecure=0&sni=sni.jpmj.dev#\ud83d\udd25Join+Telegram:@Farah_VPN\ud83d\udfe3",
@@ -9273,6 +9281,6 @@
             "success_rate": "100.00"
         }
     ],
-    "total": 1159,
-    "exported_at": "2026-02-22 16:50:58"
+    "total": 1160,
+    "exported_at": "2026-02-22 16:58:52"
 }
